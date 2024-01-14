@@ -40,7 +40,7 @@ def main():
 
     generator.save(args.save_path)
 
-    return args.save_path
+    return 0
 
 
 if __name__ == "__main__":
