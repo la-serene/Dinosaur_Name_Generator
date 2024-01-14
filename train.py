@@ -15,7 +15,7 @@ def get_args():
     parser.add_argument('--pretrain_epochs', type=int, default=40)
     parser.add_argument('--batch_size', type=int, default=64)
     parser.add_argument('--learning_rate', type=float, default=0.001)
-    parser.add_argument('--save_path', type=str, default="./weight/checkpoint.keras")
+    parser.add_argument('--save_path', type=str, default="./weight/model_v1.keras")
 
     return parser.parse_args()
 
