@@ -14,3 +14,13 @@ chars_from_ids = layers.StringLookup(
 
 def text_from_ids(ids):
     return tf.strings.reduce_join(chars_from_ids(ids), axis=-1)
+
+
+def extract_name(result):
+    name = result[0]
+    result = result[1:]
+
+    for i in result:
+        name += i
+
+    return name
