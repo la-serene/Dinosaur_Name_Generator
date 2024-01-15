@@ -1,5 +1,5 @@
 import argparse
-
+import tensorflow as tf
 from model import Generator
 from utils import *
 from data_loading import *
