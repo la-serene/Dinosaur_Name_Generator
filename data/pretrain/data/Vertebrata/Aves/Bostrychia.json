@@ -1,0 +1,239 @@
+[
+  {
+    "scientific_name": "Bostrychia rara",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ibis kropenatý"
+      },
+      {
+        "lang": "tr",
+        "name": "Benek göğüslü aynak"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bostrychia olivacea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ibis menší"
+      },
+      {
+        "lang": "tr",
+        "name": "Zeytuni aynak"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bostrychia hagedash",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Hadeda"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو منجل الحدادة"
+      },
+      {
+        "lang": "ast",
+        "name": "Ibis hadada"
+      },
+      {
+        "lang": "be",
+        "name": "Хагедаш"
+      },
+      {
+        "lang": "br",
+        "name": "Ibiz hadeda"
+      },
+      {
+        "lang": "ca",
+        "name": "Ibis hadadà"
+      },
+      {
+        "lang": "cs",
+        "name": "Ibis hagedaš"
+      },
+      {
+        "lang": "cy",
+        "name": "Ibis hadada"
+      },
+      {
+        "lang": "de",
+        "name": "Hagedasch"
+      },
+      {
+        "lang": "en",
+        "name": "Hadada Ibis"
+      },
+      {
+        "lang": "eo",
+        "name": "Mustaĉibiso"
+      },
+      {
+        "lang": "es",
+        "name": "Ibis hadada"
+      },
+      {
+        "lang": "fa",
+        "name": "اکراس هادادا"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibis hagedash"
+      },
+      {
+        "lang": "he",
+        "name": "מגלן הסוואנה"
+      },
+      {
+        "lang": "hu",
+        "name": "Hadadaíbisz"
+      },
+      {
+        "lang": "it",
+        "name": "Ibis hadada"
+      },
+      {
+        "lang": "ja",
+        "name": "ハダダトキ"
+      },
+      {
+        "lang": "ko",
+        "name": "하다다따오기"
+      },
+      {
+        "lang": "mrj",
+        "name": "Хагедаш"
+      },
+      {
+        "lang": "nl",
+        "name": "Hadada-ibis"
+      },
+      {
+        "lang": "pl",
+        "name": "Ibis białowąsy"
+      },
+      {
+        "lang": "pnb",
+        "name": "حدادہ آئیبیس"
+      },
+      {
+        "lang": "ru",
+        "name": "Хагедаш"
+      },
+      {
+        "lang": "sv",
+        "name": "Hadadaibis"
+      },
+      {
+        "lang": "tr",
+        "name": "Hadada aynağı"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò quăm Hadada"
+      },
+      {
+        "lang": "zh",
+        "name": "鳳頭䴉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bostrychia carunculata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ibis etiopský"
+      },
+      {
+        "lang": "en",
+        "name": "Wattled ibis"
+      },
+      {
+        "lang": "tr",
+        "name": "Püsküllü aynak"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bostrychia bocagei",
+    "common_names": [
+      {
+        "lang": "tr",
+        "name": "Bodur zeytuni aynak"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو منجل الزيتوني القزم"
+      },
+      {
+        "lang": "ca",
+        "name": "Ibis nan"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergolivenibis"
+      },
+      {
+        "lang": "en",
+        "name": "São Tomé ibis"
+      },
+      {
+        "lang": "eo",
+        "name": "Santomea ibiso"
+      },
+      {
+        "lang": "fa",
+        "name": "اکراس سائوتومه"
+      },
+      {
+        "lang": "fi",
+        "name": "Sãotoméniibis"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibis de Sao Tomé"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpeíbisz"
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinis žaliasis ibis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сан-Томе ибис"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine olijfgroene ibis"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiidaashiyishí binákʼee halzhinígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "ساؤ ٹوم آئیبیس"
+      },
+      {
+        "lang": "sv",
+        "name": "sãotoméibis"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò quăm São Tomé"
+      },
+      {
+        "lang": "zh",
+        "name": "侏橄欖綠鹮"
+      }
+    ]
+  }
+]

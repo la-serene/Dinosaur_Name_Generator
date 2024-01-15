@@ -1,0 +1,39 @@
+[
+  {
+    "scientific_name": "Ammotragus lervia",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ضأن بربري"
+      },
+      {
+        "lang": "cs",
+        "name": "Paovce hřivnatá"
+      },
+      {
+        "lang": "en",
+        "name": "Barbary Sheep"
+      },
+      {
+        "lang": "hu",
+        "name": "Sörényes juh"
+      },
+      {
+        "lang": "it",
+        "name": "Ammotrago"
+      },
+      {
+        "lang": "th",
+        "name": "แกะบาร์บารี"
+      },
+      {
+        "lang": "ko",
+        "name": "바버리양"
+      },
+      {
+        "lang": "tr",
+        "name": "Berberi koyunu"
+      }
+    ]
+  }
+]

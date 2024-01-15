@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Lasiorhinus latifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Hairy-nosed Wombat"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli szőrösorrú vombat"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミケバナウォンバット"
+      },
+      {
+        "lang": "pl",
+        "name": "Wombat szerokogłowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lasiorhinus krefftii",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Északi szőrösorrú vombat"
+      },
+      {
+        "lang": "ja",
+        "name": "キタケバナウォンバット"
+      }
+    ]
+  }
+]

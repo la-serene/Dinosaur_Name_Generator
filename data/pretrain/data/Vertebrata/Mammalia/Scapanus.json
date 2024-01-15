@@ -1,0 +1,47 @@
+[
+  {
+    "scientific_name": "Scapanus townsendii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Townsend's Mole"
+      },
+      {
+        "lang": "hu",
+        "name": "Townsend-vakond"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scapanus orarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coast Mole",
+        "synonyms": [
+          "Pacific Mole"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Parti vakond"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scapanus latimanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Broad-footed Mole",
+        "synonyms": [
+          "California Mole"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Széleslábú vakond"
+      }
+    ]
+  }
+]

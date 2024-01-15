@@ -1,0 +1,128 @@
+[
+  {
+    "scientific_name": "Macropus titan",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus thor",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus rufus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus rufogriseus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus robustus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus parryi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus parma",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus pan",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus irma",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus greyi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus giganteus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Klokan obrovský"
+      },
+      {
+        "lang": "en",
+        "name": "Eastern Grey Kangaroo"
+      },
+      {
+        "lang": "fr",
+        "name": "Kangourou géant"
+      },
+      {
+        "lang": "it",
+        "name": "Canguro gigante"
+      },
+      {
+        "lang": "ja",
+        "name": "オオカンガルー"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur olbrzymi"
+      },
+      {
+        "lang": "pt",
+        "name": "Canguru-gigante"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu boz kangurusu"
+      },
+      {
+        "lang": "ko",
+        "name": "큰캥거루"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus fuliginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Grey Kangaroo"
+      },
+      {
+        "lang": "fr",
+        "name": "Kangourou gris"
+      },
+      {
+        "lang": "ja",
+        "name": "クロカンガルー"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur szary"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus eugenii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus dryas",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus dorsalis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus bernardus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus antilopinus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Macropus agilis",
+    "common_names": []
+  }
+]

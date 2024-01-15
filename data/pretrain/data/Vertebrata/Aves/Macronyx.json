@@ -1,0 +1,106 @@
+[
+  {
+    "scientific_name": "Macronyx sharpei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sharpe's Longclaw"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn hirewin Sharpe"
+      },
+      {
+        "lang": "eo",
+        "name": "Ŝarpea makronikso"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorikeltakirvinen"
+      },
+      {
+        "lang": "hu",
+        "name": "Citrompityer"
+      },
+      {
+        "lang": "nl",
+        "name": "Citroenpieper"
+      },
+      {
+        "lang": "nv",
+        "name": "Tseeyidiłtazii bitéél łitsooígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "kikuyupiplärka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx grimwoodi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grimwood's Longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx fuellebornii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fuelleborn's Longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx flavicollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Abyssinian longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx croceus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx capensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape Longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx aurantiigula",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pangani Longclaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macronyx ameliae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rosy-throated Longclaw"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruusuvästäräkki"
+      }
+    ]
+  }
+]

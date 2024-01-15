@@ -1,0 +1,267 @@
+[
+  {
+    "scientific_name": "Caracal issiodorensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Caracal depereti",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Caracal caracal",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooikat"
+      },
+      {
+        "lang": "ar",
+        "name": "عناق الأرض"
+      },
+      {
+        "lang": "be",
+        "name": "Каракал"
+      },
+      {
+        "lang": "br",
+        "name": "Karakal"
+      },
+      {
+        "lang": "bg",
+        "name": "Каракал"
+      },
+      {
+        "lang": "ca",
+        "name": "Caracal"
+      },
+      {
+        "lang": "cs",
+        "name": "Karakal"
+      },
+      {
+        "lang": "cu",
+        "name": "Каракалъ"
+      },
+      {
+        "lang": "da",
+        "name": "Karakal"
+      },
+      {
+        "lang": "de",
+        "name": "Karakal",
+        "synonyms": [
+          "Wüstenluchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Caracal",
+        "synonyms": [
+          "desert lynx"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Caracal o Lince caracal"
+      },
+      {
+        "lang": "et",
+        "name": "Karakal"
+      },
+      {
+        "lang": "eo",
+        "name": "Karakalo"
+      },
+      {
+        "lang": "fr",
+        "name": "Caracal"
+      },
+      {
+        "lang": "gu",
+        "name": "હેણોતરો"
+      },
+      {
+        "lang": "he",
+        "name": "קרקל"
+      },
+      {
+        "lang": "ko",
+        "name": "카라칼"
+      },
+      {
+        "lang": "th",
+        "name": "คาราคัล"
+      },
+      {
+        "lang": "lt",
+        "name": "Karakalas"
+      },
+      {
+        "lang": "hu",
+        "name": "Karakál"
+      },
+      {
+        "lang": "nl",
+        "name": "Caracal"
+      },
+      {
+        "lang": "ja",
+        "name": "カラカル"
+      },
+      {
+        "lang": "no",
+        "name": "Caracal"
+      },
+      {
+        "lang": "pl",
+        "name": "Karakal"
+      },
+      {
+        "lang": "pt",
+        "name": "Caracal"
+      },
+      {
+        "lang": "ru",
+        "name": "Каракал"
+      },
+      {
+        "lang": "sh",
+        "name": "Karakal",
+        "synonyms": [
+          "Каракал"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "Rys karakal"
+      },
+      {
+        "lang": "fi",
+        "name": "Aavikkoilves"
+      },
+      {
+        "lang": "sv",
+        "name": "Karakal",
+        "synonyms": [
+          "ökenlo"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Karakulak"
+      },
+      {
+        "lang": "zh",
+        "name": "獰貓"
+      },
+      {
+        "lang": "ta",
+        "name": "கறகால் பூனை"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Caracal aurata",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Залатая котка"
+      },
+      {
+        "lang": "bg",
+        "name": "Златна котка"
+      },
+      {
+        "lang": "br",
+        "name": "Kazh Alaouret Afrika"
+      },
+      {
+        "lang": "cs",
+        "name": "Kočka zlatá"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk guldkat"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanische Goldkatze"
+      },
+      {
+        "lang": "en",
+        "name": "African Golden Cat"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika ora kato"
+      },
+      {
+        "lang": "es",
+        "name": "Gato dorado africano"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikankultakissa"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat doré africain"
+      },
+      {
+        "lang": "hr",
+        "name": "Afrička zlatna mačka"
+      },
+      {
+        "lang": "it",
+        "name": "gatto dorato africano"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカゴールデンキャット"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse goudkat"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikagullkatt"
+      },
+      {
+        "lang": "pl",
+        "name": "kot złoty",
+        "synonyms": [
+          "złotokot afrykański",
+          "afrykański kot złocisty"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-dourado-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотая кошка"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk guldkatt"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika altın kedisi"
+      },
+      {
+        "lang": "zh",
+        "name": "非洲金貓"
+      },
+      {
+        "lang": "th",
+        "name": "เสือไฟแอฟริกา",
+        "synonyms": [
+          "แมวสีทองแอฟริกา"
+        ]
+      }
+    ]
+  }
+]

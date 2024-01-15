@@ -1,0 +1,313 @@
+[
+  {
+    "scientific_name": "Calcarius pictus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Smith's Longspur"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calcarius ornatus",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bras bronddu’r Gogledd"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbkehl-Spornammer"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-collared Longspur"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunnuka emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano collarejo"
+      },
+      {
+        "lang": "fa",
+        "name": "پنجه‌بلند طوق‌بلوطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Plectrophane à ventre noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketebegyű sarkantyússármány"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo ornato"
+      },
+      {
+        "lang": "ja",
+        "name": "アカエリツメナガホオジロ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodhalsgors"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiiłbáhí késhgaaní bitsiiyah halchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktlappsparv"
+      },
+      {
+        "lang": "uk",
+        "name": "Подорожник чорногрудий"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calcarius lapponicus",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Escribana Lapona"
+      },
+      {
+        "lang": "ba",
+        "name": "Юл турғайы"
+      },
+      {
+        "lang": "be",
+        "name": "Снежны падарожнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Лапландска овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean an toundra"
+      },
+      {
+        "lang": "ca",
+        "name": "Repicatalons de Lapònia"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad severní"
+      },
+      {
+        "lang": "cy",
+        "name": "Bras y Gogledd"
+      },
+      {
+        "lang": "da",
+        "name": "Lapværling"
+      },
+      {
+        "lang": "de",
+        "name": "Spornammer"
+      },
+      {
+        "lang": "en",
+        "name": "Lapland Bunting"
+      },
+      {
+        "lang": "en-us",
+        "name": "Lapland Longspur"
+      },
+      {
+        "lang": "eo",
+        "name": "Laponemberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano lapón"
+      },
+      {
+        "lang": "et",
+        "name": "Lapi tsiitsitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar-berdantza"
+      },
+      {
+        "lang": "fa",
+        "name": "پنجه‌بلند لاپلند"
+      },
+      {
+        "lang": "fi",
+        "name": "Lapinsirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Fjallasnjófuglur"
+      },
+      {
+        "lang": "fr",
+        "name": "Plectrophane lapon"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisfink"
+      },
+      {
+        "lang": "ga",
+        "name": "Gealóg Laplannach"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta lapona"
+      },
+      {
+        "lang": "gv",
+        "name": "Pompee loghlinagh"
+      },
+      {
+        "lang": "he",
+        "name": "גיבתון לפלנד"
+      },
+      {
+        "lang": "hr",
+        "name": "Laponska strnadica"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarkantyús sármány"
+      },
+      {
+        "lang": "ik",
+        "name": "Qupałuk"
+      },
+      {
+        "lang": "is",
+        "name": "Sportittlingur"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo di Lapponia"
+      },
+      {
+        "lang": "iu",
+        "name": "Kowlegak"
+      },
+      {
+        "lang": "ja",
+        "name": "ツメナガホオジロ"
+      },
+      {
+        "lang": "ka",
+        "name": "ლაპლანდიური მეგზია"
+      },
+      {
+        "lang": "kk",
+        "name": "Жолторғай"
+      },
+      {
+        "lang": "kl",
+        "name": "Narsarmiutaq"
+      },
+      {
+        "lang": "ko",
+        "name": "긴발톱멧새"
+      },
+      {
+        "lang": "lt",
+        "name": "Pentinuotoji starta"
+      },
+      {
+        "lang": "lv",
+        "name": "Lapzemes stērste"
+      },
+      {
+        "lang": "mdf",
+        "name": "Тундрань цифтаз"
+      },
+      {
+        "lang": "mn",
+        "name": "Лапланд буулгатхөмрөг"
+      },
+      {
+        "lang": "mt",
+        "name": "Durrajsa tan-Nord"
+      },
+      {
+        "lang": "nl",
+        "name": "IJsgors"
+      },
+      {
+        "lang": "nn",
+        "name": "Lappsporv"
+      },
+      {
+        "lang": "no",
+        "name": "Lappspurv"
+      },
+      {
+        "lang": "nv",
+        "name": "Náhookǫs biyaadę́ę́ʼ tsídiiłbáhí késhgaaní"
+      },
+      {
+        "lang": "pl",
+        "name": "Poświerka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-da-lapónia"
+      },
+      {
+        "lang": "rm",
+        "name": "Marena dal nord"
+      },
+      {
+        "lang": "ru",
+        "name": "Лапландский подорожник"
+      },
+      {
+        "lang": "sah",
+        "name": "Быртакыыс"
+      },
+      {
+        "lang": "se",
+        "name": "Cizopaš"
+      },
+      {
+        "lang": "sk",
+        "name": "Ostrohárka severská"
+      },
+      {
+        "lang": "sl",
+        "name": "Ostroglež"
+      },
+      {
+        "lang": "sr",
+        "name": "Laponska strnadica"
+      },
+      {
+        "lang": "sv",
+        "name": "Lappsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Mahmuzlu çinte"
+      },
+      {
+        "lang": "tyv",
+        "name": "Орук сулажызы"
+      },
+      {
+        "lang": "uk",
+        "name": "Подорожник лапландський"
+      },
+      {
+        "lang": "zh",
+        "name": "铁爪鹀"
+      }
+    ]
+  }
+]

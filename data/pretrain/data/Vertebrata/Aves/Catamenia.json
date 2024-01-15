@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Catamenia inornata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plain-coloured Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero sencillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Catamenia homochroa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Paramo seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero paramero"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Patativa-da-amazonia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Catamenia analis",
+    "common_names": []
+  }
+]

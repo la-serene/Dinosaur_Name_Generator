@@ -1,0 +1,100 @@
+[
+  {
+    "scientific_name": "Serpophaga subcristata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-crested tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito tiquitiqui"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Serpophaga nigricans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito gris"
+      },
+      {
+        "lang": "pt",
+        "name": "João-pobre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Serpophaga munda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito ventriblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho-de-barriga-branca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Serpophaga hypoleuca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "River tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito ribereño"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho-do-rio"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Serpophaga griseicapilla",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Straneck's Tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito de Straneck o piojito trinador"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho-trinador"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Serpophaga cinerea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Torrent Tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito guardarríos"
+      }
+    ]
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "scientific_name": "Oryctolagus cuniculus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Konyn"
+      },
+      {
+        "lang": "ak",
+        "name": "Adanko"
+      },
+      {
+        "lang": "ang",
+        "name": "Coning"
+      },
+      {
+        "lang": "ar",
+        "name": "أرنب أوروبي"
+      },
+      {
+        "lang": "arz",
+        "name": "ارنب اوروبى"
+      },
+      {
+        "lang": "atj",
+        "name": "Micta Wapoc"
+      },
+      {
+        "lang": "az",
+        "name": "Avropa adadovşanı"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡырағай ҡуян"
+      },
+      {
+        "lang": "bar",
+        "name": "Wüd-Kaniggé"
+      },
+      {
+        "lang": "bg",
+        "name": "Заек подземник"
+      },
+      {
+        "lang": "br",
+        "name": "Konikl"
+      },
+      {
+        "lang": "ca",
+        "name": "Conill de bosc"
+      },
+      {
+        "lang": "cs",
+        "name": "Králík divoký"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwningen Ewropeaidd"
+      },
+      {
+        "lang": "da",
+        "name": "Vildkanin"
+      },
+      {
+        "lang": "de",
+        "name": "Wildkaninchen"
+      },
+      {
+        "lang": "dsb",
+        "name": "Źiwy karnikel"
+      },
+      {
+        "lang": "eml",
+        "name": "Cunèṅ"
+      },
+      {
+        "lang": "en",
+        "name": "European Rabbit"
+      },
+      {
+        "lang": "es",
+        "name": "Conejo"
+      },
+      {
+        "lang": "et",
+        "name": "Küülik"
+      },
+      {
+        "lang": "eu",
+        "name": "Etxe-untxi"
+      },
+      {
+        "lang": "fa",
+        "name": "خرگوش اروپایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaniini"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Kodojänes"
+      },
+      {
+        "lang": "fo",
+        "name": "Kanin"
+      },
+      {
+        "lang": "fr",
+        "name": "Lapin"
+      },
+      {
+        "lang": "frp",
+        "name": "Counél"
+      },
+      {
+        "lang": "frr",
+        "name": "Kanin"
+      },
+      {
+        "lang": "fy",
+        "name": "Wylde knyn"
+      },
+      {
+        "lang": "gl",
+        "name": "Coello"
+      },
+      {
+        "lang": "gn",
+        "name": "Europa apere'arusu"
+      },
+      {
+        "lang": "he",
+        "name": "ארנבון מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Patuljasti kunić"
+      },
+      {
+        "lang": "hsb",
+        "name": "Dźiwi nukl"
+      },
+      {
+        "lang": "hu",
+        "name": "Üregi nyúl"
+      },
+      {
+        "lang": "hy",
+        "name": "Վայրի ճագար"
+      },
+      {
+        "lang": "ik",
+        "name": "Ukalliq"
+      },
+      {
+        "lang": "is",
+        "name": "Kanína"
+      },
+      {
+        "lang": "it",
+        "name": "Coniglio"
+      },
+      {
+        "lang": "ja",
+        "name": "アナウサギ"
+      },
+      {
+        "lang": "ka",
+        "name": "ბოცვერი"
+      },
+      {
+        "lang": "kab",
+        "name": "Awtil"
+      },
+      {
+        "lang": "kk",
+        "name": "Інқоян"
+      },
+      {
+        "lang": "ko",
+        "name": "굴토끼"
+      },
+      {
+        "lang": "kw",
+        "name": "Konin"
+      },
+      {
+        "lang": "li",
+        "name": "Europese knien"
+      },
+      {
+        "lang": "lij",
+        "name": "Coniggio"
+      },
+      {
+        "lang": "lt",
+        "name": "Laukinis triušis"
+      },
+      {
+        "lang": "lv",
+        "name": "Trusis"
+      },
+      {
+        "lang": "mg",
+        "name": "Bitro mahazatra"
+      },
+      {
+        "lang": "mk",
+        "name": "Зајак дупкар"
+      },
+      {
+        "lang": "ml",
+        "name": "യൂറോപ്യൻ മുയൽ"
+      },
+      {
+        "lang": "ms",
+        "name": "Arnab Eropah"
+      },
+      {
+        "lang": "mt",
+        "name": "Fenek Ewropew"
+      },
+      {
+        "lang": "mwl",
+        "name": "Coneilho"
+      },
+      {
+        "lang": "nah",
+        "name": "Tochtli"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Kniende"
+      },
+      {
+        "lang": "nl",
+        "name": "Wild Konijn"
+      },
+      {
+        "lang": "nn",
+        "name": "Kanin"
+      },
+      {
+        "lang": "no",
+        "name": "Kanin"
+      },
+      {
+        "lang": "olo",
+        "name": "Krolikku"
+      },
+      {
+        "lang": "pl",
+        "name": "Królik europejski"
+      },
+      {
+        "lang": "pnb",
+        "name": "یورپی خرگوش"
+      },
+      {
+        "lang": "pt",
+        "name": "Coelho-europeu"
+      },
+      {
+        "lang": "ro",
+        "name": "Iepure de vizuină"
+      },
+      {
+        "lang": "ru",
+        "name": "Дикий кролик"
+      },
+      {
+        "lang": "rw",
+        "name": "Urukwavu"
+      },
+      {
+        "lang": "sc",
+        "name": "Conigliu"
+      },
+      {
+        "lang": "sh",
+        "name": "Patuljasti kunić"
+      },
+      {
+        "lang": "smn",
+        "name": "Kani"
+      },
+      {
+        "lang": "sq",
+        "name": "Lepuri i gropës"
+      },
+      {
+        "lang": "sr",
+        "name": "Дивљи кунић"
+      },
+      {
+        "lang": "stq",
+        "name": "Kanienken"
+      },
+      {
+        "lang": "sv",
+        "name": "Europeisk kanin"
+      },
+      {
+        "lang": "sw",
+        "name": "Sungura wa Kizungu"
+      },
+      {
+        "lang": "th",
+        "name": "กระต่ายยุโรป"
+      },
+      {
+        "lang": "tl",
+        "name": "Kunehong Europeano"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa ada tavşanı"
+      },
+      {
+        "lang": "udm",
+        "name": "Покчи кеч"
+      },
+      {
+        "lang": "uk",
+        "name": "Кріль європейський"
+      },
+      {
+        "lang": "ur",
+        "name": "یورپی خرگوش"
+      },
+      {
+        "lang": "vec",
+        "name": "Conejo"
+      },
+      {
+        "lang": "vi",
+        "name": "Thỏ châu Âu"
+      },
+      {
+        "lang": "wa",
+        "name": "Såvaedje robete"
+      },
+      {
+        "lang": "wuu",
+        "name": "穴兔"
+      },
+      {
+        "lang": "zh",
+        "name": "穴兔"
+      }
+    ]
+  }
+]

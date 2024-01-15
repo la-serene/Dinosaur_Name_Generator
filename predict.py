@@ -15,7 +15,7 @@ def main():
 
     inputs = args.inputs
 
-    generator = tf.keras.models.load_model(args.save_path)
+    generator = tf.keras.models.load_weights(args.save_path)
     result = generator.predict(inputs)
 
     name = extract_name(result)

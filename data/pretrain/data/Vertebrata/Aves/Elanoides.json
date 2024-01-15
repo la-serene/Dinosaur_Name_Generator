@@ -1,0 +1,91 @@
+[
+  {
+    "scientific_name": "Elanoides forficatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Luňák vlaštovčí"
+      },
+      {
+        "lang": "da",
+        "name": "Svalehaleglente"
+      },
+      {
+        "lang": "de",
+        "name": "Schwalbenweih"
+      },
+      {
+        "lang": "en",
+        "name": "Swallow-tailed Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Hirundovosta milvo"
+      },
+      {
+        "lang": "es",
+        "name": "Elanio tijereta"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikansirohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Milan à queue fourchue"
+      },
+      {
+        "lang": "hu",
+        "name": "Fecskefarkú kánya"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio americano codadirondine"
+      },
+      {
+        "lang": "ja",
+        "name": "ツバメトビ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwaluwstaartwouw"
+      },
+      {
+        "lang": "no",
+        "name": "Svaleglente"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaskólak"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-tesoura"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Gavião-tesoura"
+      },
+      {
+        "lang": "ru",
+        "name": "Ласточковый коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "Koršun vidlochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Svalstjärtsglada"
+      },
+      {
+        "lang": "tr",
+        "name": "Kırlangıç kuyruklu çaylak"
+      },
+      {
+        "lang": "zh",
+        "name": "燕尾鸢"
+      }
+    ]
+  }
+]

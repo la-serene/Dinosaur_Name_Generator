@@ -1,0 +1,194 @@
+[
+  {
+    "scientific_name": "Leptoptilos javanicus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kleiner Adjutant",
+        "synonyms": [
+          "Sunda-Marabu"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Adjutant"
+      },
+      {
+        "lang": "fr",
+        "name": "Marabout chevelu"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai marabu"
+      },
+      {
+        "lang": "id",
+        "name": "Bangau Tongtong"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Botak"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse maraboe"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre adjutantstork"
+      },
+      {
+        "lang": "th",
+        "name": "นกตะกรุม}ta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leptoptilos dubius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Großer Adjutant",
+        "synonyms": [
+          "Argala-Marabu"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Greater Adjutant"
+      },
+      {
+        "lang": "ja",
+        "name": "オオハゲコウ"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو سعن الكبير"
+      },
+      {
+        "lang": "as",
+        "name": "হাড়গিলা"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям индийски щъркел"
+      },
+      {
+        "lang": "bh",
+        "name": "धेनुक"
+      },
+      {
+        "lang": "bn",
+        "name": "হাড়গিলা"
+      },
+      {
+        "lang": "br",
+        "name": "Marabou argala"
+      },
+      {
+        "lang": "ca",
+        "name": "Marabú caragroc"
+      },
+      {
+        "lang": "cs",
+        "name": "Marabu indický"
+      },
+      {
+        "lang": "cy",
+        "name": "Ciconia mawr India"
+      },
+      {
+        "lang": "da",
+        "name": "Adjudant (fugl)"
+      },
+      {
+        "lang": "eo",
+        "name": "Argala marabuo"
+      },
+      {
+        "lang": "fa",
+        "name": "استخوان‌خور بزرگ"
+      },
+      {
+        "lang": "fr",
+        "name": "Marabout argala"
+      },
+      {
+        "lang": "he",
+        "name": "מרבו ענק"
+      },
+      {
+        "lang": "hi",
+        "name": "धेनुक"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgafejű marabu"
+      },
+      {
+        "lang": "io",
+        "name": "Argalo"
+      },
+      {
+        "lang": "ko",
+        "name": "무수리 (새)"
+      },
+      {
+        "lang": "lt",
+        "name": "Indinis marabu"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ വയൽനായ്ക്കൻ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Botak Besar"
+      },
+      {
+        "lang": "ne",
+        "name": "राजगरुड"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische maraboe"
+      },
+      {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ tsídiidaanézí bikʼoszis hólónígíí"
+      },
+      {
+        "lang": "pa",
+        "name": "ਬਢੀਂਗ"
+      },
+      {
+        "lang": "pl",
+        "name": "Marabut indyjski"
+      },
+      {
+        "lang": "pnb",
+        "name": "بڈھینگ"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийский марабу"
+      },
+      {
+        "lang": "sv",
+        "name": "större adjutantstork"
+      },
+      {
+        "lang": "ta",
+        "name": "பெருநாரை"
+      },
+      {
+        "lang": "vi",
+        "name": "Già đẫy lớn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leptoptilos crumeniferus",
+    "common_names": []
+  }
+]

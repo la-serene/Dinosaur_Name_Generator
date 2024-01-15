@@ -1,0 +1,906 @@
+[
+  {
+    "scientific_name": "Puffinus elegans",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus boydi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus baroli",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus bailloni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus yelkouan",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga mediterrànea"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela mediterránea"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai mediterraneo"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela mediterránea"
+      },
+      {
+        "lang": "hu",
+        "name": "Bukdosó vészmadár"
+      },
+      {
+        "lang": "tr",
+        "name": "Yelkovan"
+      },
+      {
+        "lang": "ar",
+        "name": "جلم ماء البحر المتوسط"
+      },
+      {
+        "lang": "bg",
+        "name": "Средиземноморски буревестник"
+      },
+      {
+        "lang": "cs",
+        "name": "Buřňák středomořský"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Môr y Canoldir"
+      },
+      {
+        "lang": "de",
+        "name": "Mittelmeer-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Yelkouan shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Mediteranea pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی شام"
+      },
+      {
+        "lang": "fi",
+        "name": "Idänpikkuliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin yelkouan"
+      },
+      {
+        "lang": "he",
+        "name": "יסעור מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Gregula"
+      },
+      {
+        "lang": "mk",
+        "name": "Медитерански буравесник"
+      },
+      {
+        "lang": "nl",
+        "name": "Yelkouanpijlstormvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Middelhavslire"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk śródziemnomorski"
+      },
+      {
+        "lang": "ru",
+        "name": "Левантский буревестник"
+      },
+      {
+        "lang": "sv",
+        "name": "medelhavslira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus subalaris",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de les Galápagos"
+      },
+      {
+        "lang": "en",
+        "name": "Galápagos shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Galapaga pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de las Galápagos"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی گالاپاگوس"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin des Galapagos"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut galapagos"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagospijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "galápagoslira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus puffinus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Обикновен буревестник"
+      },
+      {
+        "lang": "br",
+        "name": "Tort boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga pufí"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn-Drycin Manaw"
+      },
+      {
+        "lang": "da",
+        "name": "Almindelig skråpe"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzschnabel-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Manx Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Nordmara pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela pichoneta"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuliitäjä"
+      },
+      {
+        "lang": "fo",
+        "name": "Skrápur"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin des Anglais"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela furabuchos"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali zovoj"
+      },
+      {
+        "lang": "hu",
+        "name": "Atlanti vészmadár"
+      },
+      {
+        "lang": "is",
+        "name": "Skrofa"
+      },
+      {
+        "lang": "ja",
+        "name": "マンクスミズナギドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordse pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Havlire"
+      },
+      {
+        "lang": "no",
+        "name": "Havlire"
+      },
+      {
+        "lang": "pcd",
+        "name": "Trayeux"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk północny"
+      },
+      {
+        "lang": "pt",
+        "name": "Bobo-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый буревестник"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre lira"
+      },
+      {
+        "lang": "uk",
+        "name": "Звичайний буревісник"
+      },
+      {
+        "lang": "af",
+        "name": "Swartbekpylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus persicus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "جلم ماء فارسي"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga persa"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Persia"
+      },
+      {
+        "lang": "en",
+        "name": "Persian shearwater"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin persique"
+      },
+      {
+        "lang": "hr",
+        "name": "Perzijski zovoj"
+      },
+      {
+        "lang": "mr",
+        "name": "फारसी लाटचिरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Perzische pijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "arablira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus opisthomelas",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-vented Shearwater"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalifornianpikkuliitäjä"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga culnegra"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Califfornia"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrapuga pufino"
+      },
+      {
+        "lang": "es",
+        "name": "pardela culinegra"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی دمگاه‌سیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin cul-noir"
+      },
+      {
+        "lang": "hr",
+        "name": "Kalifornijski mali zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbuikpijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "californialira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus newelli",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Newell"
+      },
+      {
+        "lang": "en",
+        "name": "Newell's shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Nevela pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی هاوایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Newell"
+      },
+      {
+        "lang": "hr",
+        "name": "Newellov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Newells pijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "hawaiilira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus nativitatis",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Polynesianliitäjä"
+      },
+      {
+        "lang": "ja",
+        "name": "コミズナギドリ"
+      },
+      {
+        "lang": "ar",
+        "name": "جلم ماء كريسمس"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Christmas"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Ynys y Nadolig"
+      },
+      {
+        "lang": "de",
+        "name": "Weihnachts-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Christmas shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Kristnaska pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی کریسمس"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de la Nativité"
+      },
+      {
+        "lang": "hr",
+        "name": "Božićni zovoj"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut christmas"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine wigstaartpijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "brunlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus myrtae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rapa shearwater"
+      },
+      {
+        "lang": "nl",
+        "name": "Rapapijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "rapalira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus mauretanicus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga balear",
+        "synonyms": [
+          "baldriga pufí baleàrica",
+          "virot petit"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Balearen-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Balearic Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela balear"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai balear"
+      },
+      {
+        "lang": "fi",
+        "name": "Baleaarienliitäjä"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela balear"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk popielaty"
+      },
+      {
+        "lang": "af",
+        "name": "Baleariese pylstormvoël"
+      },
+      {
+        "lang": "bg",
+        "name": "Балеарски буревестник"
+      },
+      {
+        "lang": "br",
+        "name": "Tort gell"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Balearig"
+      },
+      {
+        "lang": "eo",
+        "name": "Baleara pufino"
+      },
+      {
+        "lang": "et",
+        "name": "Baleaari tormilind"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی بالئاری"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin des Baléares"
+      },
+      {
+        "lang": "fy",
+        "name": "Baleärenmok"
+      },
+      {
+        "lang": "hr",
+        "name": "Balearska burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut balearic"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Balearlire"
+      },
+      {
+        "lang": "no",
+        "name": "Balearlire"
+      },
+      {
+        "lang": "olo",
+        "name": "Balearoinliidäi"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-do-mediterrâneo"
+      },
+      {
+        "lang": "ru",
+        "name": "Балеарский буревестник"
+      },
+      {
+        "lang": "sh",
+        "name": "Balearska burnica"
+      },
+      {
+        "lang": "sv",
+        "name": "Balearisk lira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus lherminieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Audubon's Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Tropika pufino"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロミズナギドリ"
+      },
+      {
+        "lang": "to",
+        "name": "teiko"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-de-asa-larga"
+      },
+      {
+        "lang": "fi",
+        "name": "Tropiikkiliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus huttoni",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Hutton"
+      },
+      {
+        "lang": "en",
+        "name": "Hutton's shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de Hutton"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی هوتون"
+      },
+      {
+        "lang": "fi",
+        "name": "Tummapikkuliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Hutton"
+      },
+      {
+        "lang": "hr",
+        "name": "Huttonov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Huttons pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Maorilire"
+      },
+      {
+        "lang": "sv",
+        "name": "Huttonlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus heinrothi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Heinroth's Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de Heinroth"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Heinroth"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Heinroth"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Heinroth"
+      },
+      {
+        "lang": "de",
+        "name": "Heinroth-Sturmtaucher"
+      },
+      {
+        "lang": "eo",
+        "name": "Heinrota pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی هاینروث"
+      },
+      {
+        "lang": "hr",
+        "name": "Heinrothov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Heinroths pijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "Melanesisk lira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus gavia",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus bryani",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Bryan"
+      },
+      {
+        "lang": "de",
+        "name": "Midwaysturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Bryan's shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Briana pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی براین"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Bryan"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut bryan"
+      },
+      {
+        "lang": "ja",
+        "name": "オガサワラヒメミズナギドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bryans pijlstormvogel"
+      },
+      {
+        "lang": "nv",
+        "name": "Níyol yiiʼ naalkʼįhii łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk siodłaty"
+      },
+      {
+        "lang": "sv",
+        "name": "bryanlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus bannermani",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Bannerman"
+      },
+      {
+        "lang": "en",
+        "name": "Bannerman's shearwater"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی بنرمن"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Bannerman"
+      },
+      {
+        "lang": "hr",
+        "name": "Bannermanov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Bannermans pijlstormvogel"
+      },
+      {
+        "lang": "sh",
+        "name": "Bannermanov zovoj"
+      },
+      {
+        "lang": "sv",
+        "name": "boninlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus auricularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Townsend's Shearwater"
+      },
+      {
+        "lang": "fi",
+        "name": "Meksikonpikkuliitäjä"
+      },
+      {
+        "lang": "ar",
+        "name": "جلم ماء تاونسند"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Townsend"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Townsend"
+      },
+      {
+        "lang": "de",
+        "name": "Townsend-Sturmtaucher"
+      },
+      {
+        "lang": "eo",
+        "name": "Sokorpufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی تاونسند"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Townsend"
+      },
+      {
+        "lang": "hr",
+        "name": "Townsendov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Townsends pijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "townsendlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus assimilis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga petita"
+      },
+      {
+        "lang": "en",
+        "name": "Little Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela chica"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai txiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Kääpiöliitäjä"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela pequena"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-pequena"
+      },
+      {
+        "lang": "af",
+        "name": "Kleinpylstormvoël"
+      }
+    ]
+  }
+]

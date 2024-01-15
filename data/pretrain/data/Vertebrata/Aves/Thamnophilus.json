@@ -1,0 +1,482 @@
+[
+  {
+    "scientific_name": "Thamnophilus zarumae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chapman's antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará de Chapman"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus unicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Uniform antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará unicolor"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus torquatus",
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Rufous-winged antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará alirrufo"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-asa-vermelha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus tenuepunctatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Thamnophilus sticturus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bolivian slaty antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso boliviano"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-da-bolivia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus stictocephalus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Natterer's slaty antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso de Natterer"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-natterer"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus schistaceus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Batará alillano"
+      },
+      {
+        "lang": "en",
+        "name": "Plain-winged antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-olho-vermelho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus ruficapillus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Thamnophilus punctatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Slaty-Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso punteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-bate-cabo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus praecox",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cocha antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Batará de Cocha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus pelzelni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Planalto Slaty-Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso del Planalto"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-do-planalto"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus palliatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-backed Antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-listrada"
+      },
+      {
+        "lang": "es",
+        "name": "Batará dorsicastaño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus nigrocinereus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blackish-grey Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará ceniciento"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-preta-e-cinza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus nigriceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará negro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus murinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mouse-colored Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará murino"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-murina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus multistriatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bar-crested Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará crestibarrado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus melanothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará guayanés"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-cauda-pintada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus melanonotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-backed antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará dorsinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus insignis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-backed Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará insigne"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-roraima"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus doliatus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Binden-Ameisenwürger"
+      },
+      {
+        "lang": "en",
+        "name": "Barred Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará Barrado"
+      },
+      {
+        "lang": "fr",
+        "name": "Batara rayé"
+      },
+      {
+        "lang": "gn",
+        "name": "Che oro para"
+      },
+      {
+        "lang": "hu",
+        "name": "Csíkos hangyászgébics"
+      },
+      {
+        "lang": "no",
+        "name": "Båndmaurvarsler"
+      },
+      {
+        "lang": "pt-br",
+        "name": "choca-barrada"
+      },
+      {
+        "lang": "ru",
+        "name": "Полосатая сорокопутовая муравьеловка"
+      },
+      {
+        "lang": "sk",
+        "name": "batara jarabá"
+      },
+      {
+        "lang": "sl",
+        "name": "Lisasti mravljar"
+      },
+      {
+        "lang": "sv",
+        "name": "Bandad myrtörnskata"
+      },
+      {
+        "lang": "zh",
+        "name": "横斑蚁鵙"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus divisorius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Acre Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará de Acre"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Choca-do-acre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus cryptoleucus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Castelnau's antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará de Castelnau"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-selada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus caerulescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Variable Antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-da-mata"
+      },
+      {
+        "lang": "es",
+        "name": "Batará variable"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus bridgesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-hooded antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará negruzco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus bernardi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará collarejo; batará acollarado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus atrinucha",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-crowned antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso occidental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus aroyae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Upland antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará montano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus ambiguus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Sooretama slaty antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-de-sooretama"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus amazonicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Amazonian Antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-canela"
+      },
+      {
+        "lang": "es",
+        "name": "Batará amazónico"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thamnophilus aethiops",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-shouldered Antshrike"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-lisa"
+      },
+      {
+        "lang": "es",
+        "name": "Batará hombroblanco"
+      }
+    ]
+  }
+]

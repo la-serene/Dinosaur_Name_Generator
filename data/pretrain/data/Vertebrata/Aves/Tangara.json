@@ -1,0 +1,787 @@
+[
+  {
+    "scientific_name": "Tangara xanthogastra",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara xanthocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Saffron-crowned Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara coronigualda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara vitriolina",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara viridicollis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara velia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Opal-rumped Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-diamante"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara lomiopalina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara vassorii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-and-black Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara azulinegra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara varia",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara seledon",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-headed Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-sete-cores"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara arcoiris",
+        "synonyms": [
+          "tángara regia",
+          "saíra arcoíris"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara schrankii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Goldbrusttangare"
+      },
+      {
+        "lang": "en",
+        "name": "Green and gold Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Schrank"
+      },
+      {
+        "lang": "pt",
+        "name": "saíra-ouro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara rufigula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara rufigenis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-cheeked Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara carirrufa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara ruficervix",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara punctata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara preciosa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara phillipsi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara peruviana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara parzudakii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flame-faced Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara carafuego"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara palmeri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara nigroviridis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Beryl-spangled Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de lentejuelas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara nigrocincta",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara meyerdeschauenseei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara mexicana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Turquoise Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-de-bando"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara turquesa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara lavinia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-winged Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara alirrufa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara larvata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara labradorides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Metallic-green Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara verdinegra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara johannae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-whiskered Tanager"
+      },
+      {
+        "lang": "ar",
+        "name": "تناجر أزرق الشارب"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr mwstasiog"
+      },
+      {
+        "lang": "es",
+        "name": "tangara bigotuda"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwbaardtangare"
+      },
+      {
+        "lang": "no",
+        "name": "Blåskjeggtanagar"
+      },
+      {
+        "lang": "ru",
+        "name": "Синебородая танагра"
+      },
+      {
+        "lang": "sv",
+        "name": "blåskäggig tangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara inornata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plain-colored Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara cenicienta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara icterocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Silver-throated Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara goliplateada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara heinei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara gyrola",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Grüntangare"
+      },
+      {
+        "lang": "en",
+        "name": "Bay-headed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tángara cabecibaya"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste rouverdin"
+      },
+      {
+        "lang": "ru",
+        "name": "Зелёная танагра"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-de-cabeça-castanha"
+      },
+      {
+        "lang": "sv",
+        "name": "Roststrupig tangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara guttata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara fucosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-naped Tanager"
+      },
+      {
+        "lang": "ar",
+        "name": "تناجر أخضر المؤخرة"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr gwarwyrdd"
+      },
+      {
+        "lang": "es",
+        "name": "tangará nuquiverde"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste à nuque verte"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldtarkójú tangara"
+      },
+      {
+        "lang": "nl",
+        "name": "Groennektangare"
+      },
+      {
+        "lang": "no",
+        "name": "Darientanagar"
+      },
+      {
+        "lang": "sv",
+        "name": "dariéntangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara florida",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "تناجر زمردي"
+      },
+      {
+        "lang": "arz",
+        "name": "تناجر زمردى"
+      },
+      {
+        "lang": "bg",
+        "name": "Изумрудена тангара"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr emrallt"
+      },
+      {
+        "lang": "da",
+        "name": "Smaragdtangare"
+      },
+      {
+        "lang": "de",
+        "name": "Smaragdtangare"
+      },
+      {
+        "lang": "en",
+        "name": "Emerald Tanager"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste émeraude"
+      },
+      {
+        "lang": "hu",
+        "name": "Smaragdtangara"
+      },
+      {
+        "lang": "it",
+        "name": "Tanagra smeraldina"
+      },
+      {
+        "lang": "nl",
+        "name": "Smaragdtangare"
+      },
+      {
+        "lang": "no",
+        "name": "Smaragdtanagar"
+      },
+      {
+        "lang": "ru",
+        "name": "Изумрудная танагра"
+      },
+      {
+        "lang": "sv",
+        "name": "Smaragdtangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara fastuosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Seven-colored Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintor-verdadeiro",
+        "synonyms": [
+          "Saíra-pintor"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "تناجر ذو سبعة ألوان"
+      },
+      {
+        "lang": "ast",
+        "name": "Tangara campanuda"
+      },
+      {
+        "lang": "bg",
+        "name": "Седемцветна тангара"
+      },
+      {
+        "lang": "de",
+        "name": "Vielfarbentangare"
+      },
+      {
+        "lang": "es",
+        "name": "tangara sietecolores"
+      },
+      {
+        "lang": "fi",
+        "name": "Palettitangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste superbe"
+      },
+      {
+        "lang": "hu",
+        "name": "Szivárványos tangara"
+      },
+      {
+        "lang": "nl",
+        "name": "Zevenkleurige tangare"
+      },
+      {
+        "lang": "no",
+        "name": "Palettanagar"
+      },
+      {
+        "lang": "pl",
+        "name": "Tangarka wspaniała"
+      },
+      {
+        "lang": "ru",
+        "name": "Семицветная танагра"
+      },
+      {
+        "lang": "sv",
+        "name": "prakttangara"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ bảy màu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara dowii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tangara leskloskvrnná"
+      },
+      {
+        "lang": "da",
+        "name": "Skælbrystet Tangar"
+      },
+      {
+        "lang": "de",
+        "name": "Glanzfleckentangare"
+      },
+      {
+        "lang": "en",
+        "name": "Spangle-cheeked Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara caripinta"
+      },
+      {
+        "lang": "fi",
+        "name": "panamantangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste pailleté"
+      },
+      {
+        "lang": "it",
+        "name": "Tangara di Dow"
+      },
+      {
+        "lang": "ja",
+        "name": "サザナミフウキンチョウ",
+        "synonyms": [
+          "sazanaminanairofuukinchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Glansvlektangare"
+      },
+      {
+        "lang": "no",
+        "name": "Paljettanagar"
+      },
+      {
+        "lang": "pl",
+        "name": "tangarka łuskowana"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистая танагра"
+      },
+      {
+        "lang": "sk",
+        "name": "tangara prskaná"
+      },
+      {
+        "lang": "sv",
+        "name": "Paljettangara"
+      },
+      {
+        "lang": "zh",
+        "name": "斑颊唐加拉雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara desmaresti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brassy-breasted Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-lagarta"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Desmarest"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cyanoventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gilt-edged Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-Douradinha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cyanotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-browed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara cejiazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cyanoptera",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara cyanocephala",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Saíra-militar"
+      },
+      {
+        "lang": "en",
+        "name": "Red-necked Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara militar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cyanicollis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara cucullata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara chrysotis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tangara orejidorada"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-eared Tanager"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara chilensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Paradise Tanager"
+      },
+      {
+        "lang": "pt-",
+        "name": "Sete-cores-da-amazônia"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara del Paraíso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cayana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara callophrys",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Opal-crowned Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-opala"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara opalina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara cabanisi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tangara arthus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "تناجر ذهبي"
+      },
+      {
+        "lang": "arz",
+        "name": "تناجر ذهبى"
+      },
+      {
+        "lang": "bg",
+        "name": "Златиста тангара"
+      },
+      {
+        "lang": "ca",
+        "name": "Tàngara daurada"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr euraidd"
+      },
+      {
+        "lang": "da",
+        "name": "Guldtangar"
+      },
+      {
+        "lang": "de",
+        "name": "Goldtangare"
+      },
+      {
+        "lang": "en",
+        "name": "Golden Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechicastaña"
+      },
+      {
+        "lang": "fr",
+        "name": "Calliste à poitrine marron"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranytangara"
+      },
+      {
+        "lang": "hy",
+        "name": "Ոսկե տանագրա"
+      },
+      {
+        "lang": "it",
+        "name": "Tanagra dorata"
+      },
+      {
+        "lang": "ja",
+        "name": "キンイロフウキンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudtangare"
+      },
+      {
+        "lang": "no",
+        "name": "Gulltanagar"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотая танагра"
+      },
+      {
+        "lang": "sv",
+        "name": "Guldtangara"
+      },
+      {
+        "lang": "uk",
+        "name": "Золота танагра"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tangara argyrofenges",
+    "common_names": []
+  }
+]

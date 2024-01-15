@@ -1,0 +1,86 @@
+[
+  {
+    "scientific_name": "Aglaeactis pamela",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzbauch-Andenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Black-hooded Sunbeam"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí negrito"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aglaeactis cupripennis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Shining Sunbeam"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí cobrizo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aglaeactis castelnaudii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tufted Sunbeam"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí condecorado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aglaeactis aliciae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißbrust-Andenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Purple-backed Sunbeam"
+      },
+      {
+        "lang": "fi",
+        "name": "Purppuraselkäkolibri"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí d'Alice"
+      },
+      {
+        "lang": "cy",
+        "name": "Pelydryn cefnborffor"
+      },
+      {
+        "lang": "es",
+        "name": "colibrí de Alicia"
+      },
+      {
+        "lang": "fa",
+        "name": "مگس‌مرغ پشت ارغوانی"
+      },
+      {
+        "lang": "nl",
+        "name": "Violetrugglanskolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "purpurglansrygg"
+      }
+    ]
+  }
+]

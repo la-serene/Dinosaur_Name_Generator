@@ -1,0 +1,1039 @@
+[
+  {
+    "scientific_name": "Ducula lakeba",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ducula zoeae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Banded Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Zoe"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula whartoni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Dunkle Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Christmas Island Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula de la isla Navidad"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Wharton"
+      },
+      {
+        "lang": "hu",
+        "name": "Karácsony-szigeti császárgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione imperiale di Christmas"
+      },
+      {
+        "lang": "nl",
+        "name": "Whartons muskaatduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "کرسمس پگبن کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Julökejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula subflavescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellowish Imperial Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula amarillenta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula spilorrhoa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub strakatý"
+      },
+      {
+        "lang": "da",
+        "name": "Torreskejserdue"
+      },
+      {
+        "lang": "de",
+        "name": "Kaiserfruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Torresian Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula australiana"
+      },
+      {
+        "lang": "fi",
+        "name": "Australiankeisarikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage argenté"
+      },
+      {
+        "lang": "ja",
+        "name": "パプアソデグロバト [papuasodegurobato]"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische Muskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Snøkeiserdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Muszkatela srokata"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈوکولا سپائلوروہا"
+      },
+      {
+        "lang": "ru",
+        "name": "Пегий плодоядный голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Plodožer cisársky"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk kejsarduva"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲斑皇鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula rufigaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-tailed Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de panza rojiza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula rubricera",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-knobbed Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula cerarroja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula rosacea",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rosakopf-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Pink-headed Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula rosácea"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage à tête rose"
+      },
+      {
+        "lang": "id",
+        "name": "Pergam katanjar"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione imperiale testarosa"
+      },
+      {
+        "lang": "nl",
+        "name": "Roze muskaatduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "گلیبی سرا پگبن کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosahuvad kejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula radiata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula colibarrada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula poliocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-bellied Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de panza rosada"
+      },
+      {
+        "lang": "nl",
+        "name": "Filipijnse muskaatduif"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula pistrinaria",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Island Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial isleña"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula pinon",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pinon Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Pinon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula pickeringii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial gris"
+      },
+      {
+        "lang": "bg",
+        "name": "Сив императорски гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de Pickering"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen ymerodrol lwyd"
+      },
+      {
+        "lang": "de",
+        "name": "Graue Inselfruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Pickering"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Pergam Kelabu"
+      },
+      {
+        "lang": "nl",
+        "name": "Pickerings muskaatduif"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídítsoh ałchozhí łibáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "سانولا پگبن کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "grå kejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula perspicillata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-eyed Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula de anteojos"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula pacifica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pacific Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial del Pacífico"
+      },
+      {
+        "lang": "to",
+        "name": "lupe"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula oceanica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Micronesian Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de la Micronesia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula myristicivora",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spice Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de la nuez moscada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula mullerii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial collariza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula mindorensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mindoro Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Mindoro"
+      },
+      {
+        "lang": "bg",
+        "name": "Миндорски плодояден гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de Mindoro"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen gynffonresog Mindoro"
+      },
+      {
+        "lang": "de",
+        "name": "Große Mindoro-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Mindoro"
+      },
+      {
+        "lang": "hu",
+        "name": "Mindoroi császárgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Миндоро кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindoromuskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Mindorokeiserdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "منڈورو پگبن کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "mindorokejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula melanochroa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bismarck Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de las Bismarck"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula luctuosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de punta plateada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula latrans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Peale's Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Peale"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula lacernulata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dark-backed Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula dorsioscura"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage mantelé"
+      },
+      {
+        "lang": "id",
+        "name": "Pergam punggung-hitam"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione imperiale dorsoscuro"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse muskaatduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈوکولا لیسرمولاٹا"
+      },
+      {
+        "lang": "sv",
+        "name": "Javakejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula harrisoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ducula goliath",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Caledonian Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Nueva Caledonia"
+      },
+      {
+        "lang": "fr",
+        "name": "Notou"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-imperial-da-Nova-Caledônia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula galeata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Marquesan Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de las Marquesas"
+      },
+      {
+        "lang": "fi",
+        "name": "Helttakeisarikyyhky"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de les Marqueses"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen Ynys Nukuhiva"
+      },
+      {
+        "lang": "da",
+        "name": "Marquesaskejserdue"
+      },
+      {
+        "lang": "de",
+        "name": "Marquesas-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage des Marquises"
+      },
+      {
+        "lang": "mrj",
+        "name": "Маркиз кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Markiezenmuskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Nukuhivakeiserdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídítsoh ałchozhí bítááʼ dinilbáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "مارکویسی پگبن کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Маркизский плодоядный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "marquesaskejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula forsteni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de panza blanca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula finschii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Finsch's Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Finsch"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Finsch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula constans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kimberley Imperial-Pigeon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula concinna",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Elegant Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial elegante"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula cineracea",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schieferrücken-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Timor Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial ceniza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula chalconota",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Shining Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial rojiza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula carola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spotted Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial punteada"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de Carlota"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub šedokrký"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen ffrwythau yddflwyd"
+      },
+      {
+        "lang": "de",
+        "name": "Gefleckte Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage charlotte"
+      },
+      {
+        "lang": "hu",
+        "name": "Pettyes császárgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ала шылдыран кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hoefijzermuskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Brynjekeiserdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈوکیولا کیرولا"
+      },
+      {
+        "lang": "sv",
+        "name": "fläckvingad kejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula brenchleyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de panza castaña"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de les Salomó"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen torfrown"
+      },
+      {
+        "lang": "de",
+        "name": "Braunbauch-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Brenchley"
+      },
+      {
+        "lang": "nl",
+        "name": "Brenchleys muskaatduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈوکولا برنچلائی"
+      },
+      {
+        "lang": "sv",
+        "name": "kastanjebukig kejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula bicolor",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom imperial bicolor"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub dvoubarvý"
+      },
+      {
+        "lang": "da",
+        "name": "Broget Kejserdue"
+      },
+      {
+        "lang": "de",
+        "name": "Zweifarben-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Imperial Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula bicolor"
+      },
+      {
+        "lang": "eo",
+        "name": "Dukolora imperia kolombo"
+      },
+      {
+        "lang": "et",
+        "name": "Valge-keisertuvi"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokeisarikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Kétszínű gyümölcsgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Pergam Laut"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione imperiale bianconero"
+      },
+      {
+        "lang": "ja",
+        "name": "ソデグロバト"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pergam Rawa"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte Muskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Krittkeiserdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Muszkatela dwubarwna"
+      },
+      {
+        "lang": "ru",
+        "name": "Двуцветный плодоядный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartvit kejsarduva"
+      },
+      {
+        "lang": "th",
+        "name": "นกลุมพูขาว"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula basilica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-bellied Imperial-pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de panza canela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula bakeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Baker's Imperial-Pigeon",
+        "synonyms": [
+          "Vanuatu Imperial-pigeon"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial de Baker"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen Baker"
+      },
+      {
+        "lang": "de",
+        "name": "Baker-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Baker"
+      },
+      {
+        "lang": "hu",
+        "name": "Baker-császárgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Вануату кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bakers muskaatduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "وینوآٹو پگبن کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "vanuatukejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula badia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial montañesa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula aurorae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Polynesian Imperial-Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial polinésica"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom imperial de les illes de la Societat"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen Tahiti"
+      },
+      {
+        "lang": "de",
+        "name": "Tahiti-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de la Société"
+      },
+      {
+        "lang": "mrj",
+        "name": "Таити кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahitiaanse muskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Makateakeiserdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídítsoh ałchozhí bitʼaʼ diłhiłígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "پولینیشی پگبن کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Таитянский плодоядный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Polynesisk kejsarduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ducula aenea",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bronzefruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Green Imperial Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma imperial verde"
+      },
+      {
+        "lang": "id",
+        "name": "Pergam Hijau"
+      },
+      {
+        "lang": "th",
+        "name": "นกลุมพู"
+      }
+    ]
+  }
+]

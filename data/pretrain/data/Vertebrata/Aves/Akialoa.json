@@ -1,0 +1,62 @@
+[
+  {
+    "scientific_name": "Akialoa stejnegeri",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kauai-Akialoakleidervogel"
+      },
+      {
+        "lang": "en",
+        "name": "Kauai Akialoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Akialoa obscura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Akialoa"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻakialoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Akialoa lanaiensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lanai-Akialoakleidervogel"
+      },
+      {
+        "lang": "en",
+        "name": "Lanai Akialoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Akialoa ellisiana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oahu Akialoa"
+      },
+      {
+        "lang": "es",
+        "name": "Akialoa mayor"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy akiapola"
+      },
+      {
+        "lang": "pl",
+        "name": "Hawajka sierpodzioba"
+      }
+    ]
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "scientific_name": "Alca torda",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أبو موس"
+      },
+      {
+        "lang": "ast",
+        "name": "Alca"
+      },
+      {
+        "lang": "bg",
+        "name": "Гагарка"
+      },
+      {
+        "lang": "br",
+        "name": "Godez beg plat"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavot"
+      },
+      {
+        "lang": "cs",
+        "name": "Alka malá"
+      },
+      {
+        "lang": "cw",
+        "name": "Gelvyn lym"
+      },
+      {
+        "lang": "cy",
+        "name": "Llurs"
+      },
+      {
+        "lang": "da",
+        "name": "Alk"
+      },
+      {
+        "lang": "de",
+        "name": "Tordalk"
+      },
+      {
+        "lang": "el",
+        "name": "Κοινή άλκα"
+      },
+      {
+        "lang": "en",
+        "name": "Razorbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭko"
+      },
+      {
+        "lang": "es",
+        "name": "Alca común"
+      },
+      {
+        "lang": "et",
+        "name": "Alk"
+      },
+      {
+        "lang": "eu",
+        "name": "Pottorro arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "تیغ‌منقار"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Álka"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit Pingouin"
+      },
+      {
+        "lang": "frr",
+        "name": "Grat alk"
+      },
+      {
+        "lang": "fy",
+        "name": "Alk"
+      },
+      {
+        "lang": "ga",
+        "name": "Crosán"
+      },
+      {
+        "lang": "gd",
+        "name": "Coltraiche"
+      },
+      {
+        "lang": "gl",
+        "name": "Arao romeiro"
+      },
+      {
+        "lang": "gv",
+        "name": "Coltrag"
+      },
+      {
+        "lang": "he",
+        "name": "אלקה חדת-מקור"
+      },
+      {
+        "lang": "hr",
+        "name": "Plosnatokljuna njorka"
+      },
+      {
+        "lang": "hsb",
+        "name": "Alka"
+      },
+      {
+        "lang": "hu",
+        "name": "Alka"
+      },
+      {
+        "lang": "hy",
+        "name": "Թանձրահավ"
+      },
+      {
+        "lang": "is",
+        "name": "Álka"
+      },
+      {
+        "lang": "it",
+        "name": "Gazza marina"
+      },
+      {
+        "lang": "ja",
+        "name": "オオハシウミガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "ალკა"
+      },
+      {
+        "lang": "kl",
+        "name": "Apparluk"
+      },
+      {
+        "lang": "kw",
+        "name": "Gelvyn lym"
+      },
+      {
+        "lang": "lt",
+        "name": "Alka"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielais alks"
+      },
+      {
+        "lang": "mt",
+        "name": "Mus tal-Baħar"
+      },
+      {
+        "lang": "nds",
+        "name": "Dogger"
+      },
+      {
+        "lang": "nl",
+        "name": "Alk"
+      },
+      {
+        "lang": "nn",
+        "name": "Alke"
+      },
+      {
+        "lang": "no",
+        "name": "Alke"
+      },
+      {
+        "lang": "nrm",
+        "name": "Godîn"
+      },
+      {
+        "lang": "olo",
+        "name": "Ruokki"
+      },
+      {
+        "lang": "pcd",
+        "name": "Gaude"
+      },
+      {
+        "lang": "pl",
+        "name": "Alka zwyczajna"
+      },
+      {
+        "lang": "pnb",
+        "name": "الکا ٹورڈا"
+      },
+      {
+        "lang": "pt",
+        "name": "Torda-mergulheira"
+      },
+      {
+        "lang": "ro",
+        "name": "Alca mică"
+      },
+      {
+        "lang": "ru",
+        "name": "Гагарка"
+      },
+      {
+        "lang": "sco",
+        "name": "Couter neb"
+      },
+      {
+        "lang": "se",
+        "name": "Hálkka"
+      },
+      {
+        "lang": "sh",
+        "name": "Mala njorka"
+      },
+      {
+        "lang": "sk",
+        "name": "Alka vrúbkozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala njorka"
+      },
+      {
+        "lang": "sr",
+        "name": "Оштрокљуна њорка"
+      },
+      {
+        "lang": "sv",
+        "name": "Tordmule"
+      },
+      {
+        "lang": "sw",
+        "name": "Alka domo-wembe"
+      },
+      {
+        "lang": "tr",
+        "name": "Usturagaga"
+      },
+      {
+        "lang": "tyv",
+        "name": "Гагарка"
+      },
+      {
+        "lang": "uk",
+        "name": "Гагарка"
+      },
+      {
+        "lang": "uz",
+        "name": "Gagarka"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Alca"
+      },
+      {
+        "lang": "wuu",
+        "name": "刀嘴海雀"
+      },
+      {
+        "lang": "zh",
+        "name": "刀嘴海雀"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "刀嘴海雀"
+      }
+    ]
+  }
+]

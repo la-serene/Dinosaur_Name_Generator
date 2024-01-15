@@ -1,0 +1,60 @@
+[
+  {
+    "scientific_name": "Ammoperdix heyi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev arabská"
+      },
+      {
+        "lang": "en",
+        "name": "Sand Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Sabloperdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz desértica"
+      },
+      {
+        "lang": "fi",
+        "name": "Aavikkopyy"
+      },
+      {
+        "lang": "sk",
+        "name": "Čiľ piesočný"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ammoperdix griseogularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev pouštní"
+      },
+      {
+        "lang": "en",
+        "name": "See-see Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Fajfoperdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz gorgigrís"
+      },
+      {
+        "lang": "hy",
+        "name": "Կաքավ անապատային"
+      },
+      {
+        "lang": "sk",
+        "name": "Čiľ sivokrký"
+      }
+    ]
+  }
+]

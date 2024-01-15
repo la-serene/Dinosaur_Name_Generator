@@ -1,0 +1,93 @@
+[
+  {
+    "scientific_name": "Glaucis hirsutus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-breasted Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "Balança-rabo-de-bico-torto"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño hirsuto"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucis dohrnii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bronzeschwanz-Schattenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Hook-billed Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "Balança-rabo-canela"
+      },
+      {
+        "lang": "bg",
+        "name": "Извитоклюно колибри"
+      },
+      {
+        "lang": "cy",
+        "name": "Meudwy crymbig"
+      },
+      {
+        "lang": "da",
+        "name": "Krognæbskolibri"
+      },
+      {
+        "lang": "fa",
+        "name": "گوشه‌گیر نوک‌چنگکی"
+      },
+      {
+        "lang": "fi",
+        "name": "Brasiliankaarikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ermite de Dohrn"
+      },
+      {
+        "lang": "hu",
+        "name": "Bahia-remetekolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Bronsstaartheremietkolibrie"
+      },
+      {
+        "lang": "pl",
+        "name": "Pustelnik hakodzioby"
+      },
+      {
+        "lang": "sv",
+        "name": "kroknäbbseremit"
+      },
+      {
+        "lang": "vi",
+        "name": "Ruồi mỏ quăm"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucis aeneus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bronzy Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño bronceado"
+      }
+    ]
+  }
+]

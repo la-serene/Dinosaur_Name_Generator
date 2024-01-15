@@ -1,0 +1,620 @@
+[
+  {
+    "scientific_name": "Pteroglossus viridis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green Aracari"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari vert"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöld arasszári"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí verde"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-miudinho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus torquatus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أركاري مطوق"
+      },
+      {
+        "lang": "ca",
+        "name": "Araçarí de collar"
+      },
+      {
+        "lang": "cs",
+        "name": "Arassari pestrý"
+      },
+      {
+        "lang": "cy",
+        "name": "Arasari torchgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Halsbandarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Aracari"
+      },
+      {
+        "lang": "eo",
+        "name": "Kolumarasario"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí acollarado"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان طوقی"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari à collier"
+      },
+      {
+        "lang": "he",
+        "name": "טוקן מוכתם-חזה"
+      },
+      {
+        "lang": "hu",
+        "name": "Fűrészescsőrű arasszári"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шӱӓшӓн арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Halsbandarassari"
+      },
+      {
+        "lang": "pl",
+        "name": "Arasari obrożny"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالروالا ٹوکان"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari de pescoço preto"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковый арасари"
+      },
+      {
+        "lang": "sv",
+        "name": "Halsbandsaraçari"
+      },
+      {
+        "lang": "tr",
+        "name": "Yakalı arasari"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus sanguineus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Araçarí sanguini"
+      },
+      {
+        "lang": "en",
+        "name": "Stripe-billed Aracari"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí de pico rayado"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان نوک‌خط‌خطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari à bec maculé"
+      },
+      {
+        "lang": "mrj",
+        "name": "Корнан нерӓн арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Streepsnavelarassari"
+      },
+      {
+        "lang": "sv",
+        "name": "Strimnäbbad araçari"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus pluricinctus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Many-banded Aracari"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí fajado"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari multibande"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-de-cinta-dupla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus mariae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-mandibled Aracari"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-de-bico-marrom"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus inscriptus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lettered Aracari"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí marcado"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari de Humboldt"
+      },
+      {
+        "lang": "hu",
+        "name": "Betűmintás arasszári"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-mirim-de-bico-riscado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus frantzii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أركاري ناري المنقار"
+      },
+      {
+        "lang": "ca",
+        "name": "Araçarí de Frantzius"
+      },
+      {
+        "lang": "cy",
+        "name": "Arasari fflambig"
+      },
+      {
+        "lang": "da",
+        "name": "Orangenæbbet Arasari"
+      },
+      {
+        "lang": "de",
+        "name": "Feuerschnabelarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Fiery-billed Aracari"
+      },
+      {
+        "lang": "eo",
+        "name": "Fajrbeka arasario"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí piquinaranja"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان نوک‌آتشی"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari de Frantzius"
+      },
+      {
+        "lang": "he",
+        "name": "טוקן כתום-מקור"
+      },
+      {
+        "lang": "hu",
+        "name": "Tüzescsőrű arasszári"
+      },
+      {
+        "lang": "mrj",
+        "name": "Тылан нерӓн арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Vuursnavelarassari"
+      },
+      {
+        "lang": "pnb",
+        "name": "اگ چنج ٹوکان"
+      },
+      {
+        "lang": "ru",
+        "name": "Огненноклювый арасари"
+      },
+      {
+        "lang": "sv",
+        "name": "Eldnäbbsaraçari"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus erythropygius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale-mandibled Aracari"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösfarkú arasszári"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus castanotis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أركاري كستنائي الأذن"
+      },
+      {
+        "lang": "bg",
+        "name": "Кафявоух тукан"
+      },
+      {
+        "lang": "ca",
+        "name": "Araçarí collbrú"
+      },
+      {
+        "lang": "cy",
+        "name": "Arasari clustfrown"
+      },
+      {
+        "lang": "de",
+        "name": "Braunohrarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-eared Aracari"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunorela arasario"
+      },
+      {
+        "lang": "es",
+        "name": "Carrasco"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان گوش‌بلوطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari à oreillons roux"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnafülű arasszári"
+      },
+      {
+        "lang": "lt",
+        "name": "Arakaris"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹрӓн пӹлӹшӓн арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinoorarassari"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیروگلاسس کیسٹونوٹس"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-castanho"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunörad araçari"
+      },
+      {
+        "lang": "zh",
+        "name": "栗耳阿拉卡鴷"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus bitorquatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-necked Aracari"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-de-pescoço-vermelho"
+      },
+      {
+        "lang": "es",
+        "name": "arasarí cuellirrojo oriental"
+      },
+      {
+        "lang": "ca",
+        "name": "Araçarí collroig oriental"
+      },
+      {
+        "lang": "cy",
+        "name": "Arasari gyddfgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Rotnackenarassari"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkola arasario"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان گردن‌سرخ"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari à double collier"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösnyakú arasszári"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кок корнан арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodhalsarassari"
+      },
+      {
+        "lang": "pnb",
+        "name": "لالتؤنوالا ٹوکان"
+      },
+      {
+        "lang": "sv",
+        "name": "rödnackad araçari"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus beauharnaesii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Curl-crested Aracari"
+      },
+      {
+        "lang": "hu",
+        "name": "Bodrosfejű arasszári"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus bailloni",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Шафранен тукан"
+      },
+      {
+        "lang": "ca",
+        "name": "Araçarí daurat"
+      },
+      {
+        "lang": "cy",
+        "name": "Twcaned y De"
+      },
+      {
+        "lang": "da",
+        "name": "Safrantukan"
+      },
+      {
+        "lang": "de",
+        "name": "Goldtukan"
+      },
+      {
+        "lang": "en",
+        "name": "Saffron Toucanet"
+      },
+      {
+        "lang": "eo",
+        "name": "Safrantukano"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán banana"
+      },
+      {
+        "lang": "fa",
+        "name": "توکانچه زعفرانی"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucan de Baillon"
+      },
+      {
+        "lang": "hu",
+        "name": "Sáfránytukán"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шӧртньӹ онган арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudtoekan"
+      },
+      {
+        "lang": "pnb",
+        "name": "سنہری ٹوکان"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-banana"
+      },
+      {
+        "lang": "ru",
+        "name": "Златогрудая андигена"
+      },
+      {
+        "lang": "sv",
+        "name": "Saffransaraçari"
+      },
+      {
+        "lang": "zh",
+        "name": "橘黃巨嘴鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus azara",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ivory-billed Aracari"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pteroglossus aracari",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أركاري أسود الرقبة"
+      },
+      {
+        "lang": "bg",
+        "name": "Черногърл тукан"
+      },
+      {
+        "lang": "ca",
+        "name": "Aracari collnegre"
+      },
+      {
+        "lang": "cy",
+        "name": "Arasari gyddfddu"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkehlarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Black-necked Aracari"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrokola arasario"
+      },
+      {
+        "lang": "es",
+        "name": "Arasarí cuellinegro"
+      },
+      {
+        "lang": "fa",
+        "name": "پرزبان گردن‌سیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Araçari grigri"
+      },
+      {
+        "lang": "he",
+        "name": "טוקן שחור-צוואר"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketenyakú arasszári"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар хүзүүт аракари"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шим логерӓн арасари"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartnekarassari"
+      },
+      {
+        "lang": "pl",
+        "name": "Arasari czarnoszyi"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے گاٹیوال ٹوکان"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-de-bico-branco"
+      },
+      {
+        "lang": "ru",
+        "name": "Черногорлый арасари"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthalsad aracari"
+      },
+      {
+        "lang": "zh",
+        "name": "黑頸阿卡拉鴷"
+      }
+    ]
+  }
+]

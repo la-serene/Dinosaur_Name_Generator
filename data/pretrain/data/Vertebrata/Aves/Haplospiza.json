@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Haplospiza unicolor",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Cigarra-bambu"
+      },
+      {
+        "lang": "en",
+        "name": "Uniform Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal unicolor"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haplospiza rustica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal pizarroso"
+      }
+    ]
+  }
+]

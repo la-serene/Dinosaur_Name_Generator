@@ -1,0 +1,164 @@
+[
+  {
+    "scientific_name": "Cyanerpes nitidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Short-billed Honeycreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Mielerito piquicorto"
+      },
+      {
+        "lang": "pt",
+        "name": "Saí-de-bico-curto"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanerpes lucidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Shining Honeycreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Mielerito reluciente"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanerpes cyaneus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "květomil modrý"
+      },
+      {
+        "lang": "da",
+        "name": "Rødbenet Honningsuger"
+      },
+      {
+        "lang": "de",
+        "name": "Türkisnaschvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Red-legged Honeycreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Mielerito Patirrojo"
+      },
+      {
+        "lang": "et",
+        "name": "punajalg-türkiistangara"
+      },
+      {
+        "lang": "fi",
+        "name": "isomesitangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Guit-guit saï"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék cize",
+        "synonyms": [
+          "kék cukormadár"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Cianerpe zamperosse"
+      },
+      {
+        "lang": "ja",
+        "name": "ルリミツドリ",
+        "synonyms": [
+          "rurimitsudori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwe Suikervogel"
+      },
+      {
+        "lang": "no",
+        "name": "Rødbeinhonningkryper"
+      },
+      {
+        "lang": "pl",
+        "name": "błękitniczek czerwononogi"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-beija-flor"
+      },
+      {
+        "lang": "ru",
+        "name": "Бирюзовая цветочница"
+      },
+      {
+        "lang": "sk",
+        "name": "medosavka tyrkysová"
+      },
+      {
+        "lang": "sv",
+        "name": "Turkosfågel"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi baltırmaşığı"
+      },
+      {
+        "lang": "zh",
+        "name": "红脚旋蜜雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanerpes caeruleus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Purpurnaschvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Purple Honeycreeper"
+      },
+      {
+        "lang": "es",
+        "name": "mielero cerúleo"
+      },
+      {
+        "lang": "fr",
+        "name": "Guit-guit céruléen"
+      },
+      {
+        "lang": "hu",
+        "name": "Indigócukormadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Purperen suikervogel"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурная танагра-медосос"
+      },
+      {
+        "lang": "pt",
+        "name": "Saí-de-perna-amarela"
+      },
+      {
+        "lang": "sv",
+        "name": "Purpurhonungssugare"
+      }
+    ]
+  }
+]

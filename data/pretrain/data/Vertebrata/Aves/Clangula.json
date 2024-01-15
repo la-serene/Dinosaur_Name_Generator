@@ -1,0 +1,299 @@
+[
+  {
+    "scientific_name": "Clangula hyemalis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط طويل الذنب"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Falampiu"
+      },
+      {
+        "lang": "az",
+        "name": "Moryanka"
+      },
+      {
+        "lang": "ba",
+        "name": "Эяла"
+      },
+      {
+        "lang": "be",
+        "name": "Маранка"
+      },
+      {
+        "lang": "bg",
+        "name": "Ледена потапница"
+      },
+      {
+        "lang": "br",
+        "name": "Morhouad-kerregi"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec glacial"
+      },
+      {
+        "lang": "cs",
+        "name": "Hoholka lední"
+      },
+      {
+        "lang": "csb",
+        "name": "Kôłpiónka"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos lostek"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Gynffon-hir"
+      },
+      {
+        "lang": "da",
+        "name": "Havlit"
+      },
+      {
+        "lang": "de",
+        "name": "Eisente"
+      },
+      {
+        "lang": "el",
+        "name": "χιονόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed Duck"
+      },
+      {
+        "lang": "eo",
+        "name": "Longvosta klangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Pato havelda"
+      },
+      {
+        "lang": "et",
+        "name": "Aul"
+      },
+      {
+        "lang": "eu",
+        "name": "Izotz-ahate"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک دم‌دراز"
+      },
+      {
+        "lang": "fi",
+        "name": "Alli"
+      },
+      {
+        "lang": "fo",
+        "name": "Ógvella"
+      },
+      {
+        "lang": "fr",
+        "name": "Harelde Boréale"
+      },
+      {
+        "lang": "frr",
+        "name": "Isfögel"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisein"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha earrfhada"
+      },
+      {
+        "lang": "gd",
+        "name": "Eun buchainn"
+      },
+      {
+        "lang": "gl",
+        "name": "Ànec glacial"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Lheeah"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז קרח"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka ledara"
+      },
+      {
+        "lang": "hu",
+        "name": "Jegesréce"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ ծովային"
+      },
+      {
+        "lang": "ik",
+        "name": "Aaqhaaliq"
+      },
+      {
+        "lang": "is",
+        "name": "Hávella"
+      },
+      {
+        "lang": "it",
+        "name": "Moretta codona"
+      },
+      {
+        "lang": "iu",
+        "name": "Aa'aangiq"
+      },
+      {
+        "lang": "ja",
+        "name": "コオリガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "მეზღვია იხვი"
+      },
+      {
+        "lang": "kk",
+        "name": "Ұшқыр үйрек"
+      },
+      {
+        "lang": "kl",
+        "name": "Alleq"
+      },
+      {
+        "lang": "ko",
+        "name": "바다꿩"
+      },
+      {
+        "lang": "ky",
+        "name": "Түндүк өрдөк"
+      },
+      {
+        "lang": "lt",
+        "name": "Ledinė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Kākaulis"
+      },
+      {
+        "lang": "mk",
+        "name": "Долгоопашеста патка"
+      },
+      {
+        "lang": "mn",
+        "name": "Мөнгөлөг шунгаахай"
+      },
+      {
+        "lang": "ne",
+        "name": "लामपुच्छ्रे हाँस"
+      },
+      {
+        "lang": "nl",
+        "name": "IJseend"
+      },
+      {
+        "lang": "nn",
+        "name": "Havelle"
+      },
+      {
+        "lang": "no",
+        "name": "Havelle"
+      },
+      {
+        "lang": "olo",
+        "name": "Alli"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pilé vireux"
+      },
+      {
+        "lang": "pl",
+        "name": "Lodówka"
+      },
+      {
+        "lang": "pnb",
+        "name": "لمی پوچھل آلی بطخ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-de-cauda-afilada"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda da glatsch"
+      },
+      {
+        "lang": "ru",
+        "name": "Морянка"
+      },
+      {
+        "lang": "sah",
+        "name": "Ээбиллэ"
+      },
+      {
+        "lang": "se",
+        "name": "Haŋŋá"
+      },
+      {
+        "lang": "sk",
+        "name": "Ľadovka dlhochvostá"
+      },
+      {
+        "lang": "sl",
+        "name": "Zimska raca"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa e ngricave"
+      },
+      {
+        "lang": "sr",
+        "name": "Ledenjarka - Ледењарка"
+      },
+      {
+        "lang": "sv",
+        "name": "Alfågel"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดหางยาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Telkuyruk"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ала шивегей-кудурук"
+      },
+      {
+        "lang": "uk",
+        "name": "Морянка"
+      },
+      {
+        "lang": "vep",
+        "name": "All'"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt đuôi dài"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾鸭"
+      }
+    ]
+  }
+]

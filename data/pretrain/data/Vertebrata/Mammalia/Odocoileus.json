@@ -1,0 +1,109 @@
+[
+  {
+    "scientific_name": "Odocoileus virginianus",
+    "common_names": [
+      {
+        "lang": "ak",
+        "name": "Owansane"
+      },
+      {
+        "lang": "cpa",
+        "name": "Cuø³ nung²"
+      },
+      {
+        "lang": "de",
+        "name": "Weißwedelhirsch"
+      },
+      {
+        "lang": "el",
+        "name": "Ωδόκοιλος της Αμερικής"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo de Cola Blanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkohäntäpeura"
+      },
+      {
+        "lang": "fr",
+        "name": "Cerf de Virginie"
+      },
+      {
+        "lang": "gl",
+        "name": "Cervo virxiniano"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú szarvas",
+        "synonyms": [
+          "virginiai szarvas"
+        ]
+      },
+      {
+        "lang": "nah",
+        "name": "Mazatl"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaarthert"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithalehjort"
+      },
+      {
+        "lang": "pl",
+        "name": "Jeleń wirginijski"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitsvanshjort"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kuyruklu geyik"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Odocoileus hemionus",
+    "common_names": [
+      {
+        "lang": "el",
+        "name": "Ωδόκοιλος ο ημίονος"
+      },
+      {
+        "lang": "en",
+        "name": "Mule Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo mulo"
+      },
+      {
+        "lang": "fi",
+        "name": "Muulipeura",
+        "synonyms": [
+          "mustahäntäpeura"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Öszvérszarvas",
+        "synonyms": [
+          "füles amerikai szarvas"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Katır geyiği"
+      }
+    ]
+  }
+]

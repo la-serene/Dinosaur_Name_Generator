@@ -1,0 +1,442 @@
+[
+  {
+    "scientific_name": "Polyplectron schleiermacheri",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Borneo-Pfaufasan"
+      },
+      {
+        "lang": "en",
+        "name": "Bornean Peacock-pheasant"
+      },
+      {
+        "lang": "hu",
+        "name": "Borneói pávafácán"
+      },
+      {
+        "lang": "bg",
+        "name": "Борнейски паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Borneo"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول طاووسی برنئو"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier de Bornéo"
+      },
+      {
+        "lang": "id",
+        "name": "Kuau-kerdil kalimantan"
+      },
+      {
+        "lang": "ja",
+        "name": "ボルネオコクジャク"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Merak Borneo"
+      },
+      {
+        "lang": "nl",
+        "name": "Borneopauwfazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "بورنیو مور بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "borneopåfågelfasan"
+      },
+      {
+        "lang": "zh",
+        "name": "婆羅洲孔雀雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron napoleonis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Palawan-Pfaufasan"
+      },
+      {
+        "lang": "en",
+        "name": "Palawan Peacock-pheasant"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier napoléon"
+      },
+      {
+        "lang": "hu",
+        "name": "Díszes pávafácán"
+      },
+      {
+        "lang": "ja",
+        "name": "パラワンコクジャク"
+      },
+      {
+        "lang": "nl",
+        "name": "Palawanpauwfazant"
+      },
+      {
+        "lang": "zh",
+        "name": "巴拉旺孔雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron malacense",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Malayischer Spiegelpfau"
+      },
+      {
+        "lang": "en",
+        "name": "Malayan Peacock-pheasant"
+      },
+      {
+        "lang": "id",
+        "name": "Kuau-kerdil Malaya"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Merak Pongsu"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "凤冠孔雀雉"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "鳳冠孔雀雉"
+      },
+      {
+        "lang": "bg",
+        "name": "Малайски паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Malàisia"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant malajský"
+      },
+      {
+        "lang": "cy",
+        "name": "Peunffesant Malaia"
+      },
+      {
+        "lang": "eo",
+        "name": "Malaja pavofazano"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول طاووسی مالایایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier malais"
+      },
+      {
+        "lang": "hu",
+        "name": "Maláj pávafácán"
+      },
+      {
+        "lang": "ja",
+        "name": "エボシコクジャク"
+      },
+      {
+        "lang": "nl",
+        "name": "Maleise spiegelpauw"
+      },
+      {
+        "lang": "pl",
+        "name": "Wieloszpon pawi"
+      },
+      {
+        "lang": "pnb",
+        "name": "ملائی مور بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "malajpåfågelfasan"
+      },
+      {
+        "lang": "th",
+        "name": "นกแว่นสีน้ำตาล"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron katsumatae",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قبيط هاينان"
+      },
+      {
+        "lang": "bg",
+        "name": "Хайнански паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Hainan"
+      },
+      {
+        "lang": "en",
+        "name": "Hainan peacock-pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Hajnana pavofazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier de Hainan"
+      },
+      {
+        "lang": "nl",
+        "name": "Hainanspiegelpauw"
+      },
+      {
+        "lang": "sv",
+        "name": "hainanpåfågelfasan"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà tiền Hải Nam"
+      },
+      {
+        "lang": "zh",
+        "name": "海南孔雀雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron inopinatum",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rothschild-Pfaufasan"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Peacock-pheasant"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi pávafácán"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kuang Cermin"
+      },
+      {
+        "lang": "bg",
+        "name": "Планински паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Rostchild"
+      },
+      {
+        "lang": "cy",
+        "name": "Peunffesant Rothschild"
+      },
+      {
+        "lang": "eo",
+        "name": "Monta pavofazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier de Rothschild"
+      },
+      {
+        "lang": "ja",
+        "name": "アカコクジャク"
+      },
+      {
+        "lang": "nl",
+        "name": "Rotschilds pauwfazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "پہاڑی مور بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "bergpåfågelfasan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron germaini",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Гермайнов паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Germain"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant bělolící"
+      },
+      {
+        "lang": "cy",
+        "name": "Peunffesant Germain"
+      },
+      {
+        "lang": "de",
+        "name": "Brauner Pfaufasan"
+      },
+      {
+        "lang": "en",
+        "name": "Germain's peacock-pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Germajna pavofazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier de Germain"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna pávafácán"
+      },
+      {
+        "lang": " ja",
+        "name": "カッショクコクジャク"
+      },
+      {
+        "lang": "nl",
+        "name": "Germains pauwfazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "یرمین مور بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "Germains påfågelfasan"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà tiền mặt đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "眼斑孔雀雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron chalcurum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bronze-tailed Peacock-pheasant"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyplectron bicalcaratum",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "কাঠময়ূর"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant paví"
+      },
+      {
+        "lang": "de",
+        "name": "Grauer Pfaufasan"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Peacock-pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza pavofazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán pavo real"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier chinquis"
+      },
+      {
+        "lang": "hu",
+        "name": "Pávaszemes fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Speroniere grigio"
+      },
+      {
+        "lang": "ja",
+        "name": "コクジャク"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkasis povinis fazanas"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kuang Kelabu"
+      },
+      {
+        "lang": "nl",
+        "name": "Spiegelpauw"
+      },
+      {
+        "lang": "pnb",
+        "name": "گرے پیکاک-فیزنٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Faisão-eperonier"
+      },
+      {
+        "lang": "ru",
+        "name": "Павлиний фазан"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå påfågelfasan"
+      },
+      {
+        "lang": "th",
+        "name": "นกแว่นสีเทา"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà tiền mặt vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "灰孔雀雉"
+      }
+    ]
+  }
+]

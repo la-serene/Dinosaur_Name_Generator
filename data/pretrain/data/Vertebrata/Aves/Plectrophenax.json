@@ -1,0 +1,284 @@
+[
+  {
+    "scientific_name": "Plectrophenax nivalis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "درسة الثلوج"
+      },
+      {
+        "lang": "az",
+        "name": "Şimal sərçəsi"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҡбаш турғай"
+      },
+      {
+        "lang": "bg",
+        "name": "Снежна овесарка"
+      },
+      {
+        "lang": "bn",
+        "name": "তুষার চটক"
+      },
+      {
+        "lang": "br",
+        "name": "Brean-erc'h"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Sněhule severní"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajnô sniegùlka"
+      },
+      {
+        "lang": "cy",
+        "name": "Bras yr Eira"
+      },
+      {
+        "lang": "da",
+        "name": "Snespurv"
+      },
+      {
+        "lang": "de",
+        "name": "Schneeammer"
+      },
+      {
+        "lang": "el",
+        "name": "Χιονοτσίχλον"
+      },
+      {
+        "lang": "en",
+        "name": "Snow Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Neĝemberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano nival"
+      },
+      {
+        "lang": "et",
+        "name": "Hangelind"
+      },
+      {
+        "lang": "eu",
+        "name": "Elur-berdantza"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره برفی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pulmunen"
+      },
+      {
+        "lang": "fo",
+        "name": "Snjófuglur"
+      },
+      {
+        "lang": "fr",
+        "name": "Plectrophane des neiges"
+      },
+      {
+        "lang": "frr",
+        "name": "Snäsparag"
+      },
+      {
+        "lang": "fy",
+        "name": "Sniefink"
+      },
+      {
+        "lang": "ga",
+        "name": "Gealóg sneachta"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta das neves"
+      },
+      {
+        "lang": "he",
+        "name": "גיבתון השלג"
+      },
+      {
+        "lang": "hu",
+        "name": "Hósármány"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան ձյան"
+      },
+      {
+        "lang": "is",
+        "name": "Snjótittlingur"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo delle nevi"
+      },
+      {
+        "lang": "ja",
+        "name": "ユキホオジロ"
+      },
+      {
+        "lang": "kbd",
+        "name": "КӀырыкъпӀащэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақторғай"
+      },
+      {
+        "lang": "ku",
+        "name": "Çirçiroka berfê"
+      },
+      {
+        "lang": "lt",
+        "name": "Sniegstartė"
+      },
+      {
+        "lang": "lv",
+        "name": "Sniedze"
+      },
+      {
+        "lang": "mn",
+        "name": "Туйлын цасчхөмрөг"
+      },
+      {
+        "lang": "mrj",
+        "name": "Поран кек"
+      },
+      {
+        "lang": "nl",
+        "name": "Sneeuwgors"
+      },
+      {
+        "lang": "nn",
+        "name": "Snøsporv"
+      },
+      {
+        "lang": "no",
+        "name": "Snøspurv"
+      },
+      {
+        "lang": "olo",
+        "name": "Punaine"
+      },
+      {
+        "lang": "pl",
+        "name": "Śnieguła zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-das-neves"
+      },
+      {
+        "lang": "ru",
+        "name": "Пуночка"
+      },
+      {
+        "lang": "rue",
+        "name": "Пуночка"
+      },
+      {
+        "lang": "sah",
+        "name": "Туллук"
+      },
+      {
+        "lang": "sk",
+        "name": "Snehuľka severská"
+      },
+      {
+        "lang": "sr",
+        "name": "Снежна стрнадица - Snežna strnadica"
+      },
+      {
+        "lang": "sv",
+        "name": "Snösparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Kar kiraz kuşu"
+      },
+      {
+        "lang": "tt",
+        "name": "Акбаш чыпчык"
+      },
+      {
+        "lang": "uk",
+        "name": "Пуночка"
+      },
+      {
+        "lang": "wuu",
+        "name": "雪鹀"
+      },
+      {
+        "lang": "zh",
+        "name": "雪鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Plectrophenax hyperboreus",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Lumipulmunen"
+      },
+      {
+        "lang": "cy",
+        "name": "Bras McKay"
+      },
+      {
+        "lang": "en",
+        "name": "McKay's bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Beringa emberizo"
+      },
+      {
+        "lang": "et",
+        "name": "Lumelind"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره مک‌کی"
+      },
+      {
+        "lang": "fr",
+        "name": "Plectrophane blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "McKay-sármány"
+      },
+      {
+        "lang": "ja",
+        "name": "ベーリングユキホオジロ"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltā sniedze"
+      },
+      {
+        "lang": "nl",
+        "name": "McKays sneeuwgors"
+      },
+      {
+        "lang": "sv",
+        "name": "beringsnösparv"
+      }
+    ]
+  }
+]

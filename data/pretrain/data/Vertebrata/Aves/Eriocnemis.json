@@ -1,0 +1,297 @@
+[
+  {
+    "scientific_name": "Eriocnemis vestita",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Glowing Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito reluciente"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis nigrivestis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-breasted Puffleg"
+      },
+      {
+        "lang": "fi",
+        "name": "Quitonsukkakolibri"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí calçat pitnegre"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn bacsiog bronddu"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzbauch-Höschenkolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Érione à robe noire"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartborstpluimbroekje"
+      },
+      {
+        "lang": "pl",
+        "name": "Puchatek czarnopierśny"
+      },
+      {
+        "lang": "sv",
+        "name": "svartbröstad dunbena"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito pechinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis mosquera",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-breasted Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito de Mosquera"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis mirabilis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Blaubauch-Höschenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Colorful Puffleg"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirjosukkakolibri"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí calçat multicolor"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn bacsiog lliwgar"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito admirable"
+      },
+      {
+        "lang": "fr",
+        "name": "Érione multicolore"
+      },
+      {
+        "lang": "nl",
+        "name": "Witoorpluimbroekje"
+      },
+      {
+        "lang": "nn",
+        "name": "Regnbogedunfot"
+      },
+      {
+        "lang": "sv",
+        "name": "praktdunbena"
+      },
+      {
+        "lang": "zh",
+        "name": "彩毛腿蜂鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis luciani",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langschwanz-Höschenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Sapphire-vented Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito colilargo norteño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis isabellae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gorgeted Puffleg"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí calçat d'Isabella"
+      },
+      {
+        "lang": "de",
+        "name": "Isabella-Schneehöschen"
+      },
+      {
+        "lang": "fi",
+        "name": "Caucansukkakolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Érione d'Isabella"
+      },
+      {
+        "lang": "hu",
+        "name": "Galléros pamacslábú-kolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Isabellapluimbroekje"
+      },
+      {
+        "lang": "nn",
+        "name": "Juveldunfot"
+      },
+      {
+        "lang": "sv",
+        "name": "kragdunbena"
+      },
+      {
+        "lang": "zh",
+        "name": "飾領蓬腿蜂鳥"
+      },
+      {
+        "lang": "pl",
+        "name": "Puchatek modrogardły"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito del Pinche"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis godini",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Turquoise-throated Puffleg"
+      },
+      {
+        "lang": "fi",
+        "name": "Turkoosisukkakolibri"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí calçat turquesa"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn bacsiog gyddflas"
+      },
+      {
+        "lang": "fr",
+        "name": "Érione turquoise"
+      },
+      {
+        "lang": "nl",
+        "name": "Turkoois pluimbroekje"
+      },
+      {
+        "lang": "pl",
+        "name": "Puchatek turkusowy"
+      },
+      {
+        "lang": "sv",
+        "name": "turkosstrupig dunbena"
+      },
+      {
+        "lang": "zh",
+        "name": "綠喉毛腿蜂鳥"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito turquesa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis glaucopoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-capped Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito Frentiazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis derbyi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzhöschen"
+      },
+      {
+        "lang": "en",
+        "name": "Black-thighed Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito patinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis cupreoventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coppery-bellied Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito cobrizo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eriocnemis aline",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißbrust-Höschenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Emerald-bellied Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito pechiblanco"
+      }
+    ]
+  }
+]

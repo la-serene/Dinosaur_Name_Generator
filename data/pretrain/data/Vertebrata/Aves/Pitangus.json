@@ -1,0 +1,95 @@
+[
+  {
+    "scientific_name": "Pitangus sulphuratus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tirà quiquiuè"
+      },
+      {
+        "lang": "cs",
+        "name": "Tyran bentevi"
+      },
+      {
+        "lang": "da",
+        "name": "Kiskadie"
+      },
+      {
+        "lang": "de",
+        "name": "Schwefelmaskentyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Great Kiskadee"
+      },
+      {
+        "lang": "es",
+        "name": "Bienteveo Común"
+      },
+      {
+        "lang": "fi",
+        "name": "Naamioväijy"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran quiquivi"
+      },
+      {
+        "lang": "gn",
+        "name": "Pitogue"
+      },
+      {
+        "lang": "hu",
+        "name": "Bentévi"
+      },
+      {
+        "lang": "it",
+        "name": "Pitango solforato"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラオオタイランチョウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis kiskadas"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kiskadie"
+      },
+      {
+        "lang": "no",
+        "name": "Storkiskadi"
+      },
+      {
+        "lang": "pl",
+        "name": "Bentewi wielki"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Bem-te-vi"
+      },
+      {
+        "lang": "pt",
+        "name": "Bentevi-verdadeiro"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая питанга"
+      },
+      {
+        "lang": "sk",
+        "name": "Postriežkár bentevi"
+      },
+      {
+        "lang": "sv",
+        "name": "Större kiskadi"
+      },
+      {
+        "lang": "zh",
+        "name": "大食蝇霸鹟"
+      }
+    ]
+  }
+]

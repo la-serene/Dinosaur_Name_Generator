@@ -1,0 +1,60 @@
+[
+  {
+    "scientific_name": "Crocias langbianis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-crowned Crocias"
+      },
+      {
+        "lang": "cy",
+        "name": "Sibia Mynydd Langbian"
+      },
+      {
+        "lang": "nl",
+        "name": "Langbiansibia"
+      },
+      {
+        "lang": "sv",
+        "name": "annamkrokia"
+      },
+      {
+        "lang": "vi",
+        "name": "Mi núi Bà"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocias albonotatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spotted Crocias"
+      },
+      {
+        "lang": "es",
+        "name": "Sibia moteada"
+      },
+      {
+        "lang": "sv",
+        "name": "javasibia"
+      },
+      {
+        "lang": "cy",
+        "name": "Sibia mannog"
+      },
+      {
+        "lang": "id",
+        "name": "Cica matahari"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse sibia"
+      },
+      {
+        "lang": "vi",
+        "name": "Mi đốm"
+      }
+    ]
+  }
+]

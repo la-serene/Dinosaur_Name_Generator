@@ -1,0 +1,96 @@
+[
+  {
+    "scientific_name": "Henicophaps foersteri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub novobritský"
+      },
+      {
+        "lang": "de",
+        "name": "Rotscheiteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "New Britain Bronzewing"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma bronce de Nueva Bretaña"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom bronzat de Nova Bretanya"
+      },
+      {
+        "lang": "cy",
+        "name": "Adeinefydd Prydain Newydd"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر بال‌برنزی نیو بریتن"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine de Nouvelle-Bretagne"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-britanniai bronzgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "У Британи той шылдыран кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "New-Britainbronsvleugelduif"
+      },
+      {
+        "lang": "pl",
+        "name": "Cudolotka białogardła"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہینیکوفاپس فورسٹری"
+      },
+      {
+        "lang": "sv",
+        "name": "bismarckbronsvingeduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Henicophaps albifrons",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub černobronzový"
+      },
+      {
+        "lang": "de",
+        "name": "Weißscheiteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "New Guinea Bronzewing"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma bronce frentiblanca"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine à front blanc"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیوگنی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "Svart bronsvingeduva"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "scientific_name": "Neotragus pygmaeus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Antilopenn roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Antílop reial"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinstböckchen"
+      },
+      {
+        "lang": "en",
+        "name": "Royal Antelope"
+      },
+      {
+        "lang": "es",
+        "name": "Antílope enano",
+        "synonyms": [
+          "antílope real"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Antilope pigmea",
+        "synonyms": [
+          "antilope reale"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinė antilopė"
+      },
+      {
+        "lang": "hu",
+        "name": "Apró törpeantilop"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergantilope"
+      },
+      {
+        "lang": "ja",
+        "name": "ローヤルアンテロープ"
+      },
+      {
+        "lang": "no",
+        "name": "Kongeantilope"
+      },
+      {
+        "lang": "pl",
+        "name": "Antylopa karłowata"
+      },
+      {
+        "lang": "pt",
+        "name": "Antílope-real"
+      },
+      {
+        "lang": "ru",
+        "name": "Карликовая антилопа"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasantilooppi"
+      },
+      {
+        "lang": "sv",
+        "name": "Guineadvärgantilop",
+        "synonyms": [
+          "kungsantilop"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kral antilop"
+      },
+      {
+        "lang": "uk",
+        "name": "Антилопа карликова"
+      },
+      {
+        "lang": "zh",
+        "name": "倭新小羚"
+      }
+    ]
+  }
+]

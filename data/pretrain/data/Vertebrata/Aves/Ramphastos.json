@@ -1,0 +1,459 @@
+[
+  {
+    "scientific_name": "Ramphastos vitellinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Channel-billed Toucan"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucan ariel"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketecsőrű tukán",
+        "synonyms": [
+          "narancsmellű tukán"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ヒムネオオハシ"
+      },
+      {
+        "lang": "pt",
+        "name": "tucano-de-bico-preto"
+      },
+      {
+        "lang": "sv",
+        "name": "skårnäbbad tukan",
+        "synonyms": [
+          "gulbröstad tukan"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "طوقان قنواتي المنقار"
+      },
+      {
+        "lang": "bg",
+        "name": "Каналестоклюн тукан"
+      },
+      {
+        "lang": "ca",
+        "name": "Tucà vitel·lí"
+      },
+      {
+        "lang": "cs",
+        "name": "Tukan bělolící"
+      },
+      {
+        "lang": "cy",
+        "name": "Twcan pigddu"
+      },
+      {
+        "lang": "da",
+        "name": "Gulbrystet tukan"
+      },
+      {
+        "lang": "de",
+        "name": "Dottertukan"
+      },
+      {
+        "lang": "eo",
+        "name": "Bluokula tukano"
+      },
+      {
+        "lang": "es",
+        "name": "tucán de pico acanalado"
+      },
+      {
+        "lang": "fa",
+        "name": "توکان منقارلوله‌ای"
+      },
+      {
+        "lang": "he",
+        "name": "טוקן שחור-מקור"
+      },
+      {
+        "lang": "mrj",
+        "name": "Канал нерӓн тукан"
+      },
+      {
+        "lang": "nl",
+        "name": "Groefsnaveltoekan"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídii bidaatsoh łizhiní dóó binákʼee dootłʼizhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوکو ٹوکان"
+      },
+      {
+        "lang": "qu",
+        "name": "Yaw sikwanka"
+      },
+      {
+        "lang": "ru",
+        "name": "Тукан-ариель"
+      },
+      {
+        "lang": "zh",
+        "name": "凹嘴鵎鵼"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos tucanus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "طوقان أبيض الحنجرة"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеноклюн тукан"
+      },
+      {
+        "lang": "ca",
+        "name": "Tucà pitblanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Tukan bledohrdlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Twcan picoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødnæbbet Tukan"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrusttukan"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Toucan"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankgorĝa tukano"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán pechiblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Manisktuukan"
+      },
+      {
+        "lang": "fa",
+        "name": "توکان گلوسفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Karmiininokkatukaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucan à bec rouge"
+      },
+      {
+        "lang": "he",
+        "name": "טוקן לבן-גרון"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú tukán"
+      },
+      {
+        "lang": "it",
+        "name": "Tucano beccorosso"
+      },
+      {
+        "lang": "ja",
+        "name": "シロムネオオハシ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош онган тукан"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodsnaveltoekan"
+      },
+      {
+        "lang": "no",
+        "name": "Vinnebbtukan"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی ٹھوڈی ٹوکان"
+      },
+      {
+        "lang": "pl",
+        "name": "Tukan czerwonodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucano-de-papo-branco"
+      },
+      {
+        "lang": "ru",
+        "name": "Белогрудый тукан"
+      },
+      {
+        "lang": "sk",
+        "name": "Tukan bieloprsý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstrupig tukan"
+      },
+      {
+        "lang": "zh",
+        "name": "紅嘴巨嘴鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos toco",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Riesentukan"
+      },
+      {
+        "lang": "en",
+        "name": "Toco Toucan"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán Toco"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningastukaani"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriástukán",
+        "synonyms": [
+          "tokótukán"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "オニオオハシ"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis tukanas"
+      },
+      {
+        "lang": "pt",
+        "name": "tucanuçu",
+        "synonyms": [
+          "tucanaçu",
+          "tucano-grande",
+          "tucano-boi",
+          "tucano-toco",
+          "tucano-açu"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "托哥巨嘴鸟",
+        "synonyms": [
+          "巨嘴鸟"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos sulfuratus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tukan krátkozobý"
+      },
+      {
+        "lang": "da",
+        "name": "Kølnæbbet Tukan"
+      },
+      {
+        "lang": "de",
+        "name": "Fischertukan"
+      },
+      {
+        "lang": "en",
+        "name": "Keel-billed Toucan",
+        "synonyms": [
+          "Rainbow-billed Toucan",
+          "Sulphur-breasted Toucan"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Sulfurbrusta tukano"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán Piquiverde"
+      },
+      {
+        "lang": "et",
+        "name": "vääveltuukan"
+      },
+      {
+        "lang": "fi",
+        "name": "rikkitukaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucan à carène"
+      },
+      {
+        "lang": "hu",
+        "name": "Szivárványcsőrű tukán",
+        "synonyms": [
+          "Fischer tukán"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Tucano solforato"
+      },
+      {
+        "lang": "ja",
+        "name": "サンショクキムネオオハシ",
+        "synonyms": [
+          "sanshokukimuneoohashi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Plokščiasnapis tukanas"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwavelborsttoekan"
+      },
+      {
+        "lang": "no",
+        "name": "Regnbuetukan"
+      },
+      {
+        "lang": "pl",
+        "name": "tukan teczodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucano-de-peito-amarelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Радужный тукан"
+      },
+      {
+        "lang": "sk",
+        "name": "tukan žltohrdlý"
+      },
+      {
+        "lang": "sv",
+        "name": "Svaveltukan"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı göğüslü tukan"
+      },
+      {
+        "lang": "zh",
+        "name": "彩虹巨嘴鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos picatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ramphastos dicolorus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-breasted Toucan"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultarintatukaani"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldcsőrű tukán"
+      },
+      {
+        "lang": "ja",
+        "name": "アオハシヒムネオオハシ"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucano-de-bico-verde"
+      },
+      {
+        "lang": "sk",
+        "name": "Tukan pestrý"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos citreolaemus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Citron-throated Toucan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos brevis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Choco Toucan"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán del Chocó"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti tukán"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphastos ambiguus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-mandibled Toucan"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranytorkú tukán"
+      },
+      {
+        "lang": "es",
+        "name": "Tucán pechigualdo"
+      }
+    ]
+  }
+]

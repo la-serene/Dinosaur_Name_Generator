@@ -1,0 +1,77 @@
+[
+  {
+    "scientific_name": "Geophaps smithii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub koroptví"
+      },
+      {
+        "lang": "en",
+        "name": "Partridge Pigeon"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom de màscara roja"
+      },
+      {
+        "lang": "cy",
+        "name": "Adeinefydd y Gogledd"
+      },
+      {
+        "lang": "de",
+        "name": "Rotbrillentaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine de Smith"
+      },
+      {
+        "lang": "nl",
+        "name": "Naaktoogkwartelduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "تتر کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Rapphöneduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geophaps scripta",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub písmenkový"
+      },
+      {
+        "lang": "en",
+        "name": "Squatter Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma escrita"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geophaps plumifera",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub křepelčí"
+      },
+      {
+        "lang": "en",
+        "name": "Spinifex Pigeon"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine plumifère"
+      }
+    ]
+  }
+]

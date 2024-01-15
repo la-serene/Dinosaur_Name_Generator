@@ -1,0 +1,64 @@
+[
+  {
+    "scientific_name": "Macrotis leucura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Bilby"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú erszényesnyúl"
+      },
+      {
+        "lang": "ja",
+        "name": "チビミミナガバンディクート<!--絶滅野生動物事典 2020 p.501-->"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine langoorbuideldas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macrotis lagotis",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Grósser Kaniggénoosenbaitler"
+      },
+      {
+        "lang": "be",
+        "name": "Трусіны бандыкут"
+      },
+      {
+        "lang": "cs",
+        "name": "Bandikut králíkovitý"
+      },
+      {
+        "lang": "de",
+        "name": "Großer Kaninchennasenbeutler"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Bilby"
+      },
+      {
+        "lang": "hu",
+        "name": "Közönséges erszényesnyúl"
+      },
+      {
+        "lang": "ja",
+        "name": "ミミナガバンディクート"
+      },
+      {
+        "lang": "pl",
+        "name": "Wielkouch króliczy"
+      },
+      {
+        "lang": "zh",
+        "name": "兔耳袋狸"
+      }
+    ]
+  }
+]

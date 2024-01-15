@@ -1,0 +1,60 @@
+[
+  {
+    "scientific_name": "Terenura sicki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-bellied Antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí de Sick"
+      },
+      {
+        "lang": "pt",
+        "name": "Zidedê-do-nordeste"
+      },
+      {
+        "lang": "cy",
+        "name": "Dryw morgrug tororen"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzrücken-Ameisenfänger"
+      },
+      {
+        "lang": "fr",
+        "name": "Grisin de Sick"
+      },
+      {
+        "lang": "nl",
+        "name": "Oranjebuikmiersluiper"
+      },
+      {
+        "lang": "pl",
+        "name": "Mrówkowiec złotobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "Orangebukig myrsmyg"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Terenura maculata",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tiluchí enano"
+      },
+      {
+        "lang": "en",
+        "name": "Streak-capped antwren"
+      },
+      {
+        "lang": "pt",
+        "name": "Zidedé"
+      }
+    ]
+  }
+]

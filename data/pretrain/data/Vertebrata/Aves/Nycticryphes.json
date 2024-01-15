@@ -1,0 +1,38 @@
+[
+  {
+    "scientific_name": "Nycticryphes semicollaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Slučice jihoamerická"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydamerikansk rallbeckasin"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük boyalı su çulluğu",
+        "synonyms": [
+          "Güney Amerika boyalı su çulluğu"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "South American painted-snipe"
+      },
+      {
+        "lang": "es",
+        "name": "Aguatero"
+      },
+      {
+        "lang": "ko",
+        "name": "남미호사도요"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Narceja-de-bico-torto"
+      }
+    ]
+  }
+]

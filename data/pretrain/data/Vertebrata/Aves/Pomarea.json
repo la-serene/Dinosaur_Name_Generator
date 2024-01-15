@@ -1,0 +1,194 @@
+[
+  {
+    "scientific_name": "Pomarea fluxa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pomarea nukuhivae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pomarea mira",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pomarea pomarea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pomarea whitneyi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Monark Fatu Hiva"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin mawr"
+      },
+      {
+        "lang": "en",
+        "name": "Fatu Hiva monarch"
+      },
+      {
+        "lang": "fi",
+        "name": "Fatuhivanmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque de Fatu Hiva"
+      },
+      {
+        "lang": "nl",
+        "name": "Fatuhivamonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "fatuhivamonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pomarea nigra",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tahiti Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin Tahiti"
+      },
+      {
+        "lang": "fi",
+        "name": "Tahitinmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque de Tahiti"
+      },
+      {
+        "lang": "hu",
+        "name": "Tahiti tengerilégykapó"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahitimonarch"
+      },
+      {
+        "lang": "no",
+        "name": "Tahitimonark"
+      },
+      {
+        "lang": "pl",
+        "name": "Pacyficzka czarna"
+      },
+      {
+        "lang": "pt",
+        "name": "Monarca do Tahiti"
+      },
+      {
+        "lang": "sv",
+        "name": "tahitimonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pomarea mendozae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Marquesan Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin Marquesas"
+      },
+      {
+        "lang": "de",
+        "name": "Marquesas-Monarch"
+      },
+      {
+        "lang": "fi",
+        "name": "Marquesasinvuorimonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Markiezenmonarch"
+      },
+      {
+        "lang": "pl",
+        "name": "Pacyficzka zmienna"
+      },
+      {
+        "lang": "sv",
+        "name": "marquesasmonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pomarea iphis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Iphis Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin cyflym"
+      },
+      {
+        "lang": "de",
+        "name": "Iphis-Fliegenschnäpper"
+      },
+      {
+        "lang": "fi",
+        "name": "Marquesasinrantamonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Iphismonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "uahukamonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pomarea dimidiata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rarotonga Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de Rarotonga"
+      },
+      {
+        "lang": "fi",
+        "name": "Rarotonganmonarkki"
+      },
+      {
+        "lang": "hu",
+        "name": "Rarotongai tengerilégykapó",
+        "synonyms": [
+          "kakerori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Rarotongamonarch"
+      },
+      {
+        "lang": "ru",
+        "name": "Раротонгская помарея"
+      },
+      {
+        "lang": "sv",
+        "name": "rarotongamonark"
+      }
+    ]
+  }
+]

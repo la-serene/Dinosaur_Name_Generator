@@ -1,0 +1,56 @@
+[
+  {
+    "scientific_name": "Polystictus superciliaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-backed tachuri"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-moscas-de-costas-cinzentas"
+      },
+      {
+        "lang": "es",
+        "name": "Tachurí gris"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polystictus pectoralis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bearded tachuri"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-moscas-canela"
+      },
+      {
+        "lang": "es",
+        "name": "Tachurí barbado; tachurí canela"
+      },
+      {
+        "lang": "cy",
+        "name": "Teyrn barfog"
+      },
+      {
+        "lang": "fa",
+        "name": "ژیان‌مرغ ریشدار"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruohonapsija"
+      },
+      {
+        "lang": "nl",
+        "name": "Baardtiran"
+      },
+      {
+        "lang": "sv",
+        "name": "skäggtachuri"
+      }
+    ]
+  }
+]

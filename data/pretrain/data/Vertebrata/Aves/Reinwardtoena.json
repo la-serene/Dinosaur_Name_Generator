@@ -1,0 +1,137 @@
+[
+  {
+    "scientific_name": "Reinwardtoena reinwardtii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub kukačkovitý"
+      },
+      {
+        "lang": "en",
+        "name": "Great Cuckoo-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma rabuda papú"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy kakukkgalamb"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen gynffonhir Reinwardt"
+      },
+      {
+        "lang": "de",
+        "name": "Rotbraune Reinwardttaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کوکوکبوتر بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Papuanharakkakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Phasianelle de Reinwardt"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кого кужы пачан кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Reinwardts langstaartduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "کوئل کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "långstjärtad gökduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Reinwardtoena crassirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub přílbový"
+      },
+      {
+        "lang": "de",
+        "name": "Salomonen-Schopftaube"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Cuckoo-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma rabuda crestada"
+      },
+      {
+        "lang": "fa",
+        "name": "کوکوکبوتر تاج‌دار"
+      },
+      {
+        "lang": "fr",
+        "name": "Phasianelle huppée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Reinwardtoena browni",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Brownův"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Cuckoo-Dove"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen gynffonhir Brown"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarze Reinwardttaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کوکوکبوتر ابلق"
+      },
+      {
+        "lang": "fi",
+        "name": "Hopeaharakkakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Phasianelle de Brown"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ала кужы пачан кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Browns langstaartduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "چمبی کوئل کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "bismarckgökduva"
+      }
+    ]
+  }
+]

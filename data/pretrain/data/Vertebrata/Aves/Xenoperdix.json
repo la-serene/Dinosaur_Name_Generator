@@ -1,0 +1,76 @@
+[
+  {
+    "scientific_name": "Xenoperdix udzungwensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Perdiu de Tanzània"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev tanzanská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Udzungwa"
+      },
+      {
+        "lang": "de",
+        "name": "Udzungwawachtel"
+      },
+      {
+        "lang": "en",
+        "name": "Udzungwa Forest Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Udzungŭa perdriko"
+      },
+      {
+        "lang": "fr",
+        "name": "Xénoperdrix des Udzungwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Udzungwai erdeifogoly"
+      },
+      {
+        "lang": "nl",
+        "name": "Udzungwabospatrijs"
+      },
+      {
+        "lang": "pl",
+        "name": "Rdzawobród"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička tanzánijská"
+      },
+      {
+        "lang": "sv",
+        "name": "udzungwahöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Xenoperdix obscurata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rubeho Forest-partridge"
+      },
+      {
+        "lang": "fr",
+        "name": "Xénoperdrix des Rubeho"
+      },
+      {
+        "lang": "nl",
+        "name": "Rubehobospatrijs"
+      },
+      {
+        "lang": "sv",
+        "name": "rubehohöna"
+      }
+    ]
+  }
+]

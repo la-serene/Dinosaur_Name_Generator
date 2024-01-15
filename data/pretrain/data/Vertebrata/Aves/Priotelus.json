@@ -1,0 +1,71 @@
+[
+  {
+    "scientific_name": "Priotelus temnurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cuban Trogon"
+      },
+      {
+        "lang": "eo",
+        "name": "Kuba trogono"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Priotelus roseigaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hispaniolan Trogon"
+      },
+      {
+        "lang": "ca",
+        "name": "Trogon de la Hispaniola"
+      },
+      {
+        "lang": "ht",
+        "name": "Kanson wouj"
+      },
+      {
+        "lang": "cy",
+        "name": "Trogon Hispaniola"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón de la Española"
+      },
+      {
+        "lang": "fa",
+        "name": "لانه‌کن هیسپانیولا"
+      },
+      {
+        "lang": "fi",
+        "name": "Haitintrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon damoiseau",
+        "synonyms": [
+          "caleçon rouge (Haïti)"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Hispaniolatrogon"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہسپیونولی ٹروگن"
+      },
+      {
+        "lang": "sv",
+        "name": "hispaniolatrogon"
+      },
+      {
+        "lang": "zh",
+        "name": "伊斯帕尼奥拉咬鵑"
+      }
+    ]
+  }
+]

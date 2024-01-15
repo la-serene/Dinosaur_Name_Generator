@@ -1,0 +1,143 @@
+[
+  {
+    "scientific_name": "Zosterornis whiteheadi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-faced Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de Whitehead"
+      },
+      {
+        "lang": "pl",
+        "name": "filipinek rdzawolicy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterornis striatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Luzon Striped-Babbler"
+      },
+      {
+        "lang": "pl",
+        "name": "filipinek kreskowany"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterornis nigrorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Negros Striped-Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de la Negros"
+      },
+      {
+        "lang": "pl",
+        "name": "filipinek oliwkowy"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکوی خطدار نگرس"
+      },
+      {
+        "lang": "nl",
+        "name": "Negrosboomtimalia"
+      },
+      {
+        "lang": "pnb",
+        "name": "زیسٹیرورسس نگرورم"
+      },
+      {
+        "lang": "sv",
+        "name": "negrosglasögonfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "黑纹穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterornis latistriatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Panay Striped-Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí rayado"
+      },
+      {
+        "lang": "pl",
+        "name": "filipinek białolicy"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکوی خطدار پانای"
+      },
+      {
+        "lang": "nl",
+        "name": "Panayboomtimalia"
+      },
+      {
+        "lang": "pnb",
+        "name": "زیسٹیرورسس لیٹسٹریاٹس"
+      },
+      {
+        "lang": "sv",
+        "name": "panayglasögonfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "班岛穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterornis hypogrammicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Palawan Striped-Babbler"
+      },
+      {
+        "lang": "cy",
+        "name": "Preblyn coed Palawan"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکوی خطدار پالاوان"
+      },
+      {
+        "lang": "nl",
+        "name": "Palawanboomtimalia"
+      },
+      {
+        "lang": "nn",
+        "name": "Palawanbrillefugl"
+      },
+      {
+        "lang": "pnb",
+        "name": "زیسٹیرورسس ہائپوگرامیکس"
+      },
+      {
+        "lang": "sv",
+        "name": "palawanglasögonfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "巴拉望穗鹛"
+      }
+    ]
+  }
+]

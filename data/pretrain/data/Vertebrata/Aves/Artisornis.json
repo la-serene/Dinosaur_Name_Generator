@@ -1,0 +1,56 @@
+[
+  {
+    "scientific_name": "Artisornis moreaui",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-billed Tailorbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Couturière de Moreau"
+      },
+      {
+        "lang": "cy",
+        "name": "Teiliwr coedwig"
+      },
+      {
+        "lang": "eo",
+        "name": "Longbeka tajlorbirdo"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک جنگلی نوک‌دراز"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäräätäli"
+      },
+      {
+        "lang": "nl",
+        "name": "Moreaus snijdervogel"
+      },
+      {
+        "lang": "sv",
+        "name": "långnäbbad skräddarfågel"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích bông mỏ dài"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Artisornis metopias",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "African Tailorbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Couturière d'Afrique"
+      }
+    ]
+  }
+]

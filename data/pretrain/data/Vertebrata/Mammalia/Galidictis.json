@@ -1,0 +1,83 @@
+[
+  {
+    "scientific_name": "Galidictis grandidieri",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Mañgoust bras he roudennoù"
+      },
+      {
+        "lang": "de",
+        "name": "Großer Breitstreifenmungo"
+      },
+      {
+        "lang": "en",
+        "name": "Grandidier's Mongoose"
+      },
+      {
+        "lang": "es",
+        "name": "Mangosta de Grandidier"
+      },
+      {
+        "lang": "fr",
+        "name": "Galidie de Grandidier"
+      },
+      {
+        "lang": "ja",
+        "name": "オオヒロスジマングース"
+      },
+      {
+        "lang": "nl",
+        "name": "Grandidiermangoest"
+      },
+      {
+        "lang": "pl",
+        "name": "Pasówka kolczasta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Galidictis fasciata",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Mañgoust ledan he roudennoù"
+      },
+      {
+        "lang": "de",
+        "name": "Breitstreifenmungo"
+      },
+      {
+        "lang": "en",
+        "name": "Broad-striped Malagasy Mongoose"
+      },
+      {
+        "lang": "es",
+        "name": "Mangosta de franjas anchas"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovamangusti"
+      },
+      {
+        "lang": "fr",
+        "name": "Galidie à bandes larges"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒロスジマングース"
+      },
+      {
+        "lang": "nl",
+        "name": "Vijfstreepmangoest"
+      },
+      {
+        "lang": "pl",
+        "name": "paskówka malgaska",
+        "synonyms": [
+          "Pasówka malgaska"
+        ]
+      }
+    ]
+  }
+]

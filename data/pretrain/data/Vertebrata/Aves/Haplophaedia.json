@@ -1,0 +1,41 @@
+[
+  {
+    "scientific_name": "Haplophaedia lugens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hoary Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito canoso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haplophaedia aureliae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Greenish Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito verdoso norteño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haplophaedia assimilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-thighed Puffleg"
+      },
+      {
+        "lang": "es",
+        "name": "Calzadito verdoso sureño"
+      }
+    ]
+  }
+]

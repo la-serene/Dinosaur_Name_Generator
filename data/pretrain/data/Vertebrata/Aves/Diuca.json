@@ -1,0 +1,23 @@
+[
+  {
+    "scientific_name": "Diuca speculifera",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Diuca diuca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Common Diuca Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Diuca Común"
+      },
+      {
+        "lang": "pt",
+        "name": "Diuca"
+      }
+    ]
+  }
+]

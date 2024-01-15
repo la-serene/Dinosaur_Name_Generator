@@ -1,0 +1,217 @@
+[
+  {
+    "scientific_name": "Spizocorys starki",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Woestynlewerik"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa de Stark"
+      },
+      {
+        "lang": "en",
+        "name": "Stark's Lark"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک استارک"
+      },
+      {
+        "lang": "fi",
+        "name": "Namibianaavikkokiuru"
+      },
+      {
+        "lang": "nl",
+        "name": "Starks leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Damaralerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Damaralärka"
+      },
+      {
+        "lang": "zh",
+        "name": "斯氏沙百灵"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys sclateri",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Kyynelkiuru"
+      },
+      {
+        "lang": "af",
+        "name": "Namakwalewerik"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd Sclater"
+      },
+      {
+        "lang": "de",
+        "name": "Ammernlerche"
+      },
+      {
+        "lang": "en",
+        "name": "Sclater's lark"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک اسکلیتر"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette de Sclater"
+      },
+      {
+        "lang": "nl",
+        "name": "Namaqualeeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Tårelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "sclaterlärka"
+      },
+      {
+        "lang": "ta",
+        "name": "ஸ்க்லேடர்ஸ் வானம்பாடி"
+      },
+      {
+        "lang": "zh",
+        "name": "斯克氏沙百灵"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys personata",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Naamiokiuru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys obbiensis",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Obbiankiuru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys fringillaris",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Laidunkiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette de Botha"
+      },
+      {
+        "lang": "de",
+        "name": "Finkenlerche"
+      },
+      {
+        "lang": "es",
+        "name": "Alondra de Botha"
+      },
+      {
+        "lang": "pl",
+        "name": "skowrończyk łuszczakowaty"
+      },
+      {
+        "lang": "nl",
+        "name": "Botha-leeuwerik"
+      },
+      {
+        "lang": "pt",
+        "name": "Cotovia de Botha"
+      },
+      {
+        "lang": "af",
+        "name": "Vaalrivierlewerik"
+      },
+      {
+        "lang": "sv",
+        "name": "bothalärka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys fremantlii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kogenneg lost berr"
+      },
+      {
+        "lang": "en",
+        "name": "Short-tailed Lark"
+      },
+      {
+        "lang": "es",
+        "name": "Alondra colicorta"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک دم‌کوتاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyhytpyrstökiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Cochevis à queue courte"
+      },
+      {
+        "lang": "nl",
+        "name": "Kortstaartleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Korthalelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Kortstjärtad lärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca đuôi ngắn"
+      },
+      {
+        "lang": "zh",
+        "name": "短尾百灵"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spizocorys conirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-billed Lark"
+      },
+      {
+        "lang": "fi",
+        "name": "Punanokkakiuru"
+      }
+    ]
+  }
+]

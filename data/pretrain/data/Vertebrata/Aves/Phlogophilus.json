@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Phlogophilus hemileucurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian Piedtail"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colipinto ecuatoriano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phlogophilus harterti",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Peru-Buntschwänzchen"
+      },
+      {
+        "lang": "en",
+        "name": "Peruvian Piedtail"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colipinto peruano"
+      }
+    ]
+  }
+]

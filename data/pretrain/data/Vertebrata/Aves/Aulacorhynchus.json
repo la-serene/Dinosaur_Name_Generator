@@ -1,0 +1,348 @@
+[
+  {
+    "scientific_name": "Aulacorhynchus whitelianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whitely's Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete de tepuy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "tucaninho-verde"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus wagleri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wagler's Toucanet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus sulcatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Groove-billed Toucanet"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à bec sillonné"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus prasinus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Arassari smaragdový"
+      },
+      {
+        "lang": "da",
+        "name": "Smaragdtukanet"
+      },
+      {
+        "lang": "de",
+        "name": "Laucharassari"
+      },
+      {
+        "lang": "en",
+        "name": "Emerald Toucanet"
+      },
+      {
+        "lang": "eo",
+        "name": "Smeraldotukano"
+      },
+      {
+        "lang": "es",
+        "name": "Tucaneta verde"
+      },
+      {
+        "lang": "et",
+        "name": "Smaragdtuukan"
+      },
+      {
+        "lang": "fi",
+        "name": "Smaragditukaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet émeraude"
+      },
+      {
+        "lang": "ga",
+        "name": "Túcáinín smaragadach"
+      },
+      {
+        "lang": "hu",
+        "name": "Hagymazöld tukán"
+      },
+      {
+        "lang": "it",
+        "name": "Tucanetto smeraldo messicano"
+      },
+      {
+        "lang": "ja",
+        "name": "キバシミドリチュウハシ",
+        "synonyms": [
+          "kibashimidorichuuhashi"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Smaragdarassari"
+      },
+      {
+        "lang": "no",
+        "name": "Smaragdtukan"
+      },
+      {
+        "lang": "pl",
+        "name": "Pieprzojad szmaragdowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Tucaninho-de-nariz-amarelo"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucaninho-de-nariz-amarelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Изумрудный туканет"
+      },
+      {
+        "lang": "sk",
+        "name": "Tukaník smaragdový"
+      },
+      {
+        "lang": "sv",
+        "name": "Smaragdtukanett"
+      },
+      {
+        "lang": "zh",
+        "name": "绿巨嘴鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus lautus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Aulacorhynchus huallagae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Arassari žlutobrvý"
+      },
+      {
+        "lang": "da",
+        "name": "Gulbrynet Tukanet"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbrauenarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-browed Toucanet"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbrova tukaneto"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete del Huallaga"
+      },
+      {
+        "lang": "et",
+        "name": "Peruu rohetuukan"
+      },
+      {
+        "lang": "fi",
+        "name": "Peruntukaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à sourcils jaunes"
+      },
+      {
+        "lang": "hu",
+        "name": "Perui zöldtukán"
+      },
+      {
+        "lang": "it",
+        "name": "Tucanetto dai sopraccigli gialli"
+      },
+      {
+        "lang": "ja",
+        "name": "キマユミドリチュウハシ",
+        "synonyms": [
+          "kimayumidorichuuhashi"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbrauwarassari"
+      },
+      {
+        "lang": "no",
+        "name": "Gulbryntukan"
+      },
+      {
+        "lang": "pl",
+        "name": "Pieprzojad żółtobrewy"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-de-huallaga"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтобровый туканет"
+      },
+      {
+        "lang": "sk",
+        "name": "Tukaník peruánsky"
+      },
+      {
+        "lang": "sv",
+        "name": "gulbrynad tukanett"
+      },
+      {
+        "lang": "zh",
+        "name": "黄额巨嘴鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus haematopygus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crimson-rumped Toucanet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus derbianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-tipped toucanet"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucaninho-verde"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete de Derby"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus cognatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Nelson's Toucanet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus coeruleicinctis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-banded Toucanet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus caeruleogularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-throated Toucanet"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet émeraude"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus atrogularis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Boliviatukanet"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkinnarassari"
+      },
+      {
+        "lang": "en",
+        "name": "Black-throated Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete gorjinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à gorge noire"
+      },
+      {
+        "lang": "it",
+        "name": "Tucanetto golanera"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelarassari"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucaninho-de-nariz-amarelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрногорлый туканет"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aulacorhynchus albivitta",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißkehlarassari"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete gorjiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à gorge blanche"
+      }
+    ]
+  }
+]

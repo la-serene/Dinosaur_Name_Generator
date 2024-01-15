@@ -1,0 +1,573 @@
+[
+  {
+    "scientific_name": "Perdix perdix",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حجل رمادي"
+      },
+      {
+        "lang": "ast",
+        "name": "Pardiña"
+      },
+      {
+        "lang": "atj",
+        "name": "Pirew"
+      },
+      {
+        "lang": "az",
+        "name": "Boz kəklik"
+      },
+      {
+        "lang": "bar",
+        "name": "Reebhendel"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Korapka"
+      },
+      {
+        "lang": "be",
+        "name": "Шэрая курапатка"
+      },
+      {
+        "lang": "bg",
+        "name": "Яребица"
+      },
+      {
+        "lang": "bo",
+        "name": "སྲེག་ཆུང་།"
+      },
+      {
+        "lang": "br",
+        "name": "Klujar c'hris"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu xerra"
+      },
+      {
+        "lang": "ckb",
+        "name": "زڕەکەو"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev polní"
+      },
+      {
+        "lang": "csb",
+        "name": "Kùropatka"
+      },
+      {
+        "lang": "cv",
+        "name": "Сăрă хир чăххи"
+      },
+      {
+        "lang": "cw",
+        "name": "Grugyar"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen"
+      },
+      {
+        "lang": "da",
+        "name": "Agerhøne"
+      },
+      {
+        "lang": "de",
+        "name": "Rebhuhn"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kurwota"
+      },
+      {
+        "lang": "el",
+        "name": "πέρδικα"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza perdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz pardilla"
+      },
+      {
+        "lang": "et",
+        "name": "Nurmkana"
+      },
+      {
+        "lang": "eu",
+        "name": "Eper gris"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Peltopyy"
+      },
+      {
+        "lang": "fo",
+        "name": "Akurhøna"
+      },
+      {
+        "lang": "fr",
+        "name": "Perdrix grise"
+      },
+      {
+        "lang": "frr",
+        "name": "Ääkerhenk"
+      },
+      {
+        "lang": "fur",
+        "name": "Pernîs"
+      },
+      {
+        "lang": "fy",
+        "name": "Patriis"
+      },
+      {
+        "lang": "ga",
+        "name": "Cearc ghearr"
+      },
+      {
+        "lang": "gd",
+        "name": "Cearc-Thomain"
+      },
+      {
+        "lang": "gl",
+        "name": "Charrela"
+      },
+      {
+        "lang": "gv",
+        "name": "Kiark Rennee"
+      },
+      {
+        "lang": "he",
+        "name": "חוגלית אפורה"
+      },
+      {
+        "lang": "hr",
+        "name": "Skvržulja"
+      },
+      {
+        "lang": "hsb",
+        "name": "Kurotwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Fogoly"
+      },
+      {
+        "lang": "hy",
+        "name": "Մոխրագույն կաքավ"
+      },
+      {
+        "lang": "io",
+        "name": "Perdriko"
+      },
+      {
+        "lang": "is",
+        "name": "Akurhæna"
+      },
+      {
+        "lang": "it",
+        "name": "Starna"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパヤマウズラ"
+      },
+      {
+        "lang": "ka",
+        "name": "გნოლი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Адэжынэ"
+      },
+      {
+        "lang": "kjn",
+        "name": "Пора торлана"
+      },
+      {
+        "lang": "kk",
+        "name": "Сұр шіл"
+      },
+      {
+        "lang": "ko",
+        "name": "유럽자고새"
+      },
+      {
+        "lang": "ks",
+        "name": "Chakor"
+      },
+      {
+        "lang": "ku",
+        "name": "Çîr"
+      },
+      {
+        "lang": "lad",
+        "name": "Gialina da mont"
+      },
+      {
+        "lang": "lt",
+        "name": "Kurapka"
+      },
+      {
+        "lang": "lv",
+        "name": "Laukirbe"
+      },
+      {
+        "lang": "mk",
+        "name": "еребица"
+      },
+      {
+        "lang": "ml",
+        "name": "ഗ്രേ പാർഡ്രിഡ്ജ്"
+      },
+      {
+        "lang": "mn",
+        "name": "Бор ятуу"
+      },
+      {
+        "lang": "mt",
+        "name": "ħaġla"
+      },
+      {
+        "lang": "myv",
+        "name": "Пакся пово"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Petrieze"
+      },
+      {
+        "lang": "nl",
+        "name": "Patrijs"
+      },
+      {
+        "lang": "nn",
+        "name": "Rapphøne"
+      },
+      {
+        "lang": "no",
+        "name": "Rapphøne"
+      },
+      {
+        "lang": "oc",
+        "name": "Perditz"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pardri"
+      },
+      {
+        "lang": "pl",
+        "name": "Kuropatwa zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-cinzenta"
+      },
+      {
+        "lang": "rm",
+        "name": "Pernisch grischa"
+      },
+      {
+        "lang": "ro",
+        "name": "Potârniche"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая куропатка"
+      },
+      {
+        "lang": "sc",
+        "name": "Istarna"
+      },
+      {
+        "lang": "se",
+        "name": "Bealdobakku"
+      },
+      {
+        "lang": "sk",
+        "name": "Jarabica poľná"
+      },
+      {
+        "lang": "sl",
+        "name": "Jerebica"
+      },
+      {
+        "lang": "sq",
+        "name": "Thëllëza e fushës"
+      },
+      {
+        "lang": "sr",
+        "name": "Јаребица"
+      },
+      {
+        "lang": "stq",
+        "name": "Petrieshanne"
+      },
+      {
+        "lang": "sv",
+        "name": "Rapphöna"
+      },
+      {
+        "lang": "tl",
+        "name": "Pugong labuyo"
+      },
+      {
+        "lang": "tk",
+        "name": "Çil keklik"
+      },
+      {
+        "lang": "tr",
+        "name": "Çil keklik"
+      },
+      {
+        "lang": "tt",
+        "name": "Соры көртлек"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бора торлаа"
+      },
+      {
+        "lang": "uk",
+        "name": "Куріпка сіра"
+      },
+      {
+        "lang": "uz",
+        "name": "Chil"
+      },
+      {
+        "lang": "vep",
+        "name": "Pöudpü"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà so xám"
+      },
+      {
+        "lang": "vls",
+        "name": "Patryze"
+      },
+      {
+        "lang": "zh",
+        "name": "灰山鹑"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Perdix hodgsoniae",
+    "common_names": [
+      {
+        "lang": "bh",
+        "name": "तिब्बती तीतर"
+      },
+      {
+        "lang": "bn",
+        "name": "तिब्बती तीतर"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu del Tibet"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev tibetská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Tibet"
+      },
+      {
+        "lang": "da",
+        "name": "Tibetansk Agerhøne"
+      },
+      {
+        "lang": "de",
+        "name": "Tibetrebhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Tibeta perdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz tibetana"
+      },
+      {
+        "lang": "et",
+        "name": "Koldkurk-mägikana"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک تبتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiibetinpeltopyy"
+      },
+      {
+        "lang": "fr",
+        "name": "Perdrix de Hodgson"
+      },
+      {
+        "lang": "hi",
+        "name": "तिब्बती तीतर"
+      },
+      {
+        "lang": "hu",
+        "name": "Tibeti fogoly"
+      },
+      {
+        "lang": "it",
+        "name": "Starna del Tibet"
+      },
+      {
+        "lang": "ja",
+        "name": "チベットヤマウズラ"
+      },
+      {
+        "lang": "ne",
+        "name": "हिमाली पिउरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Tibetaanse Patrijs"
+      },
+      {
+        "lang": "no",
+        "name": "Fjallrapphøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Kuropatwa tybetańska"
+      },
+      {
+        "lang": "pnb",
+        "name": "تبتی تتر"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-tibetana"
+      },
+      {
+        "lang": "ru",
+        "name": "Тибетская куропатка"
+      },
+      {
+        "lang": "sk",
+        "name": "Jarabica vrchovská"
+      },
+      {
+        "lang": "sv",
+        "name": "Tibetansk rapphöna"
+      },
+      {
+        "lang": "zh",
+        "name": "高原山鹑"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Perdix dauurica",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Барадатая курапатка"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu dàurica"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev vousatá"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Dawria"
+      },
+      {
+        "lang": "de",
+        "name": "Bartrebhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Daurian Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Dauria perdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz dáurica"
+      },
+      {
+        "lang": "eu",
+        "name": "Eper bizardun"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک دوری"
+      },
+      {
+        "lang": "fr",
+        "name": "Perdrix de Daourie"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdásmellű fogoly"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマウズラ"
+      },
+      {
+        "lang": "kk",
+        "name": "Сақалды кекілік"
+      },
+      {
+        "lang": "mn",
+        "name": "Дагуур ятуу"
+      },
+      {
+        "lang": "nl",
+        "name": "Baardpatrijs"
+      },
+      {
+        "lang": "ru",
+        "name": "Бородатая куропатка"
+      },
+      {
+        "lang": "sk",
+        "name": "Jarabica bradatá"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäpprapphöna"
+      },
+      {
+        "lang": "zh",
+        "name": "斑翅山鹑"
+      }
+    ]
+  }
+]

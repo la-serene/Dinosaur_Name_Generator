@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Chaeropus yirratji",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Pig-footed Bandicoot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaeropus ecaudatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Pig-footed Bandicoot"
+      },
+      {
+        "lang": "ja",
+        "name": "ブタアシバンディクート<!--世界哺乳類標準和名目録 2018-->"
+      },
+      {
+        "lang": "tr",
+        "name": "Domuz ayaklı bandikut"
+      },
+      {
+        "lang": "zh",
+        "name": "豚足袋狸"
+      }
+    ]
+  }
+]

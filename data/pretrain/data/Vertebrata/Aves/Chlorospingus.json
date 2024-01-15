@@ -1,0 +1,81 @@
+[
+  {
+    "scientific_name": "Chlorospingus tacarcunae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorospingus semifuscus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo oscuro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorospingus pileatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty-capped Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo cejiblanco",
+        "synonyms": [
+          "frutero copetón"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロヤブフウキンチョウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorospingus parvirostris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorospingus inornatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorospingus flavovirens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorospingus flavopectus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Common bush-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo común"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorospingus flavigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo gorgiamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorospingus canigularis",
+    "common_names": []
+  }
+]

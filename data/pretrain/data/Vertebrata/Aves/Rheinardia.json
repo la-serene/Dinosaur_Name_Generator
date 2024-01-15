@@ -1,0 +1,100 @@
+[
+  {
+    "scientific_name": "Rheinardia ocellata",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Качулат аргус"
+      },
+      {
+        "lang": "br",
+        "name": "Argus kribennek"
+      },
+      {
+        "lang": "ca",
+        "name": "Argus pigallat"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant gribog"
+      },
+      {
+        "lang": "da",
+        "name": "Topargus"
+      },
+      {
+        "lang": "de",
+        "name": "Perlenpfau"
+      },
+      {
+        "lang": "eo",
+        "name": "Krestargusa fazano"
+      },
+      {
+        "lang": "he",
+        "name": "ארגוס מצויץ"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyöngyös páva"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kuang Raya Gunung"
+      },
+      {
+        "lang": "nl",
+        "name": "Vietnamese gekuifde argusfazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "تاجی ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатый аргус"
+      },
+      {
+        "lang": "vi",
+        "name": "Trĩ sao"
+      },
+      {
+        "lang": "zh",
+        "name": "冠鸞"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Argus"
+      },
+      {
+        "lang": "fr",
+        "name": "Argus ocellé"
+      },
+      {
+        "lang": "ja",
+        "name": "カンムリセイラン"
+      },
+      {
+        "lang": "sv",
+        "name": "tofsargusfasan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rheinardia nigrescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malaysian Crested Argus"
+      },
+      {
+        "lang": "nl",
+        "name": "Maleise gekuifde argusfazant"
+      },
+      {
+        "lang": "sv",
+        "name": "tofsargus"
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "scientific_name": "Oreotrochilus stolzmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-headed Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Stolzmann"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus melanogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-breasted Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí pechinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus leucopleurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-sided Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí cordillerano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus estella",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Andean Hillstar"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri estelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Csillagos tündérkolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí puneño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus cyanolaemus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-throated hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Estrella de garganta azul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus chimborazo",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí del Chimborazo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus adela",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wedge-tailed Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibré de Cochabamba"
+      }
+    ]
+  }
+]

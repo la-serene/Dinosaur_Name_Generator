@@ -1,0 +1,96 @@
+[
+  {
+    "scientific_name": "Poliocephalus rufopectus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Zampullín maorí"
+      },
+      {
+        "lang": "sv",
+        "name": "maoridopping"
+      },
+      {
+        "lang": "bg",
+        "name": "Новозеландски гмурец"
+      },
+      {
+        "lang": "br",
+        "name": "Plomer Zeland-Nevez"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach Seland Newydd"
+      },
+      {
+        "lang": "en",
+        "name": "New Zealand grebe"
+      },
+      {
+        "lang": "eo",
+        "name": "Novzelanda grebo"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم نیوزیلند"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenseelanninuikku"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe de Nouvelle-Zélande"
+      },
+      {
+        "lang": "hu",
+        "name": "Maori vöcsök"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuwzeelandfuut"
+      },
+      {
+        "lang": "no",
+        "name": "Maoridykker"
+      },
+      {
+        "lang": "nn",
+        "name": "Maoridukkar"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz maoryski"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیوزیلینڈ ڈبکنی"
+      },
+      {
+        "lang": "ru",
+        "name": "Новозеландская поганка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poliocephalus poliocephalus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hoary-headed Grebe"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe argenté"
+      },
+      {
+        "lang": "es",
+        "name": "Zampullín canoso"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad dopping"
+      }
+    ]
+  }
+]

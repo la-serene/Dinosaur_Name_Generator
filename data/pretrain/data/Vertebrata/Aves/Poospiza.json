@@ -1,0 +1,228 @@
+[
+  {
+    "scientific_name": "Poospiza whitii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-chestnut Warbling-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Sietevestidos serrano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza torquata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza thoracica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza rufosuperciliaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-browed Hemispingus"
+      },
+      {
+        "lang": "es",
+        "name": "Hemispingo cejirrufo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza rubecula",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Pila telorus brongoch"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-breasted warbling finch"
+      },
+      {
+        "lang": "es",
+        "name": "monterita pechirrufa"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره چهچهه‌زن سینه‌حنایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu rougegorge"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "svartmaskad sångfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza ornata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon Warbling-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita canela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza nigrorufa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-rufous Warbling-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita sietevestidos"
+      },
+      {
+        "lang": "pt-br",
+        "name": "quem-te-vestiu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza melanoleuca",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza lateralis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza hypocondria",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza hispaniolensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Warbling-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita collareja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza goeringi",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hemispingo dorsigrís"
+      },
+      {
+        "lang": "en",
+        "name": "Slaty-backed hemispingus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza garleppi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cochabamba mountain finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita de Cochabamba"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کوهستانی کوچابامبا"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu de Cochabamba"
+      },
+      {
+        "lang": "nl",
+        "name": "Cochabambaboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "cochabambafink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza erythrophrys",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza cinerea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza caesar",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza cabanisi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Poospiza boliviana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bolivian Warbling-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita boliviana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza baeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tucumán mountain finch"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کوهستانی توکومان"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu de Tucuman"
+      },
+      {
+        "lang": "nl",
+        "name": "Tucumánboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "tucumánfink"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita de Tucumán"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poospiza alticola",
+    "common_names": []
+  }
+]

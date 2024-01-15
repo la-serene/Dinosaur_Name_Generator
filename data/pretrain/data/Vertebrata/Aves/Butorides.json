@@ -1,0 +1,377 @@
+[
+  {
+    "scientific_name": "Butorides virescens",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلشون أخضر"
+      },
+      {
+        "lang": "bg",
+        "name": "Зеленогърба чапла"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz c'hlas"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet verd"
+      },
+      {
+        "lang": "cs",
+        "name": "Volovka zelenavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr gwyrdd"
+      },
+      {
+        "lang": "da",
+        "name": "Krabbehejre"
+      },
+      {
+        "lang": "de",
+        "name": "Grünreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Green Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Verda ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcita verdosa"
+      },
+      {
+        "lang": "eu",
+        "name": "Koartzatxo berde"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل سبز"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikankyyryhaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron vert"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה ירוקה"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöld gém"
+      },
+      {
+        "lang": "is",
+        "name": "Grænhegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone verde"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカササゴイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Žalsvasis naktikovas"
+      },
+      {
+        "lang": "nl",
+        "name": "Groene reiger"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnrygghegre"
+      },
+      {
+        "lang": "nv",
+        "name": "Toohjįʼ noołnahii yázhí"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla zielona"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہرا بگلا"
+      },
+      {
+        "lang": "pt",
+        "name": "Socó-mirím"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская зелёная кваква"
+      },
+      {
+        "lang": "sk",
+        "name": "Čaplička zelenkavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönryggig häger"
+      },
+      {
+        "lang": "ur",
+        "name": "سبز بگلا"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲绿鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Butorides sundevalli",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lavareiher"
+      },
+      {
+        "lang": "en",
+        "name": "Lava Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Sundevala ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza enana de las Galápagos"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل گدازه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinkyyryhaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron des Galapagos"
+      },
+      {
+        "lang": "he",
+        "name": "אנפת לבה"
+      },
+      {
+        "lang": "hu",
+        "name": "Lávagém"
+      },
+      {
+        "lang": "it",
+        "name": "Airone lavico"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスササゴイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagosreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Lavahegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla galapagoska"
+      },
+      {
+        "lang": "ru",
+        "name": "Галапагосская зелёная кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "Galápagoshäger"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Butorides striata javanica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Butorides striata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groenrugreier"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون أخضر الظهر"
+      },
+      {
+        "lang": "bg",
+        "name": "Ивичеста чапла"
+      },
+      {
+        "lang": "bh",
+        "name": "कांचा बकुला"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz rizennek"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet estriat"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr cefnwyrdd"
+      },
+      {
+        "lang": "de",
+        "name": "Mangrovereiher"
+      },
+      {
+        "lang": "dty",
+        "name": "छोटाखुट्टे बकुल्ला"
+      },
+      {
+        "lang": "en",
+        "name": "Striated Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Striardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcita azulada"
+      },
+      {
+        "lang": "eu",
+        "name": "Koartzatxo marradun"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل حرا"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyyryhaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron strié"
+      },
+      {
+        "lang": "gn",
+        "name": "Hoko'i"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה ירוקת-גב"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangrovegém"
+      },
+      {
+        "lang": "id",
+        "name": "Kokokan laut"
+      },
+      {
+        "lang": "it",
+        "name": "Airone striato"
+      },
+      {
+        "lang": "ja",
+        "name": "ササゴイ"
+      },
+      {
+        "lang": "ka",
+        "name": "მწვანე ყანჩა"
+      },
+      {
+        "lang": "ko",
+        "name": "검은댕기해오라기"
+      },
+      {
+        "lang": "lt",
+        "name": "Žaliasis naktikovas"
+      },
+      {
+        "lang": "ml",
+        "name": "ചിന്നക്കൊക്ക്"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Puchong Keladi"
+      },
+      {
+        "lang": "ne",
+        "name": "छोटाखुट्टे बकुल्ला"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovereiger"
+      },
+      {
+        "lang": "no",
+        "name": "Krabbehegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla zielonawa"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہری کمر آلا ہیرون"
+      },
+      {
+        "lang": "pt",
+        "name": "Socozinho"
+      },
+      {
+        "lang": "ru",
+        "name": "Зелёная кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "Mangrovehäger"
+      },
+      {
+        "lang": "ta",
+        "name": "சிறிய பச்சைக் கொக்கு"
+      },
+      {
+        "lang": "to",
+        "name": "Motuku siʻi"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşil sırtlı balıkçıl"
+      },
+      {
+        "lang": "uk",
+        "name": "Чапля мангрова"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò xanh"
+      },
+      {
+        "lang": "zh",
+        "name": "绿鹭"
+      }
+    ]
+  }
+]

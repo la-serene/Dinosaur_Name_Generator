@@ -1,0 +1,235 @@
+[
+  {
+    "scientific_name": "Geospiza septentrionalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vampire Ground Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin chupasangre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza scandens",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kaktus-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Common Cactus-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin de los cactos"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza propinqua",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Genovesa Cactus-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin de Genovesa picogrueso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza magnirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Large Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picogordo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza fuliginosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Small Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin fuliginoso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza fortis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Medium Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picomediano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza difficilis",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Остроклюна земна чинка"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà de les Galápagos de bec esmolat"
+      },
+      {
+        "lang": "cs",
+        "name": "Pěnkavka ostrozobá"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila daear pigfain"
+      },
+      {
+        "lang": "de",
+        "name": "Spitzschnabel-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Sharp-beaked ground finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picofino"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره زمینی نوک‌تیز"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize à bec pointu"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש קרקעי חד-מקור"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyescsőrű földipinty"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシボソガラパゴスフィンチ"
+      },
+      {
+        "lang": "nl",
+        "name": "Spitssnavelgrondvink"
+      },
+      {
+        "lang": "sv",
+        "name": "spetsnäbbad darwinfink"
+      },
+      {
+        "lang": "ru",
+        "name": "Остроклювый земляной вьюрок"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza conirostris",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groot kaktusgrondvink"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма кактусова чинка"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà de les Galápagos de bec cònic"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila daear pigfawr"
+      },
+      {
+        "lang": "de",
+        "name": "Opuntien-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Española cactus finch"
+      },
+      {
+        "lang": "es",
+        "name": "pinzón de Darwin conirrostro"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کاکتوسی بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Isokaktussirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize à bec conique"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש קקטוס גדול"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy kaktuszpinty"
+      },
+      {
+        "lang": "ja",
+        "name": "オオサボテンフィンチ"
+      },
+      {
+        "lang": "nl",
+        "name": "Españolagrondvink"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой кактусовый земляной вьюрок"
+      },
+      {
+        "lang": "sv",
+        "name": "españoladarwinfink"
+      },
+      {
+        "lang": "zh",
+        "name": "大仙人掌地雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza acutirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Genovesa Ground Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picofino de Genovesa"
+      }
+    ]
+  }
+]

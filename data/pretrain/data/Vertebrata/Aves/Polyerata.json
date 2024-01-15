@@ -1,0 +1,41 @@
+[
+  {
+    "scientific_name": "Polyerata rosenbergi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-chested Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Rosenberg"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyerata decora",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Charming Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia encantadora"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polyerata amabilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-chested Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia amable"
+      }
+    ]
+  }
+]

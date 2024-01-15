@@ -1,0 +1,48 @@
+[
+  {
+    "scientific_name": "Hylomys suillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Short-tailed Gymnure"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpe szőrössün",
+        "synonyms": [
+          "kis patkánysün"
+        ]
+      },
+      {
+        "lang": "ms",
+        "name": "Tikus Babi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hylomys parvus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dwarf Gymnure"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai szőrössün"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hylomys megalotis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langohr-Rattenigel"
+      },
+      {
+        "lang": "en",
+        "name": "Long-eared Gymnure"
+      }
+    ]
+  }
+]

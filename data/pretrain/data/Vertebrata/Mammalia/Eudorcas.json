@@ -1,0 +1,109 @@
+[
+  {
+    "scientific_name": "Eudorcas tilonura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Heuglin's gazelle",
+        "synonyms": [
+          "Eritrean gazelle"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Heuglin-gazella"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudorcas thomsonii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Thomson's Gazelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Thomson-gazella"
+      },
+      {
+        "lang": "ja",
+        "name": "トムソンガゼル"
+      },
+      {
+        "lang": "ko",
+        "name": "톰슨가젤"
+      },
+      {
+        "lang": "nl",
+        "name": "Thomsongazelle"
+      },
+      {
+        "lang": "tr",
+        "name": "Thomson ceylanı"
+      },
+      {
+        "lang": "th",
+        "name": "ทอมสันส์กาเซลล์"
+      },
+      {
+        "lang": "zh",
+        "name": "汤氏瞪羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudorcas rufina",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Vörös gazella",
+        "synonyms": [
+          "algériai gazella"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "アカガゼル"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudorcas rufifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-fronted Gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela de frente roja"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröshomlokú gazella"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela rudoczelna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudorcas albonotata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mongalla Gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela de Mongalla"
+      },
+      {
+        "lang": "hu",
+        "name": "Mogolla-gazella"
+      }
+    ]
+  }
+]

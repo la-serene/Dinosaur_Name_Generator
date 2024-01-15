@@ -1,0 +1,39 @@
+[
+  {
+    "scientific_name": "Steatornis caripensis",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Гуахара"
+      },
+      {
+        "lang": "cs",
+        "name": "Gvačaro jeskynní"
+      },
+      {
+        "lang": "es",
+        "name": "Guácharo"
+      },
+      {
+        "lang": "fi",
+        "name": "Rasvakehrääjä"
+      },
+      {
+        "lang": "hr",
+        "name": "Uljašica"
+      },
+      {
+        "lang": "ja",
+        "name": "アブラヨタカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Tłuszczak"
+      },
+      {
+        "lang": "nl",
+        "name": "Vetvogel"
+      }
+    ]
+  }
+]

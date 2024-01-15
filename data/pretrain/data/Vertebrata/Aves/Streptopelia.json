@@ -1,0 +1,1469 @@
+[
+  {
+    "scientific_name": "Streptopelia xanthocycla",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tórtora birmana"
+      },
+      {
+        "lang": "en",
+        "name": "Burmese Collared Dove"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle birmane"
+      },
+      {
+        "lang": "sv",
+        "name": "Burmaduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia vinacea",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Винена гургулица"
+      },
+      {
+        "lang": "bm",
+        "name": "Ntufanninkanfin"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora vinosa"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička vínorudá"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur winau"
+      },
+      {
+        "lang": "da",
+        "name": "Sahelskoggerdue"
+      },
+      {
+        "lang": "de",
+        "name": "Röteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Vinaceous Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Vinturto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola vinosa"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر شرابی"
+      },
+      {
+        "lang": "fi",
+        "name": "Sahelinturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle vineuse"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora vinata"
+      },
+      {
+        "lang": "ja",
+        "name": "ウスアフリカジュズカケバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Wijntortel"
+      },
+      {
+        "lang": "no",
+        "name": "Vindue"
+      },
+      {
+        "lang": "pnb",
+        "name": "وناسیا کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-vinácea"
+      },
+      {
+        "lang": "ru",
+        "name": "Винная горлица"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia turtur",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese tortelduif"
+      },
+      {
+        "lang": "ar",
+        "name": "قمري (طائر)"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qurqur"
+      },
+      {
+        "lang": "be",
+        "name": "Туркаўка звычайная"
+      },
+      {
+        "lang": "bg",
+        "name": "Гургулица"
+      },
+      {
+        "lang": "bo",
+        "name": "ཕུ་དིག"
+      },
+      {
+        "lang": "br",
+        "name": "Turzhunell ar c'hoadoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička divoká"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur"
+      },
+      {
+        "lang": "da",
+        "name": "Turteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Turteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Turtle Dove"
+      },
+      {
+        "lang": "et",
+        "name": "Turteltuvi"
+      },
+      {
+        "lang": "el",
+        "name": "Τρυγόνι"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola europea"
+      },
+      {
+        "lang": "eo",
+        "name": "Okcidenta turto"
+      },
+      {
+        "lang": "eu",
+        "name": "Usapal"
+      },
+      {
+        "lang": "fo",
+        "name": "Turtildúgva"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle des bois"
+      },
+      {
+        "lang": "ga",
+        "name": "Fearán"
+      },
+      {
+        "lang": "gl",
+        "name": "Rula común"
+      },
+      {
+        "lang": "he",
+        "name": "תור מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Divlja grlica"
+      },
+      {
+        "lang": "hy",
+        "name": "Տատրակ սովորական"
+      },
+      {
+        "lang": "io",
+        "name": "Turturo"
+      },
+      {
+        "lang": "is",
+        "name": "Turtildúfa"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora"
+      },
+      {
+        "lang": "ja",
+        "name": "コキジバト"
+      },
+      {
+        "lang": "ka",
+        "name": "გვრიტი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Мэзтхьэрыкъуэ"
+      },
+      {
+        "lang": "ku",
+        "name": "Kotirî"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastasis purplelis"
+      },
+      {
+        "lang": "hu",
+        "name": "Vadgerle"
+      },
+      {
+        "lang": "nl",
+        "name": "Zomertortel"
+      },
+      {
+        "lang": "no",
+        "name": "Turteldue"
+      },
+      {
+        "lang": "pl",
+        "name": "Turkawka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-comum"
+      },
+      {
+        "lang": "rue",
+        "name": "Горліця"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная горлица"
+      },
+      {
+        "lang": "sc",
+        "name": "Turture"
+      },
+      {
+        "lang": "sco",
+        "name": "Turtle-doo"
+      },
+      {
+        "lang": "sq",
+        "name": "Turtullesha"
+      },
+      {
+        "lang": "sk",
+        "name": "Hrdlička poľná"
+      },
+      {
+        "lang": "sr",
+        "name": "Грлица"
+      },
+      {
+        "lang": "fi",
+        "name": "Turturikyyhky"
+      },
+      {
+        "lang": "sv",
+        "name": "Turturduva"
+      },
+      {
+        "lang": "tl",
+        "name": "Tukmol"
+      },
+      {
+        "lang": "tr",
+        "name": "Üveyik"
+      },
+      {
+        "lang": "uk",
+        "name": "Горлиця звичайна"
+      },
+      {
+        "lang": "vec",
+        "name": "Tórtora selvàdega"
+      },
+      {
+        "lang": "zh",
+        "name": "欧斑鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia tranquebarica",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حمام أحمر الرقبة"
+      },
+      {
+        "lang": "as",
+        "name": "হাৰুৱা কপৌ"
+      },
+      {
+        "lang": "bn",
+        "name": "লাল ঘুঘু"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička jihoasijská"
+      },
+      {
+        "lang": "de",
+        "name": "Weinrote Halsringtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Red Collared Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola cabecigrís"
+      },
+      {
+        "lang": "eu",
+        "name": "Usapal gorri"
+      },
+      {
+        "lang": "fa",
+        "name": "یاکریم طوقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à tête grise"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニバト"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Terkukur Merah"
+      },
+      {
+        "lang": "my",
+        "name": "ချိုးနီ"
+      },
+      {
+        "lang": "ne",
+        "name": "सानोतामे ढुकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode tortel"
+      },
+      {
+        "lang": "no",
+        "name": "Gråhodedue"
+      },
+      {
+        "lang": "pnb",
+        "name": "سوئی ٹوٹرو"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-birmana"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd turkduva"
+      },
+      {
+        "lang": "ta",
+        "name": "தவிட்டுப்புறா"
+      },
+      {
+        "lang": "zh",
+        "name": "紅鳩"
+      },
+      {
+        "lang": "ru",
+        "name": "Короткохвостая горлица"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia semitorquata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groot-rooioogtortelduif"
+      },
+      {
+        "lang": "ar",
+        "name": "اليمامة حمراء العين"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora ullvermella"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička červenooká"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur lygatgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Halbmondtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Red-eyed Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝokula turto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola ojirroja"
+      },
+      {
+        "lang": "eu",
+        "name": "Usapal begigorri"
+      },
+      {
+        "lang": "fi",
+        "name": "Savanniturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à collier"
+      },
+      {
+        "lang": "hu",
+        "name": "Pirosszemű gerle"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар сӹнзӓӓн тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodoogtortel"
+      },
+      {
+        "lang": "no",
+        "name": "Rødøyedue"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال اکھی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödögd duva"
+      },
+      {
+        "lang": "yo",
+        "name": "Àdàbà"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia roseogrisea",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Turzhunell doñv"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora rosa i grisa"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička chechtavá"
+      },
+      {
+        "lang": "de",
+        "name": "Nordafrikanische Lachtaube"
+      },
+      {
+        "lang": "en",
+        "name": "African Collared Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola rosigrís"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozgriza turto"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle rieuse"
+      },
+      {
+        "lang": "he",
+        "name": "תור צוחק"
+      },
+      {
+        "lang": "hu",
+        "name": "Észak-afrikai kacagógerle"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora dal collare africana"
+      },
+      {
+        "lang": "nl",
+        "name": "Izabeltortel"
+      },
+      {
+        "lang": "no",
+        "name": "Saheldue"
+      },
+      {
+        "lang": "pl",
+        "name": "Cukrówka"
+      },
+      {
+        "lang": "ru",
+        "name": "Дикая смеющаяся горлица"
+      },
+      {
+        "lang": "fi",
+        "name": "Saharanturturikyyhky"
+      },
+      {
+        "lang": "sv",
+        "name": "Skrattduva"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-rosada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia reichenowi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička Reichenowova"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola de Reichenow"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora de Reichenow"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur dorchog adeinwen"
+      },
+      {
+        "lang": "de",
+        "name": "Reichenowtaube"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Collared Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Orientafrika turto"
+      },
+      {
+        "lang": "fi",
+        "name": "Somalianturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle de Reichenow"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérszárnyú gerle"
+      },
+      {
+        "lang": "nl",
+        "name": "Witvleugeltortel"
+      },
+      {
+        "lang": "no",
+        "name": "Elvedue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹپری کالروالی کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-de-reichenow"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad turkduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia orientalis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Turzhunell ar reter"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora rogenca"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička východní"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur y Dwyrain"
+      },
+      {
+        "lang": "da",
+        "name": "Østlig Turteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Orientturteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Oriental Turtle Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Orienta turto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola oriental"
+      },
+      {
+        "lang": "et",
+        "name": "Suur-turteltuvi"
+      },
+      {
+        "lang": "eu",
+        "name": "Ekialdeko usapal"
+      },
+      {
+        "lang": "fa",
+        "name": "قمری خاوری"
+      },
+      {
+        "lang": "fi",
+        "name": "Idänturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle orientale"
+      },
+      {
+        "lang": "hu",
+        "name": "Keleti gerle"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora orientale"
+      },
+      {
+        "lang": "ja",
+        "name": "キジバト"
+      },
+      {
+        "lang": "ko",
+        "name": "멧비둘기"
+      },
+      {
+        "lang": "lv",
+        "name": "Austrumu ūbele"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെങ്ങാലിപ്രാവ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кого тыргӓдӹ"
+      },
+      {
+        "lang": "my",
+        "name": "ချိုးပိန်တူး"
+      },
+      {
+        "lang": "ne",
+        "name": "तामे ढुकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Oosterse Tortel"
+      },
+      {
+        "lang": "no",
+        "name": "Mongolturteldue"
+      },
+      {
+        "lang": "pl",
+        "name": "Turkawka wschodnia"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-oriental"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая горлица"
+      },
+      {
+        "lang": "sah",
+        "name": "Өтөн"
+      },
+      {
+        "lang": "sk",
+        "name": "Hrdlička stepná"
+      },
+      {
+        "lang": "sl",
+        "name": "Orientalska grlica"
+      },
+      {
+        "lang": "sv",
+        "name": "Större turturduva"
+      },
+      {
+        "lang": "th",
+        "name": "นกเขาพม่า"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük üveyik"
+      },
+      {
+        "lang": "uk",
+        "name": "Горлиця велика"
+      },
+      {
+        "lang": "zh",
+        "name": "山斑鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia lugens",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Тъмна гургулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora fosca"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička temná"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur dywyll"
+      },
+      {
+        "lang": "dk",
+        "name": "Mørk Turteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerturteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky Turtle Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Malhela turto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola oscura"
+      },
+      {
+        "lang": "eu",
+        "name": "Usapal ilun"
+      },
+      {
+        "lang": "fa",
+        "name": "قمری تیره"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruostesiipikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à poitrine rose"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyászos gerle"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora fosca"
+      },
+      {
+        "lang": "ja",
+        "name": "クロエリキジバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шимӓкӓ тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rouwtortel"
+      },
+      {
+        "lang": "no",
+        "name": "Rustvingedue"
+      },
+      {
+        "lang": "pl",
+        "name": "Turkawka żałobna"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-de-peito-rosa"
+      },
+      {
+        "lang": "ru",
+        "name": "Тёмная горлица"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörk turturduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia hypopyrrha",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička pěnkaví"
+      },
+      {
+        "lang": "da",
+        "name": "Adamawa-turteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Adamauaturteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Adamawa Turtle Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola del Camerún"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle d'Adamaoua"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora di Adamawa"
+      },
+      {
+        "lang": "ja",
+        "name": "バラムネキジバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Adamawatortel"
+      },
+      {
+        "lang": "no",
+        "name": "Rosenbukdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "ایڈاماوا کھچوپڑی کگی"
+      },
+      {
+        "lang": "ru",
+        "name": "Андаманская горлица"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia dusumieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Collared Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia decipiens",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooioogtortelduif"
+      },
+      {
+        "lang": "ar",
+        "name": "حمامة حزينة"
+      },
+      {
+        "lang": "bg",
+        "name": "Очилата гургулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora ploranera"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička šedoocasá"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur alarus"
+      },
+      {
+        "lang": "da",
+        "name": "Guløjet Skoggerdue"
+      },
+      {
+        "lang": "de",
+        "name": "Brillentaube"
+      },
+      {
+        "lang": "en",
+        "name": "Mourning Collared Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika plorturto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola engañosa"
+      },
+      {
+        "lang": "fa",
+        "name": "یاکریم بامدادی"
+      },
+      {
+        "lang": "fi",
+        "name": "Vaikertajaturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle pleureuse"
+      },
+      {
+        "lang": "hu",
+        "name": "Rejtőző gerle"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora lamentosa"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカシラコバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Африка тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Treurtortel"
+      },
+      {
+        "lang": "no",
+        "name": "Klagedue"
+      },
+      {
+        "lang": "pl",
+        "name": "Synogarlica okularowa"
+      },
+      {
+        "lang": "pnb",
+        "name": "دکھی کالروالی کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-gemedora"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканская горлица"
+      },
+      {
+        "lang": "sv",
+        "name": "Sorgduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia decaocto",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "يمامة مطوقة أوراسية"
+      },
+      {
+        "lang": "az",
+        "name": "Yaxalıqlı qurqur"
+      },
+      {
+        "lang": "azb",
+        "name": "یاخالیق‌لی قورقور"
+      },
+      {
+        "lang": "be",
+        "name": "Туркаўка кольчатая"
+      },
+      {
+        "lang": "bg",
+        "name": "Гугутка"
+      },
+      {
+        "lang": "br",
+        "name": "Turzhunell durk"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora turca"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička zahradní"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur Dorchog"
+      },
+      {
+        "lang": "da",
+        "name": "Tyrkerdue"
+      },
+      {
+        "lang": "de",
+        "name": "Türkentaube"
+      },
+      {
+        "lang": "el",
+        "name": "Δεκαοχτούρα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Collared Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Turka turto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola turca"
+      },
+      {
+        "lang": "et",
+        "name": "Kaelus-turteltuvi"
+      },
+      {
+        "lang": "eu",
+        "name": "Turkiar usapal"
+      },
+      {
+        "lang": "ext",
+        "name": "Rola"
+      },
+      {
+        "lang": "fa",
+        "name": "یاکریم"
+      },
+      {
+        "lang": "fi",
+        "name": "Turkinkyyhky"
+      },
+      {
+        "lang": "fo",
+        "name": "Turkadúgva"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle turque"
+      },
+      {
+        "lang": "ga",
+        "name": "Fearán baicdhubh"
+      },
+      {
+        "lang": "gl",
+        "name": "Rula turca"
+      },
+      {
+        "lang": "gu",
+        "name": "હોલો"
+      },
+      {
+        "lang": "he",
+        "name": "תור צווארון"
+      },
+      {
+        "lang": "hr",
+        "name": "Gugutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Balkáni gerle"
+      },
+      {
+        "lang": "hy",
+        "name": "Օղակավոր տատրակ"
+      },
+      {
+        "lang": "is",
+        "name": "Tyrkjadúfa"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora dal collare orientale"
+      },
+      {
+        "lang": "ja",
+        "name": "シラコバト"
+      },
+      {
+        "lang": "ka",
+        "name": "საყელოიანი გვრიტი"
+      },
+      {
+        "lang": "kk",
+        "name": "Сақиналы түркептер"
+      },
+      {
+        "lang": "ku",
+        "name": "Tivîlk"
+      },
+      {
+        "lang": "lt",
+        "name": "Pietinis purplelis"
+      },
+      {
+        "lang": "lv",
+        "name": "Gredzenūbele"
+      },
+      {
+        "lang": "mk",
+        "name": "Гугутка"
+      },
+      {
+        "lang": "ml",
+        "name": "പൊട്ടൻ ചെങ്ങാലി"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шӓргӓшӓн тыргӓдӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Putaran"
+      },
+      {
+        "lang": "ne",
+        "name": "कण्ठे ढुकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Turkse tortel"
+      },
+      {
+        "lang": "nn",
+        "name": "Tyrkardue"
+      },
+      {
+        "lang": "no",
+        "name": "Tyrkerdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ hasbídí bizééjíjinígíí"
+      },
+      {
+        "lang": "pa",
+        "name": "ਗਾਨੀ ਵਾਲੀ ਘੁੱਗੀ"
+      },
+      {
+        "lang": "pl",
+        "name": "Sierpówka"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالروالی گھُگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-turca"
+      },
+      {
+        "lang": "ro",
+        "name": "Guguştiuc"
+      },
+      {
+        "lang": "ru",
+        "name": "Кольчатая горлица"
+      },
+      {
+        "lang": "sk",
+        "name": "Hrdlička záhradná"
+      },
+      {
+        "lang": "sl",
+        "name": "Turška grlica"
+      },
+      {
+        "lang": "sq",
+        "name": "Kumria"
+      },
+      {
+        "lang": "sr",
+        "name": "Гугутка"
+      },
+      {
+        "lang": "sv",
+        "name": "Turkduva"
+      },
+      {
+        "lang": "tr",
+        "name": "Kumru"
+      },
+      {
+        "lang": "uk",
+        "name": "Горлиця садова"
+      },
+      {
+        "lang": "vec",
+        "name": "Tórtora dal colarin"
+      },
+      {
+        "lang": "zea",
+        "name": "Turkse tortel"
+      },
+      {
+        "lang": "zh",
+        "name": "灰斑鸠"
+      },
+      {
+        "lang": "ta",
+        "name": "கள்ளிப்புறா"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia capicola",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gewone Tortelduif"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička damarská"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur y Penrhyn"
+      },
+      {
+        "lang": "da",
+        "name": "Savanneskoggerdue"
+      },
+      {
+        "lang": "de",
+        "name": "Gurrtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Ring-necked Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudafrika turto"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola de El Cabo"
+      },
+      {
+        "lang": "fi",
+        "name": "Aroturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle du Cap"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora dal collare del Capo"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカジュズカケバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кечӹвӓлвел Африка тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse Tortel"
+      },
+      {
+        "lang": "no",
+        "name": "Savannedue"
+      },
+      {
+        "lang": "pl",
+        "name": "Synogarlica popielata"
+      },
+      {
+        "lang": "ru",
+        "name": "Южноафриканская горлица"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapturkduva"
+      },
+      {
+        "lang": "xh",
+        "name": "iKobe"
+      },
+      {
+        "lang": "zu",
+        "name": "iHope"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Streptopelia bitorquata",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tórtora de doble collar"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička šedotemenná"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur dorchog Jafa"
+      },
+      {
+        "lang": "de",
+        "name": "Kichertaube"
+      },
+      {
+        "lang": "en",
+        "name": "Sunda Collared Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Insuloturto"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanturturikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à double collier"
+      },
+      {
+        "lang": "hu",
+        "name": "Szigeti gerle"
+      },
+      {
+        "lang": "id",
+        "name": "Dederuk jawa"
+      },
+      {
+        "lang": "jv",
+        "name": "Deruk jawa"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кок шӓргӓшӓн тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse tortel"
+      },
+      {
+        "lang": "no",
+        "name": "Jomfrudue"
+      },
+      {
+        "lang": "pnb",
+        "name": "جزیرہ کالر کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-de-colar-duplo"
+      },
+      {
+        "lang": "sv",
+        "name": "Öturkduva"
+      }
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "scientific_name": "Cacicus uropygialis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet-rumped Cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique subtropical"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus solitarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Solitary Cacique"
+      },
+      {
+        "lang": "pt",
+        "name": "Iraúna-do-bico-branco"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique solitario"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus sclateri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cacicus oseryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Casqued oropendola"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique de Yelmo"
+      },
+      {
+        "lang": "pt",
+        "name": "Japu-de-capacete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus microrhynchus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cacicus leucoramphus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique montano norteño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus latirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed Oropendola"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique colibandeado"
+      },
+      {
+        "lang": "pt",
+        "name": "Japu-de-rabo-verde"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus koepckeae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Selva cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique de Koepcke"
+      },
+      {
+        "lang": "ar",
+        "name": "كاسيك سيلفا"
+      },
+      {
+        "lang": "cy",
+        "name": "Casig y goedwig law"
+      },
+      {
+        "lang": "de",
+        "name": "Koepckekassike"
+      },
+      {
+        "lang": "eo",
+        "name": "Perua kaciko"
+      },
+      {
+        "lang": "fr",
+        "name": "Cassique de Koepcke"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei kacika"
+      },
+      {
+        "lang": "nl",
+        "name": "Loretobuidelspreeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Selvaskasik"
+      },
+      {
+        "lang": "pt",
+        "name": "Tecelão-do-acre"
+      },
+      {
+        "lang": "sv",
+        "name": "flodkasik"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus haemorrhous",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Cacic de carpó roig"
+      },
+      {
+        "lang": "en",
+        "name": "Red-rumped Cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Arrendajo de lomo rojo"
+      },
+      {
+        "lang": "fr",
+        "name": "Cassique cul-rouge"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonuodegis kacikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstuitbuidelspreeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Rødgumpkasik"
+      },
+      {
+        "lang": "pt",
+        "name": "Guaxe"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödgumpkasik"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus chrysopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-winged Cacique"
+      },
+      {
+        "lang": "pt",
+        "name": "Tecelão"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique aliamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus chrysonotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "mountain cacique"
+      },
+      {
+        "lang": "eo",
+        "name": "montokaciko"
+      },
+      {
+        "lang": "es",
+        "name": "cacique montano sureñofr"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus cela",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "كاسيك أصفر الزمكى"
+      },
+      {
+        "lang": "cy",
+        "name": "Casig tinfelyn"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbürzelkassike"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-rumped Cacique"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavpuga kaciko"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique lomiamarillo"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultaperäkasikki"
+      },
+      {
+        "lang": "fr",
+        "name": "Cassique cul-jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgafarkú kacika"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelstuitbuidelspreeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Gulgumpkasik"
+      },
+      {
+        "lang": "pt",
+        "name": "Xexéu"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтопоясничный чёрный кассик"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulgumpad kasik"
+      }
+    ]
+  }
+]

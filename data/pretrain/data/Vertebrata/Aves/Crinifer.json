@@ -1,0 +1,40 @@
+[
+  {
+    "scientific_name": "Crinifer zonurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern grey plantain-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à queue barrée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crinifer piscator",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Plantain-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco gris"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco gris"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugati lármásmadár"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå larmfågel"
+      }
+    ]
+  }
+]

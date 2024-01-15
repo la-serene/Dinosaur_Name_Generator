@@ -1,0 +1,56 @@
+[
+  {
+    "scientific_name": "Sephanoides sephaniodes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-backed Firecrown"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí austral"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sephanoides fernandensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Juan Fernández Firecrown"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Juan Fernández"
+      },
+      {
+        "lang": "fi",
+        "name": "Juanfernandezinkolibri"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn fflamgorun gwinau"
+      },
+      {
+        "lang": "de",
+        "name": "Juan-Fernandez-Kolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri robinson"
+      },
+      {
+        "lang": "nl",
+        "name": "Juan-Fernandezkolibrie"
+      },
+      {
+        "lang": "pl",
+        "name": "Fernandezik wyspowy"
+      },
+      {
+        "lang": "sv",
+        "name": "juanfernándezkolibri"
+      }
+    ]
+  }
+]

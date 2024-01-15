@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Chrysomus ruficapillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-capped Blackbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Garibaldi"
+      },
+      {
+        "lang": "es",
+        "name": "Varillero congo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysomus icterocephalus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-hooded Blackbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Iratauá-pequeno"
+      }
+    ]
+  }
+]

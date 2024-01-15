@@ -1,0 +1,229 @@
+[
+  {
+    "scientific_name": "Graphiurus walterverheyeni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Verheyen-Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Walter Verheyen's African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Walter Verheyen"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Verheyen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus surdus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Silent Dormouse",
+        "synonyms": [
+          "Short-eared African Dormouse"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus rupicola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stone Dormouse",
+        "synonyms": [
+          "Rupicolous African Dormouse"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus platyops",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rock Dormouse",
+        "synonyms": [
+          "Flat-headed African Dormouse"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus parvus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Graphiurus olga",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Graphiurus ocularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spectacled African Dormouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus nagtglasii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Großer Afrikanischer Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Nagtglas's African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Nagtglas"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Nagtglas"
+      },
+      {
+        "lang": "ja",
+        "name": "リベリアヤマネ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus murinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Woodland Dormouse"
+      },
+      {
+        "lang": "pl",
+        "name": "Pilch afrykański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus monardi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Monard's Dormouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus microtis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Small-eared Dormouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus lorraineus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lorrain Dormouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus kelleni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kellen's Dormouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus hueti",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Graphiurus crassicaudatus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Jentink-Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Jentink's Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de cola gruesa"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Jentink"
+      },
+      {
+        "lang": "ja",
+        "name": "オブトヤマネ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus christyi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Christy-Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Christy's Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Christy"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Christy"
+      },
+      {
+        "lang": "ja",
+        "name": "クリスティーヤマネ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Graphiurus angolensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Angola-Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Angolan African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Angola"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir d'Angola"
+      },
+      {
+        "lang": "ja",
+        "name": "アンゴラヤマネ"
+      }
+    ]
+  }
+]

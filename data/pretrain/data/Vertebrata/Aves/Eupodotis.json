@@ -1,0 +1,107 @@
+[
+  {
+    "scientific_name": "Eupodotis vigorsii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Karoo Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón del Karoo"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetarda-do-karoo"
+      },
+      {
+        "lang": "sv",
+        "name": "Karootrapp"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupodotis senegalensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón senegalés"
+      },
+      {
+        "lang": "pl",
+        "name": "Dropik senegalski"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetarda-de-barriga-branca"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukig trapp"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupodotis rueppellii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rüppell's Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón de Damaraland"
+      },
+      {
+        "lang": "ja",
+        "name": "コノドグロショウノガン"
+      },
+      {
+        "lang": "sv",
+        "name": "Namibtrapp"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupodotis humilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Brown Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón somalí"
+      },
+      {
+        "lang": "sv",
+        "name": "Bruntrapp"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupodotis caerulescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón azulado"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetarda-azul"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåtrapp"
+      }
+    ]
+  }
+]

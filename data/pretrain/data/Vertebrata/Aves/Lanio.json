@@ -1,0 +1,62 @@
+[
+  {
+    "scientific_name": "Lanio versicolor",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tangara aliblanca"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged shrike-tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Pipira-de-asa-branca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lanio leucothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Shrike-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara gorgiblanca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lanio fulvus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fulvous Shrike-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara fulva"
+      },
+      {
+        "lang": "pt",
+        "name": "Pipira-parda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lanio aurantius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated Shrike-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tanara gorginegra"
+      }
+    ]
+  }
+]
