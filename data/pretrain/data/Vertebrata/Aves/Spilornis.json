@@ -1,0 +1,275 @@
+[
+  {
+    "scientific_name": "Spilornis rufipectus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík rudoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Sulawesi Serpent-eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera de Célebes"
+      },
+      {
+        "lang": "hu",
+        "name": "Celebeszi kígyászsas"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad celebeski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spilornis klossi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Serpentari de les Nicobar"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík Klossův"
+      },
+      {
+        "lang": "bn",
+        "name": "গ্রেট নিকোবর সর্প ঈগল"
+      },
+      {
+        "lang": "en",
+        "name": "South Nicobar Serpent-eagle",
+        "synonyms": [
+          "Great Nicobar serpent eagle"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera de Nicobar"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور نیکوبار جنوبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuharjakotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Serpentaire menu"
+      },
+      {
+        "lang": "hu",
+        "name": "Nikobári kígyászsas"
+      },
+      {
+        "lang": "nl",
+        "name": "Groot-Nicobarslangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad nikobarski"
+      },
+      {
+        "lang": "sv",
+        "name": "nikobarhjälmörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spilornis kinabaluensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík kinabalský"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Serpent Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera de Kinabalu"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور کوهی"
+      },
+      {
+        "lang": "fi",
+        "name": "Borneonharjakotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Serpentaire du Kinabalu"
+      },
+      {
+        "lang": "hu",
+        "name": "Borneói kígyászsas"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Helang Kinabalu"
+      },
+      {
+        "lang": "nl",
+        "name": "Kinabaluslangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad górski"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinabaluhjälmörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spilornis holospilus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík filipínský"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine Serpent Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera filipina"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad filipiński"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spilornis elgini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík andamanský"
+      },
+      {
+        "lang": "en",
+        "name": "Andaman Serpent-eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera de Andamán"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad andamański"
+      },
+      {
+        "lang": "bn",
+        "name": "আন্দামান সর্প ঈগল"
+      },
+      {
+        "lang": "ca",
+        "name": "Serpentari de les Andaman"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr nadroedd Andaman"
+      },
+      {
+        "lang": "eo",
+        "name": "Andamana serpentaglo"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور آندامان"
+      },
+      {
+        "lang": "fi",
+        "name": "Tummaharjakotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Serpentaire des Andaman"
+      },
+      {
+        "lang": "hu",
+        "name": "Andamáni kígyászsas"
+      },
+      {
+        "lang": "nl",
+        "name": "Andamanenslangenarend"
+      },
+      {
+        "lang": "pnb",
+        "name": "اینڈامین دا سپ مار عقاب"
+      },
+      {
+        "lang": "sv",
+        "name": "andamanhjälmörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spilornis cheela",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schlangenweihe"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Serpent-Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera chiita"
+      },
+      {
+        "lang": "fr",
+        "name": "Serpentaire bacha"
+      },
+      {
+        "lang": "id",
+        "name": "Elang-ular Bido"
+      },
+      {
+        "lang": "ja",
+        "name": "カンムリワシ"
+      },
+      {
+        "lang": "ko",
+        "name": "관수리"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Helang Berjambul"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad czubaty"
+      },
+      {
+        "lang": "su",
+        "name": "Heulang Ruyuk"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวรุ้ง"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Chôa-tiau"
+      },
+      {
+        "lang": "zh",
+        "name": "大冠鷲"
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "scientific_name": "Hemiphaga spadicea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hemiphaga novaeseelandiae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Maori-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Kererū",
+        "synonyms": [
+          "New Zealand Pigeon"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Paloma maorí"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドバト"
+      },
+      {
+        "lang": "mi",
+        "name": "Kererū"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Zeelandse vruchtenduif"
+      },
+      {
+        "lang": "pl",
+        "name": "Garlica maoryska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hemiphaga chathamensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom de les Chatham"
+      },
+      {
+        "lang": "en",
+        "name": "Chatham pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Pareao"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage des Chatham"
+      },
+      {
+        "lang": "mrj",
+        "name": "Чатем кӹцкӹ кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Chathamduif"
+      },
+      {
+        "lang": "sv",
+        "name": "chathamduva"
+      }
+    ]
+  }
+]

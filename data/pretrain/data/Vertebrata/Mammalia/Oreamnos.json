@@ -1,0 +1,49 @@
+[
+  {
+    "scientific_name": "Oreamnos harringtoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Harrington's Mountain Goat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreamnos americanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain goat"
+      },
+      {
+        "lang": "fi",
+        "name": "Lumivuohi"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi kecske"
+      },
+      {
+        "lang": "pl",
+        "name": "Kozioł śnieżny"
+      },
+      {
+        "lang": "pt",
+        "name": "Cabra-das-montanhas"
+      },
+      {
+        "lang": "sr",
+        "name": "Планинска коза",
+        "synonyms": [
+          "Planinska koza, Америчка планинска коза",
+          "Američka Planinska koza, Америчка снежна коза",
+          "Američka snežna koza"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Snöget"
+      }
+    ]
+  }
+]

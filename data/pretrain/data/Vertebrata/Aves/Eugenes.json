@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Eugenes spectabilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Talamanca Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibri de la Talamanca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eugenes fulgens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Magnificent Hummingbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri de Rivoli"
+      },
+      {
+        "lang": "pl",
+        "name": "Ametyścik"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí magnífico"
+      }
+    ]
+  }
+]

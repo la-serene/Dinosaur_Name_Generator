@@ -1,0 +1,79 @@
+[
+  {
+    "scientific_name": "Saiga tatarica",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Сайгак"
+      },
+      {
+        "lang": "de",
+        "name": "Saiga"
+      },
+      {
+        "lang": "en",
+        "name": "Saiga Antelope"
+      },
+      {
+        "lang": "eo",
+        "name": "Altnaza antilopo"
+      },
+      {
+        "lang": "es",
+        "name": "Antilope saiga Tátaro"
+      },
+      {
+        "lang": "hu",
+        "name": "Szajga",
+        "synonyms": [
+          "tatárantilop"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "サイガ"
+      },
+      {
+        "lang": "pl",
+        "name": "Suhak stepowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Saiga"
+      },
+      {
+        "lang": "th",
+        "name": "กุย"
+      },
+      {
+        "lang": "tr",
+        "name": "Sayga"
+      },
+      {
+        "lang": "uk",
+        "name": "Сайгак"
+      },
+      {
+        "lang": "zh",
+        "name": "高鼻羚羊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saiga borealis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mongolian Saiga"
+      },
+      {
+        "lang": "es",
+        "name": "Antilope saiga de Mongolia"
+      },
+      {
+        "lang": "pl",
+        "name": "Suhak północny"
+      }
+    ]
+  }
+]

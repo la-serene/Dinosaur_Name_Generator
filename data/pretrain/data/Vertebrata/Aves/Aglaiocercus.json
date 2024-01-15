@@ -1,0 +1,96 @@
+[
+  {
+    "scientific_name": "Aglaiocercus kingii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Sylph"
+      },
+      {
+        "lang": "es",
+        "name": "Silfo de King"
+      },
+      {
+        "lang": "fi",
+        "name": "Turkoosihännyskolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aglaiocercus coelestis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-tailed Sylph"
+      },
+      {
+        "lang": "es",
+        "name": "Silfo celeste"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aglaiocercus berlepschi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "sylfa venezuelská"
+      },
+      {
+        "lang": "da",
+        "name": "Venezuelasylfide"
+      },
+      {
+        "lang": "de",
+        "name": "Berlepschsylphe"
+      },
+      {
+        "lang": "en",
+        "name": "Venezuelan Sylph"
+      },
+      {
+        "lang": "es",
+        "name": "Silfo de Berlepsch"
+      },
+      {
+        "lang": "fr",
+        "name": "Sylphe du Venezuela"
+      },
+      {
+        "lang": "it",
+        "name": "Silfide del Venezuela"
+      },
+      {
+        "lang": "ja",
+        "name": "アオフタオハチドリ",
+        "synonyms": [
+          "aofutaohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Berlepsch' Langstaartnimf"
+      },
+      {
+        "lang": "no",
+        "name": "Bredhalesylfe"
+      },
+      {
+        "lang": "pl",
+        "name": "komecik wenezuelski"
+      },
+      {
+        "lang": "sk",
+        "name": "vrchárik venezuelský"
+      },
+      {
+        "lang": "sv",
+        "name": "Venezuelasylf"
+      },
+      {
+        "lang": "zh",
+        "name": "南美长尾蜂鸟"
+      }
+    ]
+  }
+]

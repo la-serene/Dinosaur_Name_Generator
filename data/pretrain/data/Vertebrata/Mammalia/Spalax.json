@@ -1,0 +1,52 @@
+[
+  {
+    "scientific_name": "Spalax zemni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax uralensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax microphthalmus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax istricus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax giganteus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax antiquus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax graecus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Slepec polní"
+      },
+      {
+        "lang": "en",
+        "name": "Balkan Mole Rat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spalax denizliensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax arenarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sandy Blind Mole Rat"
+      }
+    ]
+  }
+]

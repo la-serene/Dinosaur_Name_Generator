@@ -1,0 +1,81 @@
+[
+  {
+    "scientific_name": "Piprites pileata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Piprites"
+      },
+      {
+        "lang": "es",
+        "name": "Bailarín castaño"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロマイコドリ"
+      },
+      {
+        "lang": "pt",
+        "name": "Caneleirinho-de-boné-preto"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caneleirinho-de-chapéu-preto"
+      },
+      {
+        "lang": "cy",
+        "name": "Manacin corunddu"
+      },
+      {
+        "lang": "fa",
+        "name": "رنگینک‌نمای سیاه‌کلاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustalakkitanssija"
+      },
+      {
+        "lang": "fr",
+        "name": "Piprite chaperonné"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkapmanakin"
+      },
+      {
+        "lang": "sv",
+        "name": "svartkronad piprit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Piprites griseiceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed piprites"
+      },
+      {
+        "lang": "es",
+        "name": "Piprites cabecigrís"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Piprites chloris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wing-barred piprites"
+      },
+      {
+        "lang": "es",
+        "name": "Piprites verde; bailarín verde"
+      },
+      {
+        "lang": "pt",
+        "name": "Papinho-amarelo"
+      }
+    ]
+  }
+]

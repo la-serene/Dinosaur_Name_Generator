@@ -1,0 +1,48 @@
+[
+  {
+    "scientific_name": "Melanodera xanthogramma",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-bridled Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal cejiamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanodera melanodera",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Pila gyddfddu"
+      },
+      {
+        "lang": "en",
+        "name": "White-bridled Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal cejiblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltasiipisirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Mélanodère à sourcils blancs"
+      },
+      {
+        "lang": "nl",
+        "name": "Magelhaengors"
+      },
+      {
+        "lang": "sv",
+        "name": "Magellanfink"
+      }
+    ]
+  }
+]

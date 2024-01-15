@@ -1,0 +1,82 @@
+[
+  {
+    "scientific_name": "Hemignathus wilsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Akiapolaau"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻAkiapolaʻau"
+      },
+      {
+        "lang": "fi",
+        "name": "Akiapolaau"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű gyapjasmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Akiapolaau"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tsįįłkaałii bidaaʼ shiyishígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Hawajka pełzaczowata"
+      },
+      {
+        "lang": "sv",
+        "name": "akiapolaau"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hemignathus lucidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oahu Nukupuu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hemignathus hanapepe",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kauaʻi nukupuʻu"
+      },
+      {
+        "lang": "nl",
+        "name": "Kauainukupuu"
+      },
+      {
+        "lang": "sv",
+        "name": "Kauai-nukupuu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hemignathus affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maui nukupuʻu"
+      },
+      {
+        "lang": "nl",
+        "name": "Mauinukupuu"
+      },
+      {
+        "lang": "sv",
+        "name": "Maui-nukupuu"
+      }
+    ]
+  }
+]

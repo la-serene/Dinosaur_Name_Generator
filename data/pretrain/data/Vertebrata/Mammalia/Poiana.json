@@ -1,0 +1,68 @@
+[
+  {
+    "scientific_name": "Poiana richardsonii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Zentralafrikanischer Linsang"
+      },
+      {
+        "lang": "en",
+        "name": "Central African Linsang"
+      },
+      {
+        "lang": "es",
+        "name": "Oyán"
+      },
+      {
+        "lang": "fr",
+        "name": "Poiane de Richardson"
+      },
+      {
+        "lang": "hu",
+        "name": "Közép-afrikai pojána"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカリンサン"
+      },
+      {
+        "lang": "pl",
+        "name": "Pojana"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika lisangı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poiana leightoni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Westafrikanischer Linsang"
+      },
+      {
+        "lang": "en",
+        "name": "Leighton's Linsang"
+      },
+      {
+        "lang": "es",
+        "name": "Oyán occidental"
+      },
+      {
+        "lang": "fr",
+        "name": "Poiane de Leighton"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugat-afrikai pojána"
+      },
+      {
+        "lang": "ja",
+        "name": "レイトンリンサン"
+      }
+    ]
+  }
+]

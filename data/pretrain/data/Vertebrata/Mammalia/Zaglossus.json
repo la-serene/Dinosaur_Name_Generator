@@ -1,0 +1,143 @@
+[
+  {
+    "scientific_name": "Zaglossus robustus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zaglossus maximus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zaglossus hacketti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hackett's Giant Echidna<!--Glauert",
+        "synonyms": [
+          "1914-->"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ジャイアントミユビハリモグラ<!--絶滅哺乳類図鑑 2011 https:",
+        "synonyms": [
+          "",
+          "iss.ndl.go.jp",
+          "books",
+          "R100000002-I000011105647-00-->"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus bruijnii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langschnabeligel"
+      },
+      {
+        "lang": "en",
+        "name": "Western Long-beaked Echidna"
+      },
+      {
+        "lang": "es",
+        "name": "Equidna de hocico largo occidental"
+      },
+      {
+        "lang": "fi",
+        "name": "Kärsänokkasiili"
+      },
+      {
+        "lang": "fr",
+        "name": "Échidné de Bruijn"
+      },
+      {
+        "lang": "is",
+        "name": "Maðkígull"
+      },
+      {
+        "lang": "ja",
+        "name": "ミユビハリモグラ"
+      },
+      {
+        "lang": "pl",
+        "name": "Prakolczatka"
+      },
+      {
+        "lang": "ru",
+        "name": "Волосатая проехидна"
+      },
+      {
+        "lang": "uk",
+        "name": "Єхидна довгоноса"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-bico-longo"
+      },
+      {
+        "lang": "zh",
+        "name": "長吻針鼴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus bartoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Long-beaked echidna"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒガシミユビハリモグラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-barton"
+      },
+      {
+        "lang": "zh",
+        "name": "大長吻針鼴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus attenboroughi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Attenborough-Langschnabeligel"
+      },
+      {
+        "lang": "en",
+        "name": "Attenborough's Long-beaked Echidna"
+      },
+      {
+        "lang": "es",
+        "name": "Equidna de hocico largo de Attenborough"
+      },
+      {
+        "lang": "fr",
+        "name": "Échidné d'Attenborough"
+      },
+      {
+        "lang": "ja",
+        "name": "アッテンボローミユビハリモグラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-attenborough"
+      },
+      {
+        "lang": "uk",
+        "name": "Довгоноса єхидна-циклоп"
+      },
+      {
+        "lang": "zh",
+        "name": "阿滕伯勒長喙針鼴鼠"
+      }
+    ]
+  }
+]

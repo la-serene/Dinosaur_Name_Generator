@@ -1,0 +1,334 @@
+[
+  {
+    "scientific_name": "Campylopterus villaviscensio",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Napo Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí del Napo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus rufus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus phainopeplus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Santa Marta Sabrewing"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí de Santa Marta"
+      },
+      {
+        "lang": "cy",
+        "name": "Cleddasgell Santa Marta"
+      },
+      {
+        "lang": "de",
+        "name": "Santa-Marta-Degenflügel"
+      },
+      {
+        "lang": "es",
+        "name": "colibrí de Santa Marta"
+      },
+      {
+        "lang": "fi",
+        "name": "Kolumbiansapelikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Campyloptère des Santa Marta"
+      },
+      {
+        "lang": "nl",
+        "name": "Santamartasabelvleugel"
+      },
+      {
+        "lang": "nn",
+        "name": "Santamartasabelveng"
+      },
+      {
+        "lang": "sv",
+        "name": "santamartasabelvinge"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus pampa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus largipennis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-breasted Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí Pechigrís"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-asa-de-sabre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus hyperythrus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-breasted Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí rojizo venezolano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus hemileucurus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolibřík fialkový"
+      },
+      {
+        "lang": "da",
+        "name": "Violet Sabelvinge"
+      },
+      {
+        "lang": "de",
+        "name": "Violettdegenflügel"
+      },
+      {
+        "lang": "en",
+        "name": "Violet Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí morado"
+      },
+      {
+        "lang": "et",
+        "name": "Sini-saabelkoolibri"
+      },
+      {
+        "lang": "fi",
+        "name": "Violettisapelikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Campyloptère violet"
+      },
+      {
+        "lang": "hu",
+        "name": "Lila kardoskolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Campilottero violetto"
+      },
+      {
+        "lang": "ja",
+        "name": "ムラサキケンバネハチドリ",
+        "synonyms": [
+          "murasakikembanehachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Violette Sabelvleugel"
+      },
+      {
+        "lang": "no",
+        "name": "Fiolettsabelvinge"
+      },
+      {
+        "lang": "pl",
+        "name": "Zapylak fioletowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурный саблекрыл"
+      },
+      {
+        "lang": "sk",
+        "name": "Kolibrík svietivý"
+      },
+      {
+        "lang": "sv",
+        "name": "Violett sabelvinge"
+      },
+      {
+        "lang": "zh",
+        "name": "紫刀翅蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus falcatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík azurovoprsý"
+      },
+      {
+        "lang": "da",
+        "name": "Lazurfarvet Sabelvinge"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschwanz-Degenflügel"
+      },
+      {
+        "lang": "en",
+        "name": "Lazuline Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "colibrí lazulita"
+      },
+      {
+        "lang": "fi",
+        "name": "sirppisapelikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Campyloptère lazulite"
+      },
+      {
+        "lang": "it",
+        "name": "Campilottero lazulino"
+      },
+      {
+        "lang": "ja",
+        "name": "ルリムネケンバネハチドリ",
+        "synonyms": [
+          "rurimunekembanehachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwbuiksabelvleugel"
+      },
+      {
+        "lang": "no",
+        "name": "Brunhalesabelvinge"
+      },
+      {
+        "lang": "pl",
+        "name": "zapylak lazurowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Лазурный саблекрыл"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík šabľokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Lazulisabelvinge"
+      },
+      {
+        "lang": "zh",
+        "name": "棕尾刀翅蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus excellens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus ensipennis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí coliblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Campyloptère à queue blanche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaartsabelvleugelkolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "vitstjärtad sabelvingskolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus duidae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-breasted Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí del Duida"
+      },
+      {
+        "lang": "pt",
+        "name": "Asa-de-sabre-de-peito-camurça"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus diamantinensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Diamantina Sabrewing"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Asa-de-sabre-do-espinhaço"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campylopterus cuvierii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus curvipennis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus calcirupicola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dry-forest Sabrewing"
+      },
+      {
+        "lang": "pl",
+        "name": "Zapylak zaroślowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Asa-de-sabre-da-mata-seca"
+      }
+    ]
+  }
+]

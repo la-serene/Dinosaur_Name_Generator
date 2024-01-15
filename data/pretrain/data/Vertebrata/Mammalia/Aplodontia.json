@@ -1,0 +1,30 @@
+[
+  {
+    "scientific_name": "Aplodontia rufa",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Stummelschwanzhörnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Beaver"
+      },
+      {
+        "lang": "es",
+        "name": "Castor de montaña"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマビーバー"
+      },
+      {
+        "lang": "pl",
+        "name": "Sewel",
+        "synonyms": [
+          "Bóbr górski"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "scientific_name": "Hylocharis sapphirina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-throated Sapphire"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro gorjirrojo"
+      },
+      {
+        "lang": "pt",
+        "name": "beija-flor-safira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hylocharis grayi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hylocharis eliciae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hylocharis cyanus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hylocharis chrysura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gilded Hummingbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Saphir à queue d'or"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-dourado"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro bronceado"
+      }
+    ]
+  }
+]

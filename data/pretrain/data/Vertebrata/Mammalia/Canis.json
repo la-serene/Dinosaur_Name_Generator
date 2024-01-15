@@ -1,0 +1,1373 @@
+[
+  {
+    "scientific_name": "Canis ursinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bear Dog"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis simensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Äthiopischer Wolf"
+      },
+      {
+        "lang": "en",
+        "name": "Ethiopian Wolf"
+      },
+      {
+        "lang": "eo",
+        "name": "Etiopa lupo"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo etíope",
+        "synonyms": [
+          "lobo abisinio"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Etioopia hunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopiansusi"
+      },
+      {
+        "lang": "fr",
+        "name": "Loup d’Abyssinie"
+      },
+      {
+        "lang": "hu",
+        "name": "Etióp farkas",
+        "synonyms": [
+          "kaber",
+          "etióp sakál",
+          "abesszin róka"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Volpe di Simien"
+      },
+      {
+        "lang": "ja",
+        "name": "アビシニアジャッカル"
+      },
+      {
+        "lang": "nl",
+        "name": "Ethiopische wolf"
+      },
+      {
+        "lang": "no",
+        "name": "Etiopisk ulv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaberu"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo-etíope"
+      },
+      {
+        "lang": "sv",
+        "name": "Etiopisk varg"
+      },
+      {
+        "lang": "tr",
+        "name": "Habeş kurdu"
+      },
+      {
+        "lang": "uk",
+        "name": "Ефіопський вовк"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis rufus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Canis mesomelas",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ابن آوى أسود الظهر"
+      },
+      {
+        "lang": "de",
+        "name": "Schabrackenschakal"
+      },
+      {
+        "lang": "en",
+        "name": "Black-backed Jackal"
+      },
+      {
+        "lang": "es",
+        "name": "Chacal de lomo negro"
+      },
+      {
+        "lang": "et",
+        "name": "Mustselg-šaakal"
+      },
+      {
+        "lang": "fi",
+        "name": "Vaippasakaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Chacal à chabraque"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnoleđi čagalj"
+      },
+      {
+        "lang": "hu",
+        "name": "Panyókás sakál"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロジャッカル"
+      },
+      {
+        "lang": "ko",
+        "name": "검은등자칼"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara sırtlı çakal"
+      },
+      {
+        "lang": "nl",
+        "name": "Zadeljakhals"
+      },
+      {
+        "lang": "pl",
+        "name": "Szakal czaprakowy"
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอกหลังดำ",
+        "synonyms": [
+          "หมาจิ้งจอกหลังเงิน"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Chacal-de-costas-pretas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis lycaon",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Canis lupus",
+    "common_names": [
+      {
+        "lang": "aa",
+        "name": "Dalehö"
+      },
+      {
+        "lang": "ab",
+        "name": "Абгаду"
+      },
+      {
+        "lang": "af",
+        "name": "Wolf"
+      },
+      {
+        "lang": "am",
+        "name": "ተኵላ"
+      },
+      {
+        "lang": "an",
+        "name": "Lupo"
+      },
+      {
+        "lang": "ang",
+        "name": "Ƿulf"
+      },
+      {
+        "lang": "ar",
+        "name": "ذئب رمادي، ذئب"
+      },
+      {
+        "lang": "arc",
+        "name": "ܕܐܒܐ"
+      },
+      {
+        "lang": "as",
+        "name": "বাঘ"
+      },
+      {
+        "lang": "ast",
+        "name": "Llobu"
+      },
+      {
+        "lang": "av",
+        "name": "БацӀ"
+      },
+      {
+        "lang": "az",
+        "name": "Canavar"
+      },
+      {
+        "lang": "ba",
+        "name": "Бүре"
+      },
+      {
+        "lang": "bar",
+        "name": "Wuif"
+      },
+      {
+        "lang": "be",
+        "name": "Воўк"
+      },
+      {
+        "lang": "bg",
+        "name": "Вълк"
+      },
+      {
+        "lang": "br",
+        "name": "Bleiz"
+      },
+      {
+        "lang": "bs",
+        "name": "Vuk - Вук"
+      },
+      {
+        "lang": "bxr",
+        "name": "Шоно"
+      },
+      {
+        "lang": "ca",
+        "name": "Llop"
+      },
+      {
+        "lang": "ce",
+        "name": "Борз"
+      },
+      {
+        "lang": "cho",
+        "name": "Nashoba"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏩᏯ"
+      },
+      {
+        "lang": "chy",
+        "name": "Hó'nehe"
+      },
+      {
+        "lang": "co",
+        "name": "Lupu"
+      },
+      {
+        "lang": "cr",
+        "name": "Mahiihkan - ᒪᐦᐃᐦᑲᓐ"
+      },
+      {
+        "lang": "crh",
+        "name": "Борю"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlk obecný"
+      },
+      {
+        "lang": "cu",
+        "name": "Влькъ - Ⰲⰾⱐⰽⱏ"
+      },
+      {
+        "lang": "cv",
+        "name": "Кашкӑр"
+      },
+      {
+        "lang": "cy",
+        "name": "Blaidd"
+      },
+      {
+        "lang": "da",
+        "name": "Ulv"
+      },
+      {
+        "lang": "de",
+        "name": "Wolf"
+      },
+      {
+        "lang": "diq",
+        "name": "Verg"
+      },
+      {
+        "lang": "dsb",
+        "name": "Wjelk"
+      },
+      {
+        "lang": "dv",
+        "name": "ހިޔަޅު"
+      },
+      {
+        "lang": "el",
+        "name": "Λύκος"
+      },
+      {
+        "lang": "eml",
+        "name": "Lauv"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Wolf"
+      },
+      {
+        "lang": "en-us",
+        "name": "Gray Wolf"
+      },
+      {
+        "lang": "eo",
+        "name": "Lupo"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo"
+      },
+      {
+        "lang": "et",
+        "name": "Hunt"
+      },
+      {
+        "lang": "eu",
+        "name": "Otso"
+      },
+      {
+        "lang": "fa",
+        "name": "گرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Susi"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Susi"
+      },
+      {
+        "lang": "fo",
+        "name": "Úlvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Loup gris"
+      },
+      {
+        "lang": "frp",
+        "name": "Lop"
+      },
+      {
+        "lang": "fur",
+        "name": "Lôf"
+      },
+      {
+        "lang": "ga",
+        "name": "Faolchú"
+      },
+      {
+        "lang": "gd",
+        "name": "Faol"
+      },
+      {
+        "lang": "gl",
+        "name": "Lobo"
+      },
+      {
+        "lang": "got",
+        "name": "𐍅𐌿𐌻𐍆𐍃"
+      },
+      {
+        "lang": "gu",
+        "name": "વરુ"
+      },
+      {
+        "lang": "hak",
+        "name": "狼"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻĪlio hae"
+      },
+      {
+        "lang": "he",
+        "name": "זאב מצוי"
+      },
+      {
+        "lang": "hi",
+        "name": "भेड़िया"
+      },
+      {
+        "lang": "hr",
+        "name": "Sivi Vuk"
+      },
+      {
+        "lang": "hsb",
+        "name": "Wjelk"
+      },
+      {
+        "lang": "ht",
+        "name": "Lou"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke farkas"
+      },
+      {
+        "lang": "hy",
+        "name": "Գայլ"
+      },
+      {
+        "lang": "ia",
+        "name": "Lupo"
+      },
+      {
+        "lang": "id",
+        "name": "Serigala"
+      },
+      {
+        "lang": "ik",
+        "name": "Amabuq"
+      },
+      {
+        "lang": "io",
+        "name": "Volfo"
+      },
+      {
+        "lang": "is",
+        "name": "Úlfur"
+      },
+      {
+        "lang": "it",
+        "name": "Lupo grigio"
+      },
+      {
+        "lang": "iu",
+        "name": "Amaruq - ᐊᒪᕈᖅ"
+      },
+      {
+        "lang": "ja",
+        "name": "オオカミ"
+      },
+      {
+        "lang": "ka",
+        "name": "მგელი - ႫႢႤႪႨ"
+      },
+      {
+        "lang": "kaa",
+        "name": "Qasqır"
+      },
+      {
+        "lang": "kk",
+        "name": "Қасқыр"
+      },
+      {
+        "lang": "km",
+        "name": "វនសុនខ"
+      },
+      {
+        "lang": "kn",
+        "name": "ತೋಳ"
+      },
+      {
+        "lang": "ko",
+        "name": "늑대"
+      },
+      {
+        "lang": "ku",
+        "name": "گور"
+      },
+      {
+        "lang": "kv",
+        "name": "Кӧин"
+      },
+      {
+        "lang": "kw",
+        "name": "Blyth"
+      },
+      {
+        "lang": "ky",
+        "name": "Карышкыр"
+      },
+      {
+        "lang": "la",
+        "name": "Lupus"
+      },
+      {
+        "lang": "lad",
+        "name": "Lovo"
+      },
+      {
+        "lang": "lb",
+        "name": "Wollef"
+      },
+      {
+        "lang": "li",
+        "name": "Wouf"
+      },
+      {
+        "lang": "lij",
+        "name": "Lô"
+      },
+      {
+        "lang": "lmo",
+        "name": "Luf"
+      },
+      {
+        "lang": "lo",
+        "name": "ຫມາປ່າ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkasis vilkas"
+      },
+      {
+        "lang": "lv",
+        "name": "Vilks"
+      },
+      {
+        "lang": "mdf",
+        "name": "Врьгаз"
+      },
+      {
+        "lang": "mg",
+        "name": "Amboadia"
+      },
+      {
+        "lang": "mi",
+        "name": "Wuruhi"
+      },
+      {
+        "lang": "mk",
+        "name": "Волк"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെന്നായ്"
+      },
+      {
+        "lang": "mn",
+        "name": "ᠴᠢᠨᠤ᠎ᠠ - Чоно"
+      },
+      {
+        "lang": "mo",
+        "name": "Lup"
+      },
+      {
+        "lang": "mr",
+        "name": "लांडगा"
+      },
+      {
+        "lang": "ms",
+        "name": "Serigala - سريڬالا"
+      },
+      {
+        "lang": "mt",
+        "name": "Lupu"
+      },
+      {
+        "lang": "mus",
+        "name": "Yvhv"
+      },
+      {
+        "lang": "my",
+        "name": "ဝံပုလွေ"
+      },
+      {
+        "lang": "myv",
+        "name": "Верьгиз"
+      },
+      {
+        "lang": "nah",
+        "name": "Cuetlāchtli"
+      },
+      {
+        "lang": "nl",
+        "name": "Wolf"
+      },
+      {
+        "lang": "nn",
+        "name": "Ulv"
+      },
+      {
+        "lang": "no",
+        "name": "Gråulv"
+      },
+      {
+        "lang": "nov",
+        "name": "Lupe"
+      },
+      {
+        "lang": "nrm",
+        "name": "Loup"
+      },
+      {
+        "lang": "nv",
+        "name": "Mąʼiitsoh"
+      },
+      {
+        "lang": "oc",
+        "name": "Lop"
+      },
+      {
+        "lang": "os",
+        "name": "Бирӕгъ"
+      },
+      {
+        "lang": "pa",
+        "name": "ਬਘਿਆੜ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilk szary"
+      },
+      {
+        "lang": "ps",
+        "name": "لېوه"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo"
+      },
+      {
+        "lang": "qu",
+        "name": "Lupu"
+      },
+      {
+        "lang": "rm",
+        "name": "Luf"
+      },
+      {
+        "lang": "ro",
+        "name": "Lup cenuşiu"
+      },
+      {
+        "lang": "roa-rup",
+        "name": "Lup"
+      },
+      {
+        "lang": "ru",
+        "name": "Волк"
+      },
+      {
+        "lang": "sa",
+        "name": "वृकः"
+      },
+      {
+        "lang": "sah",
+        "name": "Бөрө"
+      },
+      {
+        "lang": "sc",
+        "name": "Lupu"
+      },
+      {
+        "lang": "scn",
+        "name": "Lupu"
+      },
+      {
+        "lang": "sco",
+        "name": "Wolf"
+      },
+      {
+        "lang": "sd",
+        "name": "بگھڙ"
+      },
+      {
+        "lang": "se",
+        "name": "Gumpe"
+      },
+      {
+        "lang": "sh",
+        "name": "Вук - Vuk"
+      },
+      {
+        "lang": "si",
+        "name": "වෘකයා"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlk"
+      },
+      {
+        "lang": "sl",
+        "name": "Volk"
+      },
+      {
+        "lang": "so",
+        "name": "Yey"
+      },
+      {
+        "lang": "sq",
+        "name": "Ujk"
+      },
+      {
+        "lang": "sr",
+        "name": "Вук - Vuk"
+      },
+      {
+        "lang": "sv",
+        "name": "Varg"
+      },
+      {
+        "lang": "szl",
+        "name": "Wolf"
+      },
+      {
+        "lang": "ta",
+        "name": "ஓநாய்"
+      },
+      {
+        "lang": "te",
+        "name": "తోడేలు"
+      },
+      {
+        "lang": "tg",
+        "name": "Гург"
+      },
+      {
+        "lang": "th",
+        "name": "หมาป่า"
+      },
+      {
+        "lang": "ti",
+        "name": "ተኹላ"
+      },
+      {
+        "lang": "tl",
+        "name": "Lobo"
+      },
+      {
+        "lang": "tr",
+        "name": "Kurt"
+      },
+      {
+        "lang": "tt",
+        "name": "Бүре"
+      },
+      {
+        "lang": "ty",
+        "name": "Ruto"
+      },
+      {
+        "lang": "udm",
+        "name": "Кион"
+      },
+      {
+        "lang": "ug",
+        "name": "بۆرە"
+      },
+      {
+        "lang": "uk",
+        "name": "Вовк"
+      },
+      {
+        "lang": "ur",
+        "name": "بھیڑیا"
+      },
+      {
+        "lang": "uz",
+        "name": "Bo‘ri"
+      },
+      {
+        "lang": "vec",
+        "name": "Lóvo"
+      },
+      {
+        "lang": "vi",
+        "name": "Chó sói"
+      },
+      {
+        "lang": "wa",
+        "name": "Leu"
+      },
+      {
+        "lang": "wuu",
+        "name": "狼"
+      },
+      {
+        "lang": "yi",
+        "name": "וואלף"
+      },
+      {
+        "lang": "zh",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-classical",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "狼"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis latrans",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Каёт"
+      },
+      {
+        "lang": "ca",
+        "name": "Coiot"
+      },
+      {
+        "lang": "de",
+        "name": "Kojote"
+      },
+      {
+        "lang": "nv",
+        "name": "Mąʼii"
+      },
+      {
+        "lang": "eo",
+        "name": "Kojoto"
+      },
+      {
+        "lang": "en",
+        "name": "Coyote"
+      },
+      {
+        "lang": "es",
+        "name": "Coyote"
+      },
+      {
+        "lang": "et",
+        "name": "Koiott",
+        "synonyms": [
+          "Preeriahunt"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Kojootti"
+      },
+      {
+        "lang": "he",
+        "name": "זאב ערבות"
+      },
+      {
+        "lang": "hu",
+        "name": "Prérifarkas",
+        "synonyms": [
+          "kojot"
+        ]
+      },
+      {
+        "lang": "ik",
+        "name": "Amaġuuraq"
+      },
+      {
+        "lang": "it",
+        "name": "Coyote"
+      },
+      {
+        "lang": "ja",
+        "name": "コヨーテ"
+      },
+      {
+        "lang": "ko",
+        "name": "코요테"
+      },
+      {
+        "lang": "nl",
+        "name": "Coyote"
+      },
+      {
+        "lang": "pl",
+        "name": "kojot preriowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Coiote"
+      },
+      {
+        "lang": "tr",
+        "name": "Kır kurdu"
+      },
+      {
+        "lang": "uk",
+        "name": "Койот"
+      },
+      {
+        "lang": "zh",
+        "name": "郊狼"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis himalayensis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Lobo del Himalaya"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilk himalajski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis hallstromi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Gos de Nova Guinea"
+      },
+      {
+        "lang": "en",
+        "name": "New Guinea Singing Dog"
+      },
+      {
+        "lang": "es",
+        "name": "Perro Cantor de Nueva Guinea"
+      },
+      {
+        "lang": "fr",
+        "name": "Chien Chanteur de Nouvelle-Guinée"
+      },
+      {
+        "lang": "fi",
+        "name": "Laulava uudenguineankoira"
+      },
+      {
+        "lang": "pl",
+        "name": "Śpiewający pies z Nowej Gwinei"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis ferox",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "''fierce dog''"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis familiaris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Canis dirus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Llop prehistòric"
+      },
+      {
+        "lang": "en",
+        "name": "Dire Wolf"
+      },
+      {
+        "lang": "fi",
+        "name": "Hirviösusi"
+      },
+      {
+        "lang": "gl",
+        "name": "Lobo prehistórico"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo prehistórico"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriásfarkas"
+      },
+      {
+        "lang": "it",
+        "name": "Meta-Lupo"
+      },
+      {
+        "lang": "ja",
+        "name": "ダイアウルフ"
+      },
+      {
+        "lang": "nl",
+        "name": "Reuzenwolf"
+      },
+      {
+        "lang": "pl",
+        "name": "wilk straszny"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo pré-histórico"
+      },
+      {
+        "lang": "sv",
+        "name": "Jättevarg"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis dingo",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Canis aureus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ابن آوى الذهبي"
+      },
+      {
+        "lang": "as",
+        "name": "শিয়াল"
+      },
+      {
+        "lang": "be",
+        "name": "Шакал"
+      },
+      {
+        "lang": "ca",
+        "name": "Xacal daurat"
+      },
+      {
+        "lang": "cs",
+        "name": "Šakal obecný",
+        "synonyms": [
+          "Šakal zlatý"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Guldsjakal"
+      },
+      {
+        "lang": "de",
+        "name": "Goldschakal"
+      },
+      {
+        "lang": "el",
+        "name": "Χρυσόμαλλο τσακάλι"
+      },
+      {
+        "lang": "et",
+        "name": "Šaakal",
+        "synonyms": [
+          "Harilik šaakal"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Golden Jackal"
+      },
+      {
+        "lang": "eo",
+        "name": "Or&#349;akalo"
+      },
+      {
+        "lang": "es",
+        "name": "Chacal dorado"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultasakaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Chacal doré"
+      },
+      {
+        "lang": "gu",
+        "name": "શિયાળ"
+      },
+      {
+        "lang": "he",
+        "name": "תן זהוב",
+        "synonyms": [
+          "תן מצוי"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Aranysakál",
+        "synonyms": [
+          "nádi farkas",
+          "réti farkas",
+          "toportyán",
+          "csikasz"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Sciacallo dorato"
+      },
+      {
+        "lang": "ko",
+        "name": "황금자칼"
+      },
+      {
+        "lang": "nl",
+        "name": "Gewone jakhals"
+      },
+      {
+        "lang": "no",
+        "name": "Gullsjakal"
+      },
+      {
+        "lang": "pl",
+        "name": "Szakal złocisty"
+      },
+      {
+        "lang": "pt",
+        "name": "Chacal-dourado"
+      },
+      {
+        "lang": "ru",
+        "name": "Шакал обыкновенный"
+      },
+      {
+        "lang": "sh",
+        "name": "Zlatni šakal",
+        "synonyms": [
+          "Златни шакал"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Guldschakal"
+      },
+      {
+        "lang": "syl",
+        "name": "ꠢꠤꠀꠟ"
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอก",
+        "synonyms": [
+          "หมาจิ้งจอกเอเชีย",
+          "หมาจิ้งจอกทอง"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Altın çakal",
+        "synonyms": [
+          "Bayağı çakal"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Шакал"
+      },
+      {
+        "lang": "zh",
+        "name": "金豺"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতিশিয়াল"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis anthus",
+    "common_names": [
+      {
+        "lang": "aa",
+        "name": "Wucharia"
+      },
+      {
+        "lang": "am",
+        "name": "ተረ ቀበሮ"
+      },
+      {
+        "lang": "ar",
+        "name": "ابن آوى",
+        "synonyms": [
+          "ذئب",
+          "أبو سليمان"
+        ]
+      },
+      {
+        "lang": "ber",
+        "name": "Ouchan asian",
+        "synonyms": [
+          "Ouchan akhatar"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanischer Goldwolf"
+      },
+      {
+        "lang": "en",
+        "name": "African Golden Wolf",
+        "synonyms": [
+          "Golden Wolf",
+          "African Wolf"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Lobo dorado africano"
+      },
+      {
+        "lang": "fa",
+        "name": "گرگ آفریقایی طلایی"
+      },
+      {
+        "lang": "ff",
+        "name": "Sundu"
+      },
+      {
+        "lang": "fr",
+        "name": "loup doré"
+      },
+      {
+        "lang": "ha",
+        "name": "Dila"
+      },
+      {
+        "lang": "he",
+        "name": "זאב זהוב אפריקאי"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai farkas"
+      },
+      {
+        "lang": "it",
+        "name": "lupo africano",
+        "synonyms": [
+          "sciacallo lupastro"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "아프리카황금늑대"
+      },
+      {
+        "lang": "lv",
+        "name": "Āfrikas zeltainais vilks"
+      },
+      {
+        "lang": "no",
+        "name": "Gullulv"
+      },
+      {
+        "lang": "simple",
+        "name": "African Golden Wolf"
+      },
+      {
+        "lang": "son",
+        "name": "Nzongo"
+      },
+      {
+        "lang": "sw",
+        "name": "Bweha wa mbuga",
+        "synonyms": [
+          "Bweha dhahabu"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Sói vàng châu Phi"
+      },
+      {
+        "lang": "wo",
+        "name": "Tili"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Canis adustus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witkwasjakkals"
+      },
+      {
+        "lang": "be",
+        "name": "Паласаты шакал"
+      },
+      {
+        "lang": "ca",
+        "name": "Xacal ratllat"
+      },
+      {
+        "lang": "de",
+        "name": "Streifenschakal"
+      },
+      {
+        "lang": "et",
+        "name": "Vöötšaakal"
+      },
+      {
+        "lang": "en",
+        "name": "Side-striped Jackal"
+      },
+      {
+        "lang": "es",
+        "name": "Chacal rayado"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovasakaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Chacal à flancs rayés"
+      },
+      {
+        "lang": "hu",
+        "name": "Sujtásos sakál"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte jakhals"
+      },
+      {
+        "lang": "no",
+        "name": "Stripet sjakal"
+      },
+      {
+        "lang": "pl",
+        "name": "Szakal pręgowany"
+      },
+      {
+        "lang": "pt",
+        "name": "Chacal-raiado"
+      },
+      {
+        "lang": "tr",
+        "name": "Çizgili çakal"
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอกข้างลาย"
+      },
+      {
+        "lang": "vi",
+        "name": "Chó rừng vằn hông"
+      }
+    ]
+  }
+]

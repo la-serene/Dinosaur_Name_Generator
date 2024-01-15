@@ -1,0 +1,194 @@
+[
+  {
+    "scientific_name": "Eupherusa ridgwayi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mexican Woodnymph"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí nimfa de Mèxic"
+      },
+      {
+        "lang": "cy",
+        "name": "Nymff goed Mecsico"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro Mexicano"
+      },
+      {
+        "lang": "fa",
+        "name": "چوب‌پری مکزیکی"
+      },
+      {
+        "lang": "fr",
+        "name": "Dryade du Mexique"
+      },
+      {
+        "lang": "hu",
+        "name": "Mexikói erdeinimfa"
+      },
+      {
+        "lang": "nl",
+        "name": "Mexicaanse bosnimf"
+      },
+      {
+        "lang": "sv",
+        "name": "jaliscokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupherusa poliocerca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Guerrero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupherusa nigriventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-bellied Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí ventrinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupherusa eximia",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolibřík páskoocasý"
+      },
+      {
+        "lang": "da",
+        "name": "Stribehalet Kolibri"
+      },
+      {
+        "lang": "de",
+        "name": "Streifenschwanzkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Stripe-tailed Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colirrayado"
+      },
+      {
+        "lang": "fi",
+        "name": "Sälepyrstökolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri à épaulettes"
+      },
+      {
+        "lang": "hu",
+        "name": "Sávosfarkú aztékkolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Colibrì codastriata"
+      },
+      {
+        "lang": "ja",
+        "name": "クロスジオジロハチドリ",
+        "synonyms": [
+          "kurosujiojirohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Streepstaartkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Stripehalekolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Diamencik pręgosterny"
+      },
+      {
+        "lang": "ru",
+        "name": "Полосатохвостая эуферуза"
+      },
+      {
+        "lang": "sk",
+        "name": "Kolibrík pásochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Strimstjärtad kolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "纹尾蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupherusa cyanophrys",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-capped Hummingbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri d'Oaxaca"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí d'Oaxaca"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn Oaxaca"
+      },
+      {
+        "lang": "de",
+        "name": "Blauscheitelkolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí oaxaqueño"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ مگس کلاه‌آبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Turkoosilakkikolibri"
+      },
+      {
+        "lang": "hu",
+        "name": "Kéksapkás kolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Oaxacakolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "oaxacakolibri"
+      }
+    ]
+  }
+]

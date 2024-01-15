@@ -1,0 +1,114 @@
+[
+  {
+    "scientific_name": "Thalurania watertonii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Woodnymph"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-das-costas-violetas"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí nimfa cuallarg"
+      },
+      {
+        "lang": "cy",
+        "name": "Nymff goed gynffonhir"
+      },
+      {
+        "lang": "de",
+        "name": "Langschwanznymphe"
+      },
+      {
+        "lang": "es",
+        "name": "zafiro colilargo"
+      },
+      {
+        "lang": "fa",
+        "name": "چوب‌پری دم‌دراز"
+      },
+      {
+        "lang": "fr",
+        "name": "Dryade de Waterton"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú erdeinimfa"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartbosnimf"
+      },
+      {
+        "lang": "sv",
+        "name": "långstjärtad skogsnymf"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalurania ridgwayi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Thalurania glaucopis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-capped Woodnymph"
+      },
+      {
+        "lang": "fr",
+        "name": "Dryade glaucope"
+      },
+      {
+        "lang": "pl",
+        "name": "Widłogonek fioletowoczelny"
+      },
+      {
+        "lang": "pt",
+        "name": "beija-flor-de-fronte-violeta"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro capirotado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalurania furcata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fork-tailed Woodnymph"
+      },
+      {
+        "lang": "pl",
+        "name": "Widłogonek zielonogardły"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-tesoura-verde"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro golondrina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalurania colombica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crowned Woodnymph"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro coronado"
+      }
+    ]
+  }
+]

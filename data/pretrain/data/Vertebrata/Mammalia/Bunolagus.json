@@ -1,0 +1,39 @@
+[
+  {
+    "scientific_name": "Bunolagus monticularis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Buschmannhase"
+      },
+      {
+        "lang": "en",
+        "name": "Riverine Rabbit"
+      },
+      {
+        "lang": "es",
+        "name": "Conejo rivereño"
+      },
+      {
+        "lang": "it",
+        "name": "Coniglio di fiume"
+      },
+      {
+        "lang": "ja",
+        "name": "ブッシュマンウサギ"
+      },
+      {
+        "lang": "pl",
+        "name": "Zajęczak buszmeński"
+      },
+      {
+        "lang": "ru",
+        "name": "Бушменовы зайцы"
+      },
+      {
+        "lang": "pt",
+        "name": "Coelho-bosquímano"
+      }
+    ]
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "scientific_name": "Aramides ypecaha",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Ypecaharalle"
+      },
+      {
+        "lang": "en",
+        "name": "Giant Wood-rail"
+      },
+      {
+        "lang": "pl",
+        "name": "Chruściel wielki"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracuruçu"
+      },
+      {
+        "lang": "es",
+        "name": "Cotara ipacaá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides wolfi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown Wood-rail"
+      },
+      {
+        "lang": "br",
+        "name": "Rakig Wolf"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de Wolf"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen goed frown"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Wolf"
+      },
+      {
+        "lang": "ja",
+        "name": "チャイロモリクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine bosral"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-marrom"
+      },
+      {
+        "lang": "sv",
+        "name": "brunrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides saracura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty-breasted Wood-rail"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-do-brejo"
+      },
+      {
+        "lang": "es",
+        "name": "Cotara saracura"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Saracura-três-potes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides mangle",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Rakig ar mangrovennoù"
+      },
+      {
+        "lang": "en",
+        "name": "Little Wood-rail"
+      },
+      {
+        "lang": "es",
+        "name": "Cotara de pecho rojo"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle des palétuviers"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo boschereccio minore"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメモリクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine bosral"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre skogsrall"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-do-mangue"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides calopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-winged Wood-rail"
+      },
+      {
+        "lang": "es",
+        "name": "Cotara alirrufa"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-de-asa-vermelha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides cajaneus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chřástal guyanský"
+      },
+      {
+        "lang": "da",
+        "name": "Gråhalset Rikse"
+      },
+      {
+        "lang": "de",
+        "name": "Cayenneralle"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-necked Wood Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Cotara chiricote"
+      },
+      {
+        "lang": "et",
+        "name": "Hallkael-võsaruik"
+      },
+      {
+        "lang": "fi",
+        "name": "Mölymangrovekana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Cayenne"
+      },
+      {
+        "lang": "gn",
+        "name": "Syryko"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkenyakú erdeiguvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo della Cajenna"
+      },
+      {
+        "lang": "ja",
+        "name": "コンゴウクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Cayennebosral"
+      },
+      {
+        "lang": "no",
+        "name": "Gråhalsrikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Chruścielak szaroszyi"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-tres-potes"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Saracura-três-potes"
+      },
+      {
+        "lang": "ru",
+        "name": "Серошейный лесной пастушок"
+      },
+      {
+        "lang": "sk",
+        "name": "Chriašteľ sivokrký"
+      },
+      {
+        "lang": "sv",
+        "name": "Cayennerall"
+      },
+      {
+        "lang": "zh",
+        "name": "灰颈林秧鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides axillaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-necked Wood-rail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides albiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-naped Wood Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Chilacoa colinegra"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo ventrebianco"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikbosral"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ lókʼaatah noołnahii bitsiitʼáád halchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Centralamerikansk rall"
+      }
+    ]
+  }
+]

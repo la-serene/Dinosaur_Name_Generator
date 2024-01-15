@@ -1,0 +1,28 @@
+[
+  {
+    "scientific_name": "Urochroa leucura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí nagüiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Urochroa bougueri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-gaped hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí gorgirrufo"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Agelaioides fringillarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale cowbird"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Asa-de-telha-pálido"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Agelaioides badius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bay-winged Cowbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Asa-de-telha"
+      },
+      {
+        "lang": "es",
+        "name": "Tordo músico"
+      }
+    ]
+  }
+]

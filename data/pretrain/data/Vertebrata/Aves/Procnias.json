@@ -1,0 +1,165 @@
+[
+  {
+    "scientific_name": "Procnias tricarunculatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Three-wattled bellbird"
+      },
+      {
+        "lang": "es",
+        "name": "Campanero tricarunculado"
+      },
+      {
+        "lang": "cs",
+        "name": "Zvonovec trojhrotý"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn cloch tair tagell"
+      },
+      {
+        "lang": "eu",
+        "name": "Araponga"
+      },
+      {
+        "lang": "fi",
+        "name": "Seppäkotinga"
+      },
+      {
+        "lang": "fr",
+        "name": "Araponga tricaronculé"
+      },
+      {
+        "lang": "hu",
+        "name": "Lebernyeges harangozómadár"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒゲドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Drielelklokvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Treflikklokkefugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzwonnik trójsoplowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Трёхусый звонарь"
+      },
+      {
+        "lang": "sv",
+        "name": "treflikig klockfågel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procnias nudicollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bare-throated Bellbird"
+      },
+      {
+        "lang": "es",
+        "name": "Pájaro campana"
+      },
+      {
+        "lang": "pt",
+        "name": "Araponga",
+        "synonyms": [
+          "Ferreiro"
+        ]
+      },
+      {
+        "lang": "bg",
+        "name": "Гологуша котинга"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn cloch gyddf-foel"
+      },
+      {
+        "lang": "de",
+        "name": "Nacktkehl-Glockenvogel"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänseppäkotinga"
+      },
+      {
+        "lang": "gn",
+        "name": "Guyra campana"
+      },
+      {
+        "lang": "hu",
+        "name": "Kopasznyakú harangozómadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Naaktkeelklokvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Nakenstrupeklokkefugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzwonnik nagoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Гологорлый звонарь"
+      },
+      {
+        "lang": "sv",
+        "name": "nakenstrupig klockkotinga"
+      },
+      {
+        "lang": "zh",
+        "name": "裸喉鐘雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procnias averano",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bearded Bellbird"
+      },
+      {
+        "lang": "es",
+        "name": "Campanero barbudo"
+      },
+      {
+        "lang": "pt",
+        "name": "Araponga-do-nordeste"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procnias albus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White Bellbird"
+      },
+      {
+        "lang": "es",
+        "name": "Campanero blanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Araponga-da-amazônia"
+      }
+    ]
+  }
+]

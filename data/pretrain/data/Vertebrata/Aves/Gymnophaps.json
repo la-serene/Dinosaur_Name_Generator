@@ -1,0 +1,82 @@
+[
+  {
+    "scientific_name": "Gymnophaps stalkeri",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Cerambergduif"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom muntanyenc de Seram"
+      },
+      {
+        "lang": "en",
+        "name": "Seram mountain pigeon"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage de Stalker"
+      },
+      {
+        "lang": "mrj",
+        "name": "Серам кырык кӓдӹ"
+      },
+      {
+        "lang": "sv",
+        "name": "serambergduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gymnophaps solomonensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Blasse Bergtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Pale Mountain-Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Pala montokolombo"
+      },
+      {
+        "lang": "nl",
+        "name": "Salomonsbergduif"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gymnophaps mada",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Mountain-Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Longvosta montokolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma montana moluqueña"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gymnophaps albertisii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Papuan Mountain Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Papua montokolombo"
+      }
+    ]
+  }
+]

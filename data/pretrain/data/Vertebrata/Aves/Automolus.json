@@ -1,0 +1,118 @@
+[
+  {
+    "scientific_name": "Automolus rufipileatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-crowned Foliage-gleaner"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus rufipectus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Automolus rubiginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ruddy Foliage-gleaner"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico castaño"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-ferrugem"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus roraimae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Foliage-gleaner"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus paraensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Automolus ochrolaemus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-throated Foliage-gleaner"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus melanopezus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-rumped foliage-gleaner"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico pardo"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-escuro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus leucophthalmus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-eyed Foliage-gleaner"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-de-olho-branco"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico ojiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus lammi",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-do-nordeste"
+      },
+      {
+        "lang": "es",
+        "name": "Pernambuco foliage-gleaner"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus infuscatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive-backed Foliage-gleaner"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-pardo"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico oliváceo"
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "scientific_name": "Discosura popelairii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wire-crested Thorntail"
+      },
+      {
+        "lang": "fr",
+        "name": "Coquette de Popelaire"
+      },
+      {
+        "lang": "sv",
+        "name": "Popelaires taggnäbb"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito crestado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Discosura longicaudus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Racket-tailed Coquette"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito de raquetas"
+      },
+      {
+        "lang": "pt",
+        "name": "bandeirinha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Discosura letitiae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kupferfadenelfe"
+      },
+      {
+        "lang": "en",
+        "name": "Coppery Thorntail"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito cobrizo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Discosura langsdorffi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-bellied Thorntail"
+      },
+      {
+        "lang": "fr",
+        "name": "Coquette de Langsdorff"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-de-espinho"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito Ventrinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Discosura conversii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green Thorntail"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito Verde"
+      }
+    ]
+  }
+]

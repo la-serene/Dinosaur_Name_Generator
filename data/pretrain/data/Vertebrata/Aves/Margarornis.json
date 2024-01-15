@@ -1,0 +1,54 @@
+[
+  {
+    "scientific_name": "Margarornis stellatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fulvous-dotted treerunner"
+      },
+      {
+        "lang": "es",
+        "name": "Subepalo estrellado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Margarornis squamiger",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Helmiorneero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Margarornis rubiginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ruddy Treerunner"
+      },
+      {
+        "lang": "es",
+        "name": "Subepalo rojizo"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaorneero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Margarornis bellulus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Beautiful Treerunner"
+      },
+      {
+        "lang": "es",
+        "name": "Subepalo bonito"
+      }
+    ]
+  }
+]

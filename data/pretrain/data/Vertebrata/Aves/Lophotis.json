@@ -1,0 +1,165 @@
+[
+  {
+    "scientific_name": "Lophotis savilei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Savile's Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón moñudo saheliano"
+      },
+      {
+        "lang": "br",
+        "name": "Otiz Savile"
+      },
+      {
+        "lang": "ca",
+        "name": "Sisó del Sahel"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog gwaun Savile"
+      },
+      {
+        "lang": "de",
+        "name": "Saviletrappe"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره ساویل"
+      },
+      {
+        "lang": "fi",
+        "name": "Nuolitrappi"
+      },
+      {
+        "lang": "fr",
+        "name": "Outarde de Savile"
+      },
+      {
+        "lang": "he",
+        "name": "חובת סביל"
+      },
+      {
+        "lang": "nl",
+        "name": "Sahelkuiftrap"
+      },
+      {
+        "lang": "sv",
+        "name": "saheltrapp"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lophotis ruficrista",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rotschopftrappe"
+      },
+      {
+        "lang": "en",
+        "name": "Red-crested Korhaan"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón moñudo austral"
+      },
+      {
+        "lang": "fr",
+        "name": "Outarde houppette"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetarda-de-poupa"
+      },
+      {
+        "lang": "af",
+        "name": "Boskorhaan"
+      },
+      {
+        "lang": "ca",
+        "name": "Sisó crestat"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog gwaun cribgoch"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره کاکل‌قرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Punatöyhtötrappi"
+      },
+      {
+        "lang": "he",
+        "name": "חובה אדומת ציצית"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuid-Afrikaanse kuiftrap"
+      },
+      {
+        "lang": "nv",
+        "name": "Hodíłchʼiltah tééh dééł"
+      },
+      {
+        "lang": "sv",
+        "name": "sydlig tofstrapp"
+      },
+      {
+        "lang": "vi",
+        "name": "Ô tác mào đỏ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lophotis gindiana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-crested Bustard"
+      },
+      {
+        "lang": "es",
+        "name": "Sisón moñudo etíope"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog gwaun cribfrown"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره کاکل‌نخودی"
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopiantrappi"
+      },
+      {
+        "lang": "fr",
+        "name": "Outarde d'Oustalet"
+      },
+      {
+        "lang": "he",
+        "name": "חובה צהובת ציצה"
+      },
+      {
+        "lang": "nl",
+        "name": "Ethiopische kuiftrap"
+      },
+      {
+        "lang": "nv",
+        "name": "Tééh dééł łibáhígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Östafrikansk tofstrapp"
+      }
+    ]
+  }
+]

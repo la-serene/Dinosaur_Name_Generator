@@ -1,0 +1,518 @@
+[
+  {
+    "scientific_name": "Elanus scriptus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Luněc černoramenný"
+      },
+      {
+        "lang": "da",
+        "name": "Sortbåndet Glente"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzachselaar"
+      },
+      {
+        "lang": "en",
+        "name": "Letter-winged Kite"
+      },
+      {
+        "lang": "es",
+        "name": "Elanio escrito"
+      },
+      {
+        "lang": "et",
+        "name": "Öö-hõbehaugas"
+      },
+      {
+        "lang": "fi",
+        "name": "Yöliitohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Élanion écrit"
+      },
+      {
+        "lang": "hu",
+        "name": "Éjjeli kuhi"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio bianco alisegnate"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロトビ [kuroobitobi]",
+        "synonyms": [
+          "クロオビトビ [ogurotobi]"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Letterwouw"
+      },
+      {
+        "lang": "no",
+        "name": "Skriftglente"
+      },
+      {
+        "lang": "pl",
+        "name": "kaniuk stepowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Peneireiro-de-asas-cinzentas"
+      },
+      {
+        "lang": "ru",
+        "name": "Буквокрылый дымчатый коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "Luniak popolavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Nattglada"
+      },
+      {
+        "lang": "zh",
+        "name": "纹翅鸢"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Elanus leucurus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "luněc americký"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidhalet Glente"
+      },
+      {
+        "lang": "de",
+        "name": "Weißschwanzaar"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Kite"
+      },
+      {
+        "lang": "es",
+        "name": "Elanio blanco",
+        "synonyms": [
+          "Elanio Maromero"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "ameerika hõbehaugas"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanliitohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Élanion à queue blanche"
+      },
+      {
+        "lang": "gn",
+        "name": "Taguato morotî"
+      },
+      {
+        "lang": "hu",
+        "name": "amerikai kuhi"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio codabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロトビ",
+        "synonyms": [
+          "ojirotobi"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaartbastaardwouw",
+        "synonyms": [
+          "Amerikaanse Grijze Wouw"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Hvithaleglente"
+      },
+      {
+        "lang": "pl",
+        "name": "kaniuk amerykański"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Gavião-peneira"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaviao-peneira"
+      },
+      {
+        "lang": "ru",
+        "name": "Белохвостый дымчатый коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "luniak bielochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstjärtad glada"
+      },
+      {
+        "lang": "zh",
+        "name": "白尾鸢"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Elanus caeruleus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Blouvalk"
+      },
+      {
+        "lang": "ar",
+        "name": "حدأة سوداء الجناح"
+      },
+      {
+        "lang": "arz",
+        "name": "حداه سوداء الجناح"
+      },
+      {
+        "lang": "az",
+        "name": "Bozumtul çalağan"
+      },
+      {
+        "lang": "bg",
+        "name": "Пепелява каня"
+      },
+      {
+        "lang": "bn",
+        "name": "কালো ডানা চিল"
+      },
+      {
+        "lang": "br",
+        "name": "Elan glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver d'espatlles negres"
+      },
+      {
+        "lang": "cs",
+        "name": "Luněc šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud ysgwydd-ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Blå Glente"
+      },
+      {
+        "lang": "de",
+        "name": "Gleitaar"
+      },
+      {
+        "lang": "el",
+        "name": "Έλανος"
+      },
+      {
+        "lang": "en",
+        "name": "Black-winged Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigraflugila milvo"
+      },
+      {
+        "lang": "es",
+        "name": "Elanio común"
+      },
+      {
+        "lang": "et",
+        "name": "Hõbehaugas"
+      },
+      {
+        "lang": "eu",
+        "name": "Elano urdin"
+      },
+      {
+        "lang": "fa",
+        "name": "کورکور بال‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Liitohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Élanion blac"
+      },
+      {
+        "lang": "gl",
+        "name": "Peneireiro cincento"
+      },
+      {
+        "lang": "gu",
+        "name": "કપાસી"
+      },
+      {
+        "lang": "he",
+        "name": "דאה שחורת כתף"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketeszárnyú kuhi"
+      },
+      {
+        "lang": "id",
+        "name": "Elang tikus"
+      },
+      {
+        "lang": "is",
+        "name": "Völsungur"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio bianco"
+      },
+      {
+        "lang": "ja",
+        "name": "カタグロトビ"
+      },
+      {
+        "lang": "jv",
+        "name": "Elang tikus"
+      },
+      {
+        "lang": "kwn",
+        "name": "Tuyu"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastasis palšasis peslys"
+      },
+      {
+        "lang": "ml",
+        "name": "വെള്ളി എറിയന്‍"
+      },
+      {
+        "lang": "mr",
+        "name": "कापशी घार"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Tikus"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze Wouw"
+      },
+      {
+        "lang": "no",
+        "name": "Svartvingeglente"
+      },
+      {
+        "lang": "or",
+        "name": "କପାସୀ ଚିଲ"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaniuk zwyczajny"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹی ال"
+      },
+      {
+        "lang": "pt",
+        "name": "Peneireiro-cinzento"
+      },
+      {
+        "lang": "ru",
+        "name": "Дымчатый коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "Luniak sivý"
+      },
+      {
+        "lang": "sl",
+        "name": "Sinji lebduh"
+      },
+      {
+        "lang": "sn",
+        "name": "Rukodzi"
+      },
+      {
+        "lang": "sr",
+        "name": "Siva lunja"
+      },
+      {
+        "lang": "ss",
+        "name": "Lohheyane"
+      },
+      {
+        "lang": "st",
+        "name": "Phakoana-mafieloana"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartvingad glada"
+      },
+      {
+        "lang": "sw",
+        "name": "Mwewe-kipupwe"
+      },
+      {
+        "lang": "ta",
+        "name": "Siria Karum Parundhu"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวขาว"
+      },
+      {
+        "lang": "tn",
+        "name": "Phakalane"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak çaylak"
+      },
+      {
+        "lang": "ts",
+        "name": "Nwarikapanyana"
+      },
+      {
+        "lang": "uk",
+        "name": "Шуліка чорноплечий"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều trắng"
+      },
+      {
+        "lang": "xh",
+        "name": "Umdlampuku"
+      },
+      {
+        "lang": "zh",
+        "name": "黑翅鸢"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Elanus axillaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Luněc australský"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Blå Glente"
+      },
+      {
+        "lang": "de",
+        "name": "Australischer Gleitaar"
+      },
+      {
+        "lang": "en",
+        "name": "Black-shouldered Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigraŝultra milvo"
+      },
+      {
+        "lang": "es",
+        "name": "Elanio australiano"
+      },
+      {
+        "lang": "et",
+        "name": "austraalia hõbehaugas"
+      },
+      {
+        "lang": "fi",
+        "name": "australianliitohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Élanion d'Australie"
+      },
+      {
+        "lang": "he",
+        "name": "דיה שחורת־כתף"
+      },
+      {
+        "lang": "hu",
+        "name": "ausztrál kuhi"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio bianco australiano"
+      },
+      {
+        "lang": "ja",
+        "name": "オアストラリアカタグロトビ"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische Grijze Wouw"
+      },
+      {
+        "lang": "no",
+        "name": "Australglente"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaniuk australijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Peneireiro-de-ombros-pretos"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноплечий дымчатый коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "Luniak striebristý"
+      },
+      {
+        "lang": "sv",
+        "name": "svartskuldrad glada"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak çaylak"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲鸢"
+      }
+    ]
+  }
+]

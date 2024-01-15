@@ -1,0 +1,135 @@
+[
+  {
+    "scientific_name": "Iridosornis rufivertex",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-crowned Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara coronidorada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Iridosornis reinhardti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-scarfed tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Reinhardt"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara de Reinhardt"
+      },
+      {
+        "lang": "sv",
+        "name": "Guldbandad tangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Iridosornis porphyrocephalus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tàngara blava emmascarada"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr mantell las"
+      },
+      {
+        "lang": "cz",
+        "name": "Tangara porfyrová"
+      },
+      {
+        "lang": "da",
+        "name": "Purpurrygget Tangar"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurmanteltangare"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara capiazul"
+      },
+      {
+        "lang": "en",
+        "name": "Purplish-mantled Tanager"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultakorutangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à cape bleue"
+      },
+      {
+        "lang": "it",
+        "name": "Tanagra mantoviola"
+      },
+      {
+        "lang": "ja",
+        "name": "ニジフウキンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Purpermanteltangare"
+      },
+      {
+        "lang": "nn",
+        "name": "Purpurtanagar"
+      },
+      {
+        "lang": "no",
+        "name": "Purpurtanagar"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурная иридосорния"
+      },
+      {
+        "lang": "pl",
+        "name": "Modraszek złotogardły"
+      },
+      {
+        "lang": "sv",
+        "name": "Purpurryggig tangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Iridosornis jelskii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-collared Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Jelski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Iridosornis analis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara goliamarilla"
+      }
+    ]
+  }
+]

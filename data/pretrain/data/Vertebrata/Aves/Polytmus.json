@@ -1,0 +1,41 @@
+[
+  {
+    "scientific_name": "Polytmus theresiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-tailed Goldenthroat"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-verde"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polytmus milleri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tepui Goldenthroat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Polytmus guainumbi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Goldenthroat"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí guainumbi"
+      },
+      {
+        "lang": "pt",
+        "name": "beija-flor-de-bico-curvo"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "scientific_name": "Chaetocercus mulsant",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Woodstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Mulsant"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetocercus jourdanii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-shafted Woodstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Jourdan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetocercus heliodor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gorgeted Woodstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Heliodoro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetocercus bombus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Hummelelfe"
+      },
+      {
+        "lang": "en",
+        "name": "Little Woodstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí abejorro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetocercus berlepschi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Esmeraldas Woodstar"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri de Berlepsch"
+      },
+      {
+        "lang": "cy",
+        "name": "Seren goed Esmeralda"
+      },
+      {
+        "lang": "de",
+        "name": "Esmeraldaselfe"
+      },
+      {
+        "lang": "es",
+        "name": "colibrí de esmeraldas"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuparitöpökolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Esmeraldas boself"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsinyiʼ dahiitį́hii bizééʼ łizhinígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Берлепшева лесная звезда"
+      },
+      {
+        "lang": "sv",
+        "name": "esmeraldasskogsjuvel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetocercus astreans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Santa Marta Woodstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí astral"
+      }
+    ]
+  }
+]

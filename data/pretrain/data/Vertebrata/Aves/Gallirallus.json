@@ -1,0 +1,144 @@
+[
+  {
+    "scientific_name": "Gallirallus calayanensis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Calayan-rikse"
+      },
+      {
+        "lang": "de",
+        "name": "Calayan-Ralle"
+      },
+      {
+        "lang": "en",
+        "name": "Calayan Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Racón de Calayán"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Calayan"
+      },
+      {
+        "lang": "hu",
+        "name": "Calayai guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Calayan"
+      },
+      {
+        "lang": "nl",
+        "name": "Calayanral"
+      },
+      {
+        "lang": "pl",
+        "name": "Chruściel kalajański"
+      },
+      {
+        "lang": "fi",
+        "name": "Calayaninluhtakana"
+      },
+      {
+        "lang": "sv",
+        "name": "calayanrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus australis",
+    "common_names": [
+      {
+        "lang": "ang",
+        "name": "Wuduhen"
+      },
+      {
+        "lang": "bg",
+        "name": "Уека"
+      },
+      {
+        "lang": "br",
+        "name": "Weka"
+      },
+      {
+        "lang": "ca",
+        "name": "Weka"
+      },
+      {
+        "lang": "de",
+        "name": "Wekaralle"
+      },
+      {
+        "lang": "en",
+        "name": "Weka"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón weka"
+      },
+      {
+        "lang": "et",
+        "name": "Veeka"
+      },
+      {
+        "lang": "fa",
+        "name": "وکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Vekaluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle wéka"
+      },
+      {
+        "lang": "he",
+        "name": "וקה"
+      },
+      {
+        "lang": "hu",
+        "name": "Weka"
+      },
+      {
+        "lang": "it",
+        "name": "Weka"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドクイナ"
+      },
+      {
+        "lang": "ko",
+        "name": "웨카"
+      },
+      {
+        "lang": "mi",
+        "name": "Weka"
+      },
+      {
+        "lang": "nl",
+        "name": "Weka"
+      },
+      {
+        "lang": "nn",
+        "name": "Wekarikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Weka"
+      },
+      {
+        "lang": "ru",
+        "name": "Пастушок-уэка"
+      },
+      {
+        "lang": "sv",
+        "name": "Wekarall"
+      }
+    ]
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "scientific_name": "Chlidonias niger surinamensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "American Black Tern"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlidonias niger",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartmeerswael"
+      },
+      {
+        "lang": "ar",
+        "name": "خطاف أسود"
+      },
+      {
+        "lang": "ast",
+        "name": "Garrochín Prietu"
+      },
+      {
+        "lang": "az",
+        "name": "Qara sterna"
+      },
+      {
+        "lang": "be",
+        "name": "Чорная рыбачка"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Stêrwennel zu"
+      },
+      {
+        "lang": "ca",
+        "name": "Fumarell negre"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák černý"
+      },
+      {
+        "lang": "cw",
+        "name": "Morwennol dhu"
+      },
+      {
+        "lang": "cy",
+        "name": "Corswennol ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortterne"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerseeschwalbe"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυρογλάρονο"
+      },
+      {
+        "lang": "en",
+        "name": "Black Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Fumarel común"
+      },
+      {
+        "lang": "et",
+        "name": "Mustviires"
+      },
+      {
+        "lang": "eu",
+        "name": "Itsas enara beltz"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustatiira"
+      },
+      {
+        "lang": "fo",
+        "name": "Svartterna"
+      },
+      {
+        "lang": "fr",
+        "name": "Guifette noire"
+      },
+      {
+        "lang": "frr",
+        "name": "Blä baker"
+      },
+      {
+        "lang": "fy",
+        "name": "Blaustirns"
+      },
+      {
+        "lang": "ga",
+        "name": "Geabhróg Dhubh"
+      },
+      {
+        "lang": "gl",
+        "name": "Carrán mouro"
+      },
+      {
+        "lang": "gv",
+        "name": "Gant doo"
+      },
+      {
+        "lang": "he",
+        "name": "מרומית שחורה"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna Čigra"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Kormos szerkő"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրածիծառ սև"
+      },
+      {
+        "lang": "is",
+        "name": "Kolþerna"
+      },
+      {
+        "lang": "it",
+        "name": "Mignattino"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシグロクロハラアジサシ"
+      },
+      {
+        "lang": "ka",
+        "name": "შანი თევზიყლაპია"
+      },
+      {
+        "lang": "kbd",
+        "name": "ПсытхьэрыкъуапцӀэ"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хара хайлах"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара қарқылдақ"
+      },
+      {
+        "lang": "ko",
+        "name": "검은제비갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodoji žuvėdra"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnais zīriņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Рибарска вртимушка"
+      },
+      {
+        "lang": "mn",
+        "name": "Хилэн хараалай"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċirlewwa Sewda"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte stern"
+      },
+      {
+        "lang": "no",
+        "name": "Svartterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa czarna"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی ٹرن"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-réis-negro"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivina-preta"
+      },
+      {
+        "lang": "rm",
+        "name": "Pestgarel nair"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрная болотная крачка"
+      },
+      {
+        "lang": "rue",
+        "name": "Чорна крачка"
+      },
+      {
+        "lang": "sc",
+        "name": "Caixedda"
+      },
+      {
+        "lang": "sk",
+        "name": "Čorík čierny"
+      },
+      {
+        "lang": "sl",
+        "name": "Crna čigra"
+      },
+      {
+        "lang": "sq",
+        "name": "Dallëndyshe deti zezë"
+      },
+      {
+        "lang": "sr",
+        "name": "Crna čigra - Црна чигра"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarttärna"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara sumru"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара суг хараачыгайы"
+      },
+      {
+        "lang": "uk",
+        "name": "Крячок чорний"
+      },
+      {
+        "lang": "zh",
+        "name": "黑浮鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlidonias leucopterus",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Крачка белакрылая"
+      },
+      {
+        "lang": "bg",
+        "name": "Белокрила рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Stêrwennel eskell gwenn"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák bělokřídlý"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvinget Terne"
+      },
+      {
+        "lang": "de",
+        "name": "Weißflügelseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankflugila ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Fumarel Aliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgetiib-viires"
+      },
+      {
+        "lang": "eu",
+        "name": "Itsas enara hegalzuri"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkosiipitiira"
+      },
+      {
+        "lang": "fo",
+        "name": "Vonghvít svartterna"
+      },
+      {
+        "lang": "fr",
+        "name": "Guifette leucoptère"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérszárnyú szerkő"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրածիծեռ սպիտակաթև"
+      },
+      {
+        "lang": "it",
+        "name": "Mignattino alibianche"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロクロハラアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰죽지제비갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasparnė žuvėdra"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Bahu Putih"
+      },
+      {
+        "lang": "nl",
+        "name": "Witvleugelstern"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitvingesvartterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa białoskrzydła"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹ پری ٹرن"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivina-de-asa-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Белокрылая болотная крачка"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybár bielokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad tärna"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kanatlı sumru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlidonias hybrida",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Белобуза рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Stêrwennel jodoù gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Fumarell carablanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák bahenní"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidskægget Terne"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbart-Seeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Whiskered Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Vilvanga ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Fumarel cariblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoposkitiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Guifette moustac"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivina de cara branca"
+      },
+      {
+        "lang": "hu",
+        "name": "Fattyúszerkő"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրածիծառ սպիտակաայտ"
+      },
+      {
+        "lang": "ja",
+        "name": "クロハラアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "구레나루제비갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltaskruostė žuvėdra"
+      },
+      {
+        "lang": "ml",
+        "name": "കരി ആള"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Bermisai"
+      },
+      {
+        "lang": "nl",
+        "name": "Witwangstern"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitkinnsvartterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa białowąsa"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivina-de-faces-brancas"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybár bahenný"
+      },
+      {
+        "lang": "sv",
+        "name": "Skäggtärna"
+      },
+      {
+        "lang": "ta",
+        "name": "மீசை ஆலா"
+      },
+      {
+        "lang": "tr",
+        "name": "Bıyıklı sumru"
+      },
+      {
+        "lang": "zh",
+        "name": "须浮鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlidonias albostriatus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Stêrwennel tal du"
+      },
+      {
+        "lang": "ca",
+        "name": "Fumarell de Nova Zelanda"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák novozélandský"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol fronddu"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzstirn-Seeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Black-fronted Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrafrunta ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán Fumarel"
+      },
+      {
+        "lang": "fr",
+        "name": "Guifette des galets"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی جلوسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenseelannintiira"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketefejű szerkő"
+      },
+      {
+        "lang": "mi",
+        "name": "Tara"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Zeelandse stern"
+      },
+      {
+        "lang": "nn",
+        "name": "Maoriterne"
+      },
+      {
+        "lang": "sv",
+        "name": "Maoritärna"
+      }
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "scientific_name": "Chlorostilbon swainsonii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon stenurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Narrow-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda colifina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon russatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coppery Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda bronceada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon ricordii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon poortmani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Short-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda colicorta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon olivaresi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chiribiquete Emerald"
+      },
+      {
+        "lang": "pl",
+        "name": "złocik zielony"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda del Chiribiquete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon mellisugus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda coliazul"
+      },
+      {
+        "lang": "fi",
+        "name": "Mesismaragdikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Émeraude orvert"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékfarkú smaragdkolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåstjärtad smaragd"
+      },
+      {
+        "lang": "pt",
+        "name": "esmeralda-de-cauda-azul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon melanorhynchus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "West Andean Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda occidental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon maugaeus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon lucidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Glittering-bellied Emerald"
+      },
+      {
+        "lang": "fr",
+        "name": "Émeraude splendide"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda Ventridorada"
+      },
+      {
+        "lang": "pt",
+        "name": "besourinho-de-bico-vermelho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon gibsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-billed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda piquirroja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon forficatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon elegans",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon canivetii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon bracei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon auriceps",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon assimilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Garden Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda afín"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorostilbon alice",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda coliverde"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Heliothryx barroti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-crowned Fairy"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí Hada Occidental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliothryx auritus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-eared Fairy"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí hada oriental"
+      },
+      {
+        "lang": "pl",
+        "name": "Skrzacik czarnouchy"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-bochecha-azul"
+      }
+    ]
+  }
+]

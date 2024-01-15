@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Stephanoxis loddigesii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-crested plovercrest"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-topete-azul"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí copetón sureño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stephanoxis lalandi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-crowned plovercrest"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-topete-verde"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí copetón norteño"
+      }
+    ]
+  }
+]

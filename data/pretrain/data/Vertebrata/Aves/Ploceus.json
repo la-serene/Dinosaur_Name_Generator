@@ -1,0 +1,1475 @@
+[
+  {
+    "scientific_name": "Ploceus xanthopterus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بني الحنجرة"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Brown-throated Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor gorjipardo sureño"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à gorge brune"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunstrupig vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus xanthops",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Holub's Golden-Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor azafranado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus weynsi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك وينز"
+      },
+      {
+        "lang": "en",
+        "name": "Weyns's Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Weyns"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Weyns"
+      },
+      {
+        "lang": "sv",
+        "name": "Weynsvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus vitellinus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Dotterweber"
+      },
+      {
+        "lang": "en",
+        "name": "Vitelline Masked-Weaver"
+      },
+      {
+        "lang": "nl",
+        "name": "Dottergele wever"
+      },
+      {
+        "lang": "no",
+        "name": "eggeplommevever"
+      },
+      {
+        "lang": "nn",
+        "name": "eggeplommevevar"
+      },
+      {
+        "lang": "sv",
+        "name": "Plommongul vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus victoriae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Victoria Masked-Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus velatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Snovač žlutý"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Masked Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus tricolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-mantled Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus temporalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bocage's Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus taeniopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Masked-Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor del Nilo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus subpersonatus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك لونغو"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Loango"
+      },
+      {
+        "lang": "en",
+        "name": "Loango weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای لوآنگو"
+      },
+      {
+        "lang": "fi",
+        "name": "Gaboninkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à bec grêle"
+      },
+      {
+        "lang": "nl",
+        "name": "Loangodunbekwever"
+      },
+      {
+        "lang": "sv",
+        "name": "loangovävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus subaureus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern golden weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor dorado africano"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบเหลือง"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus spekeoides",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك فوكس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd mygydog Fox"
+      },
+      {
+        "lang": "en",
+        "name": "Fox's weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Fox"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای فاکس"
+      },
+      {
+        "lang": "fi",
+        "name": "Ugandankutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Fox"
+      },
+      {
+        "lang": "mrj",
+        "name": "Фокс кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Fox' wever"
+      },
+      {
+        "lang": "sv",
+        "name": "ugandavävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus spekei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Speke's Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Speke"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus sanctithomae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus sakalava",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك ساكالافا"
+      },
+      {
+        "lang": "de",
+        "name": "Sakalavenweber"
+      },
+      {
+        "lang": "en",
+        "name": "Sakalava weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor sakalava"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinkeltakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin sakalave"
+      },
+      {
+        "lang": "it",
+        "name": "Tessitore di Sakalava"
+      },
+      {
+        "lang": "sv",
+        "name": "Sakalavavävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus ruweti",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Ruwet-Weber"
+      },
+      {
+        "lang": "en",
+        "name": "Lufira Masked Weaver",
+        "synonyms": [
+          "Ruwet's Masked-Weaver",
+          "Lake Lufira Weaver"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Ruwet"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Ruwet"
+      },
+      {
+        "lang": "nl",
+        "name": "Lufiramaskerwever"
+      },
+      {
+        "lang": "sv",
+        "name": "Lufiravävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus rubiginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus reichardi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tanganyika Masked-Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus princeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Principe Golden-Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Príncipe"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus preussi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بروس"
+      },
+      {
+        "lang": "en",
+        "name": "Preuss's weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Preuss"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Preuss"
+      },
+      {
+        "lang": "sv",
+        "name": "Preussvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus philippinus",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "বাবুই"
+      },
+      {
+        "lang": "en",
+        "name": "Baya weaver"
+      },
+      {
+        "lang": "fi",
+        "name": "Riisikutoja"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจาบ",
+        "synonyms": [
+          "นกจาบ",
+          "นกจาบธรรมดา",
+          "นกกระจาบธรรมดา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus pelzelni",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك رفيع المنقار"
+      },
+      {
+        "lang": "en",
+        "name": "Slender-billed Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Pelzeln"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaitanokkakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Pelzeln"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű szövőmadár"
+      },
+      {
+        "lang": "sv",
+        "name": "Smalnäbbad vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus olivaceiceps",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Oliiviselkäkutoja"
+      },
+      {
+        "lang": "af",
+        "name": "Olyfkopwewer"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك زيتوني الرأس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd penfelynwyrdd"
+      },
+      {
+        "lang": "en",
+        "name": "Olive-headed weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای سرزیتونی"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à tête olive"
+      },
+      {
+        "lang": "nl",
+        "name": "Olijfkopwever"
+      },
+      {
+        "lang": "sv",
+        "name": "olivhuvad vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus ocularis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus nigrimentus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus nigricollis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus nigriceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Layard's Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus nigerrimus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vieillot's Black Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus nicolli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Usambara Weaver"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك يوسمبارا"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Usambara"
+      },
+      {
+        "lang": "de",
+        "name": "Nicoll-Weber"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای اوسامبارا"
+      },
+      {
+        "lang": "fi",
+        "name": "Tansaniankutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin des Usambara"
+      },
+      {
+        "lang": "nl",
+        "name": "Usambarawever"
+      },
+      {
+        "lang": "sv",
+        "name": "usambaravävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus nelicourvi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Nelicourvi Weaver"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin nélicourvi"
+      },
+      {
+        "lang": "ru",
+        "name": "Зелёный мадагаскарский ткач"
+      },
+      {
+        "lang": "sv",
+        "name": "Grön vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus melanogaster",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus melanocephalus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Teixidor capnegre"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopfweber"
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor cabecinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à tête noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketefejű szövőmadár"
+      },
+      {
+        "lang": "pt",
+        "name": "Tecelão-de-cabeça-preta"
+      },
+      {
+        "lang": "simple",
+        "name": "Black-headed Weaver"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus megarhynchus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Finn's Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Finn"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Finn"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك فين"
+      },
+      {
+        "lang": "bh",
+        "name": "फिन्स वीवर"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd yr Himalaia"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای فین"
+      },
+      {
+        "lang": "fi",
+        "name": "Himalajankutoja"
+      },
+      {
+        "lang": "hi",
+        "name": "फ़िन की बया"
+      },
+      {
+        "lang": "mrj",
+        "name": "Финн кошыгек"
+      },
+      {
+        "lang": "ne",
+        "name": "सुनौलो तोपचरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Finns bayawever"
+      },
+      {
+        "lang": "sv",
+        "name": "teraivävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus manyar",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streaked Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor estriado"
+      },
+      {
+        "lang": "fi",
+        "name": "Viirukutoja"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจาบอกลาย",
+        "synonyms": [
+          "นกจาบอกลาย"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus luteolus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus katangae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Katanga Masked Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Katanga"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin du Katanga"
+      },
+      {
+        "lang": "sv",
+        "name": "Katangavävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus jacksoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-backed Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Jackson"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus intermedius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Masked Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor intermedio"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus insignis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus hypoxanthus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Asian Golden Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor dorado asiático"
+      },
+      {
+        "lang": "km",
+        "name": "ចាកពួកទ្រូងលឿង"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจาบทอง",
+        "synonyms": [
+          "นกจาบทอง"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "حباك ذهبي آسيوي"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd euraid Asia"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای طلایی آسیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasiankultakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin doré"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikbayawever"
+      },
+      {
+        "lang": "sv",
+        "name": "risvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus heuglini",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus grandis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor gigante"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus golandi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك كلارك"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Clarke"
+      },
+      {
+        "lang": "en",
+        "name": "Clarke's weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای کلارک"
+      },
+      {
+        "lang": "fi",
+        "name": "Sokokenkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Clarke"
+      },
+      {
+        "lang": "mrj",
+        "name": "Голанд кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Clarkes wever"
+      },
+      {
+        "lang": "sv",
+        "name": "sokokevävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus galbula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus dorsomaculatus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك أصفر القلنسوة"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-capped weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor dorsipinto"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à cape jaune"
+      },
+      {
+        "lang": "sv",
+        "name": "Guldkronad vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus dicrocephalus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك سالفادوري"
+      },
+      {
+        "lang": "en",
+        "name": "Juba weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Salvadori"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Salvadori"
+      },
+      {
+        "lang": "sv",
+        "name": "Jubavävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus cucullatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bontrugwewer"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك مقلنس"
+      },
+      {
+        "lang": "ca",
+        "name": "Teixidor social"
+      },
+      {
+        "lang": "cs",
+        "name": "Snovač zahradní"
+      },
+      {
+        "lang": "de",
+        "name": "Dorfweber"
+      },
+      {
+        "lang": "en",
+        "name": "Village Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor común"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای دهکده"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyläkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin gendarme"
+      },
+      {
+        "lang": "ha",
+        "name": "Kabarai"
+      },
+      {
+        "lang": "ht",
+        "name": "Madan sara"
+      },
+      {
+        "lang": "hu",
+        "name": "Málinkó-szövőmadár",
+        "synonyms": [
+          "sapkás szövőmadár",
+          "nagy álarcos szövőmadár"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Grote textorwever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz zmienny"
+      },
+      {
+        "lang": "pt",
+        "name": "Tecelão-malhado"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой масковый ткач"
+      },
+      {
+        "lang": "sv",
+        "name": "Byvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus castanops",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك القصب"
+      },
+      {
+        "lang": "en",
+        "name": "Northern brown-throated weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor gorjipardo norteño"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à gorge noire"
+      },
+      {
+        "lang": "sv",
+        "name": "Victoriavävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus castaneiceps",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Genickbandweber"
+      },
+      {
+        "lang": "en",
+        "name": "Taveta Golden Weaver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kaapse wewer"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك كيب"
+      },
+      {
+        "lang": "cs",
+        "name": "Snovač kaferský"
+      },
+      {
+        "lang": "de",
+        "name": "Kapweber"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de El Cabo"
+      },
+      {
+        "lang": "fi",
+        "name": "Kapinkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin du Cap"
+      },
+      {
+        "lang": "hu",
+        "name": "Fokföldi szövőmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse wever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz złotolicy"
+      },
+      {
+        "lang": "ru",
+        "name": "Капский ткач"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus burnieri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بيرنييه"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Kilombero"
+      },
+      {
+        "lang": "en",
+        "name": "Kilombero weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای کیلومبرو"
+      },
+      {
+        "lang": "fi",
+        "name": "Kilomberonkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Burnier"
+      },
+      {
+        "lang": "mrj",
+        "name": "Киломберо кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Kilomberowever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz rzeczny"
+      },
+      {
+        "lang": "sv",
+        "name": "kilomberovävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus bojeri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك النخيل الذهبي"
+      },
+      {
+        "lang": "en",
+        "name": "Golden palm weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor palmero"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin palmiste"
+      },
+      {
+        "lang": "sv",
+        "name": "Palmvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus bicolor",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus bertrandi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بيرترام"
+      },
+      {
+        "lang": "en",
+        "name": "Bertram's weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Malawi"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Bertram"
+      },
+      {
+        "lang": "sv",
+        "name": "Bertramvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus benghalensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك أسود الصدر"
+      },
+      {
+        "lang": "as",
+        "name": "টোকোৰা"
+      },
+      {
+        "lang": "bn",
+        "name": "কালোবুক বাবুই",
+        "synonyms": [
+          "বাংলা বাবুই"
+        ]
+      },
+      {
+        "lang": "bh",
+        "name": "सर्बो बया"
+      },
+      {
+        "lang": "en",
+        "name": "Black-throated Weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor bengalí"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin du Bengale"
+      },
+      {
+        "lang": "mrj",
+        "name": "Инди кошыгек"
+      },
+      {
+        "lang": "ne",
+        "name": "छातीकाले तोपचरा"
+      },
+      {
+        "lang": "sv",
+        "name": "Bengalvävare"
+      },
+      {
+        "lang": "zh",
+        "name": "黑喉织布鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus batesi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بيتس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Bates"
+      },
+      {
+        "lang": "de",
+        "name": "Braunwangenweber"
+      },
+      {
+        "lang": "en",
+        "name": "Bates's weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای بیتس"
+      },
+      {
+        "lang": "fi",
+        "name": "Kameruninmetsäkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Bates"
+      },
+      {
+        "lang": "hu",
+        "name": "Kameruni szövőmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinwangwever"
+      },
+      {
+        "lang": "sv",
+        "name": "batesvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus bannermani",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bannerman-Weber"
+      },
+      {
+        "lang": "en",
+        "name": "Bannerman's Weaver"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك بانرمان"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Bannerman"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای بنرمن"
+      },
+      {
+        "lang": "fi",
+        "name": "Kameruninvuorikutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Bannerman"
+      },
+      {
+        "lang": "hu",
+        "name": "Bannerman-szövőmadár"
+      },
+      {
+        "lang": "mrj",
+        "name": "Баннерман кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Bannermans wever"
+      },
+      {
+        "lang": "sv",
+        "name": "bannermanvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus baglafecht",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus badius",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك قرفي"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnamon weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor canela"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin cannelle"
+      },
+      {
+        "lang": "sv",
+        "name": "Kanelvävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus aureonucha",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tejedor nuquigualdo"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك ذهبي القفا"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd eurwar"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-naped weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای گردن‌طلایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultaniskakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à nuque d'or"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudnekwever"
+      },
+      {
+        "lang": "sv",
+        "name": "iturivävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus aurantius",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك برتقالي"
+      },
+      {
+        "lang": "en",
+        "name": "Orange weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor anaranjado"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin orangé"
+      },
+      {
+        "lang": "sv",
+        "name": "Orange vävare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ploceus angolensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus alienus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ploceus albinucha",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك ماكسويل الأسود"
+      },
+      {
+        "lang": "en",
+        "name": "Maxwell's black weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor de Maxwell"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Maxwell"
+      },
+      {
+        "lang": "sv",
+        "name": "Maxwellvävare"
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "scientific_name": "Calonectris leucomelas",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Tort roudennek"
+      },
+      {
+        "lang": "en",
+        "name": "Streaked Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Striita pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela canosa"
+      },
+      {
+        "lang": "ja",
+        "name": "オオミズナギドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "슴새"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkonaamaliitäjä"
+      },
+      {
+        "lang": "af",
+        "name": "Gestreepte pylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calonectris edwardsii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Tort ar C'hab Glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Cap Verd"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Verde Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaboverda pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de Cabo Verde"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin du Cap-Vert"
+      },
+      {
+        "lang": "hr",
+        "name": "Zelenortski zovoj"
+      },
+      {
+        "lang": "pt",
+        "name": "Cagarra de Cabo Verde"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapverdelira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calonectris diomedea",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Жълтоклюн буревестник"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga cendrosa mediterrània"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Scopoli"
+      },
+      {
+        "lang": "da",
+        "name": "Kuhls Skråpe"
+      },
+      {
+        "lang": "en",
+        "name": "Scopoli's Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbeka pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela cenicienta"
+      },
+      {
+        "lang": "fi",
+        "name": "Välimerenliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin cendré"
+      },
+      {
+        "lang": "hr",
+        "name": "Veliki zovoj"
+      },
+      {
+        "lang": "it",
+        "name": "Berta maggiore"
+      },
+      {
+        "lang": "nl",
+        "name": "Scopoli's pijlstormvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk żółtodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Cagarra-do-mediterrâneo"
+      },
+      {
+        "lang": "ru",
+        "name": "Атлантический пёстрый буревестник"
+      },
+      {
+        "lang": "sk",
+        "name": "Víchrovník žltozobý"
+      },
+      {
+        "lang": "sv",
+        "name": "Scopolilira"
+      },
+      {
+        "lang": "uk",
+        "name": "Строкатий атлантичний буревісник"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calonectris borealis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "جلم ماء كوري"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Cory"
+      },
+      {
+        "lang": "da",
+        "name": "Atlantisk Skråpe"
+      },
+      {
+        "lang": "en",
+        "name": "Cory's Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela atlántica"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی کوری"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin cendré"
+      },
+      {
+        "lang": "he",
+        "name": "יסעור קורי"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuhls pijlstormvogel"
+      },
+      {
+        "lang": "pt",
+        "name": "Cagarra-do-atlântico"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "scientific_name": "Tayassu pecari",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "クチジロペッカリー"
+      },
+      {
+        "lang": "en",
+        "name": "White-lipped Peccary"
+      },
+      {
+        "lang": "es",
+        "name": "Pecarí barbiblanco"
+      },
+      {
+        "lang": "gl",
+        "name": "Pecarí de barba branca"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérajkú pekari",
+        "synonyms": [
+          "pézsmapekari"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Queixada"
+      },
+      {
+        "lang": "ru",
+        "name": "Белогубые пекари"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak dudaklı pekari"
+      }
+    ]
+  }
+]

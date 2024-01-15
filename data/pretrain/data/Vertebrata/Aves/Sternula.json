@@ -1,0 +1,569 @@
+[
+  {
+    "scientific_name": "Sternula superciliaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák amazonský"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito Amazónico"
+      },
+      {
+        "lang": "pt",
+        "name": "Trinta-réis-anão"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula saundersi",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Saunderssterretjie"
+      },
+      {
+        "lang": "ar",
+        "name": "خرشنة سوندرزية"
+      },
+      {
+        "lang": "az",
+        "name": "Sandersov susüpürəni"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac menut de Saunders"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák arabský"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol Saunders"
+      },
+      {
+        "lang": "da",
+        "name": "Persisk Dværgterne"
+      },
+      {
+        "lang": "de",
+        "name": "Orientseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Saunders's Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Orienta ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito de Saunders"
+      },
+      {
+        "lang": "eu",
+        "name": "Saunders txenada"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی خلیج فارس"
+      },
+      {
+        "lang": "fi",
+        "name": "Arabianpikkutiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne de Saunders"
+      },
+      {
+        "lang": "it",
+        "name": "Fraticello di Saunders"
+      },
+      {
+        "lang": "ja",
+        "name": "アラビアコアジサシ"
+      },
+      {
+        "lang": "ml",
+        "name": "ആളചിന്നൻ"
+      },
+      {
+        "lang": "nl",
+        "name": "Saunders' Dwergstern"
+      },
+      {
+        "lang": "no",
+        "name": "Araberdvergterne"
+      },
+      {
+        "lang": "ru",
+        "name": "Мекранская крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Saunders småtärna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula nereis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák australský"
+      },
+      {
+        "lang": "en",
+        "name": "Fairy Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito Australiano"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne néréis"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメアジサシ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula lorata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák chilský"
+      },
+      {
+        "lang": "de",
+        "name": "Peruseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Peruvian Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Perua ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito Peruano"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne du Pérou"
+      },
+      {
+        "lang": "pt",
+        "name": "Ternula lorata"
+      },
+      {
+        "lang": "az",
+        "name": "Peru susüpürəni"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac menut de Humbolt"
+      },
+      {
+        "lang": "ceb",
+        "name": "Sterna lorata"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol Periw"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی پرو"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenpikkutiira"
+      },
+      {
+        "lang": "nl",
+        "name": "Humboldtstern"
+      },
+      {
+        "lang": "nv",
+        "name": "Dibénééz Bikéyahdę́ę́ʼ tónteel táshchozhii"
+      },
+      {
+        "lang": "sv",
+        "name": "perutärna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula balaenarum",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Damarasterretjie"
+      },
+      {
+        "lang": "az",
+        "name": "Balina susüpürəni"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac de Damara"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák damarský"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol Damara"
+      },
+      {
+        "lang": "da",
+        "name": "Damaraterne"
+      },
+      {
+        "lang": "de",
+        "name": "Damaraseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Damara Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito de Damara"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی نهنگ‌نشین"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanpikkutiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne des baleiniers"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna del Damara"
+      },
+      {
+        "lang": "nl",
+        "name": "Damarastern"
+      },
+      {
+        "lang": "ru",
+        "name": "Китовая крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Damaratärna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula antillarum",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الخرشنة الغبراء الصغيرة"
+      },
+      {
+        "lang": "bg",
+        "name": "Белочела рибарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac menut americà"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák nejmenší"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Dværgterne"
+      },
+      {
+        "lang": "de",
+        "name": "Antillenseeschwalbe"
+      },
+      {
+        "lang": "el",
+        "name": "Νανογλάρονο"
+      },
+      {
+        "lang": "en",
+        "name": "Least Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Nana ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrancito americano"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika väiketiir"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanpikkutiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Petite Sterne"
+      },
+      {
+        "lang": "gcf",
+        "name": "Petite mauve"
+      },
+      {
+        "lang": "hr",
+        "name": "Mala Cigra"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Mòv piti"
+      },
+      {
+        "lang": "hu",
+        "name": "Antillai csér"
+      },
+      {
+        "lang": "is",
+        "name": "Rindilþerna"
+      },
+      {
+        "lang": "it",
+        "name": "Fraticello americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカコアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠제비갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Antilinė žuvėdra"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Dwergstern"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikadvergterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa mała"
+      },
+      {
+        "lang": "pt",
+        "name": "Trinta-réis-miudo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-réis-miúdo"
+      },
+      {
+        "lang": "ru",
+        "name": "Карликовая крачка"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybár krpatý"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala cigra"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala čigra"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk småtärna"
+      },
+      {
+        "lang": "tr",
+        "name": "Antil Sumrusu"
+      },
+      {
+        "lang": "zh",
+        "name": "小白额燕鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sternula albifrons",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Kiçik susüpürən"
+      },
+      {
+        "lang": "be",
+        "name": "Крачка малая"
+      },
+      {
+        "lang": "bg",
+        "name": "Белочела рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skravig c'hwiton"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac menut"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák malý"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Little Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Carrancito Común"
+      },
+      {
+        "lang": "et",
+        "name": "Väiketiir"
+      },
+      {
+        "lang": "eu",
+        "name": "Txenada txiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutiira"
+      },
+      {
+        "lang": "fo",
+        "name": "Fruntaterna"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne naine"
+      },
+      {
+        "lang": "frr",
+        "name": "Stäärnk"
+      },
+      {
+        "lang": "hr",
+        "name": "Mala čigra"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis csér"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրածիծառ փոքր"
+      },
+      {
+        "lang": "it",
+        "name": "Fraticello"
+      },
+      {
+        "lang": "ja",
+        "name": "コアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠제비갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažoji žuvėdra"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Kecil"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergstern"
+      },
+      {
+        "lang": "no",
+        "name": "Dvergterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa białoczelna"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکا ٹرن"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-do-mar-anã"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая крачка"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybár malý"
+      },
+      {
+        "lang": "sv",
+        "name": "Småtärna"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลแกลบเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük sumru"
+      },
+      {
+        "lang": "uk",
+        "name": "Крячок малий"
+      },
+      {
+        "lang": "zh",
+        "name": "白额燕鸥"
+      }
+    ]
+  }
+]

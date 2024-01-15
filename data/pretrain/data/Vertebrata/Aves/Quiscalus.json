@@ -1,0 +1,553 @@
+[
+  {
+    "scientific_name": "Quiscalus quiscula",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "سوادية مألوفة"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновен трупиал"
+      },
+      {
+        "lang": "ca",
+        "name": "Quíscal comú"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlhovec nachový"
+      },
+      {
+        "lang": "cy",
+        "name": "Gregl gyffredin"
+      },
+      {
+        "lang": "da",
+        "name": "Sortgrackel"
+      },
+      {
+        "lang": "de",
+        "name": "Purpur-Grackel"
+      },
+      {
+        "lang": "en",
+        "name": "Common Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Komuna kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate común"
+      },
+      {
+        "lang": "fa",
+        "name": "زاغ آمریکایی معمولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Purppuraturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale bronzé"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi csónakfarkú"
+      },
+      {
+        "lang": "is",
+        "name": "Blásóti"
+      },
+      {
+        "lang": "it",
+        "name": "Gracchio comune americano"
+      },
+      {
+        "lang": "ja",
+        "name": "オオクロムクドリモドキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Glanstroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Glanstrupial"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼagiitseenézí dootłʼizhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilgowron mniejszy"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-de-quilha"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный гракл"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlhovec lesklý"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre båtstjärt"
+      },
+      {
+        "lang": "uk",
+        "name": "Ґракл звичайний"
+      },
+      {
+        "lang": "zh",
+        "name": "普通擬八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus palustris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlhovec tenkozobý"
+      },
+      {
+        "lang": "da",
+        "name": "Sumpgrackel"
+      },
+      {
+        "lang": "de",
+        "name": "Schlankschnabelgrackel"
+      },
+      {
+        "lang": "en",
+        "name": "Slender-billed Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Fajnbeka kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate extinto"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaitanokkaturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale de Mexico"
+      },
+      {
+        "lang": "hu",
+        "name": "Mocsári csónakfarkú"
+      },
+      {
+        "lang": "it",
+        "name": "Gracula beccosottile"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunbektroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Smalnebbtrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilgowron cienkodzioby"
+      },
+      {
+        "lang": "sv",
+        "name": "Smalnäbbad båtstjärt"
+      },
+      {
+        "lang": "zh",
+        "name": "墨西哥擬八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus niger",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Quíscal de les Antilles"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlhovec antilský"
+      },
+      {
+        "lang": "cy",
+        "name": "Gregl y Gorllewin"
+      },
+      {
+        "lang": "da",
+        "name": "Antillergrackel"
+      },
+      {
+        "lang": "de",
+        "name": "Antillengrackel"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Antillean Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Grandantila kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate antillano"
+      },
+      {
+        "lang": "fi",
+        "name": "Antillienmölyturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale noir"
+      },
+      {
+        "lang": "ht",
+        "name": "Mèl diab"
+      },
+      {
+        "lang": "hu",
+        "name": "Antillai csónakfarkú"
+      },
+      {
+        "lang": "it",
+        "name": "Gracchio delle Antille"
+      },
+      {
+        "lang": "ja",
+        "name": "アンチルクロムクドリモドキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Antilliaanse Troepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Antilltrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilgowron czarny"
+      },
+      {
+        "lang": "ru",
+        "name": "Антильский гракл"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlhovec čierny"
+      },
+      {
+        "lang": "sv",
+        "name": "Antillerbåtstjärt"
+      },
+      {
+        "lang": "zh",
+        "name": "黑拟八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus nicaraguensis",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Gregl Nicaragwa"
+      },
+      {
+        "lang": "en",
+        "name": "Nicaraguan Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Nikaragva kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate nicaragüense"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale du Nicaragua"
+      },
+      {
+        "lang": "hu",
+        "name": "Nicaraguai csónakfarkú"
+      },
+      {
+        "lang": "nl",
+        "name": "Nicaraguaanse troepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Nicaraguatrupial"
+      },
+      {
+        "lang": "ru",
+        "name": "Никарагуанский гракл"
+      },
+      {
+        "lang": "sv",
+        "name": "Nicaraguabåtstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus mexicanus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Quíscal cua de faisà"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlhovec velkoocasý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gregl gynffonfawr"
+      },
+      {
+        "lang": "da",
+        "name": "Kragegrackel"
+      },
+      {
+        "lang": "de",
+        "name": "Dohlengrackel"
+      },
+      {
+        "lang": "en",
+        "name": "Great-tailed Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Grandavosta kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate Mexicano"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkäpyrstöturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale à longue queue"
+      },
+      {
+        "lang": "hu",
+        "name": "Mexikói csónakfarkú"
+      },
+      {
+        "lang": "it",
+        "name": "Gracchio messicano"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガクロムクドリモドキ"
+      },
+      {
+        "lang": "nah",
+        "name": "Tzanatl"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaarttroepiaal"
+      },
+      {
+        "lang": "nn",
+        "name": "Storhaletrupial"
+      },
+      {
+        "lang": "no",
+        "name": "Storhaletrupial"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼagiitseenézí"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilgowron meksykański"
+      },
+      {
+        "lang": "ru",
+        "name": "Большехвостый гракл"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlhovec člnkochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Mexikansk båtstjärt"
+      },
+      {
+        "lang": "zh",
+        "name": "大尾拟八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus major",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlhovec člunoocasý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gregl fawr"
+      },
+      {
+        "lang": "da",
+        "name": "Bådhalet Grackel"
+      },
+      {
+        "lang": "de",
+        "name": "Bootschwanzgrackel"
+      },
+      {
+        "lang": "en",
+        "name": "Boat-tailed Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Marmarĉa kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Quiscale de pantano"
+      },
+      {
+        "lang": "fi",
+        "name": "Mölyturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale des marais"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy csónakfarkú"
+      },
+      {
+        "lang": "it",
+        "name": "Gracchio maggiore americano"
+      },
+      {
+        "lang": "ja",
+        "name": "キタオナガクロムクドリモドキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bootstaarttroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Båthaletrupial"
+      },
+      {
+        "lang": "nv",
+        "name": "Haʼaʼaahdę́ę́ʼ chʼagiitseenézí"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilgowron żaglosterny"
+      },
+      {
+        "lang": "pt",
+        "name": "Iraúna-dos-paúis"
+      },
+      {
+        "lang": "ru",
+        "name": "Лодкохвостый гракл"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlhovec pobrežný"
+      },
+      {
+        "lang": "sv",
+        "name": "Större båtstjärt"
+      },
+      {
+        "lang": "zh",
+        "name": "宽尾拟八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Quiscalus lugubris",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Merla del Carib"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlhovec karibský"
+      },
+      {
+        "lang": "cy",
+        "name": "Gregl y Dwyrain"
+      },
+      {
+        "lang": "en",
+        "name": "Carib Grackle"
+      },
+      {
+        "lang": "eo",
+        "name": "Kariba kviskalo"
+      },
+      {
+        "lang": "es",
+        "name": "Zanate caribeño"
+      },
+      {
+        "lang": "fr",
+        "name": "Quiscale merle"
+      },
+      {
+        "lang": "hu",
+        "name": "Karibi csónakfarkú"
+      },
+      {
+        "lang": "nl",
+        "name": "Caribische troepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Sørgetrupial"
+      },
+      {
+        "lang": "ru",
+        "name": "Траурный гракл"
+      },
+      {
+        "lang": "sv",
+        "name": "Karibbåtstjärt"
+      }
+    ]
+  }
+]

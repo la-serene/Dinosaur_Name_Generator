@@ -1,0 +1,65 @@
+[
+  {
+    "scientific_name": "Gymnopithys salvini",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gymnopithys rufigula",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-throated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorgirrufo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mãe-de-taoca-de-garganta-vermelha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gymnopithys lunulatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gymnopithys leucaspis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-cheeked antbird"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaakorvamuura"
+      },
+      {
+        "lang": "tr",
+        "name": "İki renkli karınca kuşu"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero cariblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-bochechuda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gymnopithys bicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bicoloured antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero bicolor"
+      }
+    ]
+  }
+]

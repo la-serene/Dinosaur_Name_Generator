@@ -1,0 +1,71 @@
+[
+  {
+    "scientific_name": "Aepypodius bruijnii",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Talègol de Waigeo"
+      },
+      {
+        "lang": "cy",
+        "name": "Twrci Bruijn"
+      },
+      {
+        "lang": "de",
+        "name": "Braunbrust-Buschhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Waigeo brushturkey",
+        "synonyms": [
+          "Bruijn's brushturkey"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Vaigea nestamasulo"
+      },
+      {
+        "lang": "fr",
+        "name": "Talégalle de Bruijn"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruijns boskalkoen"
+      },
+      {
+        "lang": "sv",
+        "name": "waigeobuskhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aepypodius arfakianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wattled Brush-turkey"
+      },
+      {
+        "lang": "es",
+        "name": "Talégalo carunculado"
+      },
+      {
+        "lang": "fi",
+        "name": "Helttatalekana"
+      },
+      {
+        "lang": "fr",
+        "name": "Talégalle des Arfak"
+      },
+      {
+        "lang": "nl",
+        "name": "Kamboskalkoen"
+      },
+      {
+        "lang": "sv",
+        "name": "Kambuskhöna"
+      }
+    ]
+  }
+]

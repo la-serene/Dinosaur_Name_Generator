@@ -1,0 +1,210 @@
+[
+  {
+    "scientific_name": "Gorsachius melanolophus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kvakoš indomalajský"
+      },
+      {
+        "lang": "de",
+        "name": "Wellenreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Malayan Night Heron"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロミゾゴイ"
+      },
+      {
+        "lang": "zh",
+        "name": "黑冠麻鷺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gorsachius magnificus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kvakoš pestrý"
+      },
+      {
+        "lang": "de",
+        "name": "Hainanreiher"
+      },
+      {
+        "lang": "en",
+        "name": "White-eared night heron"
+      },
+      {
+        "lang": "fr",
+        "name": "Bihoreau superbe"
+      },
+      {
+        "lang": "zh",
+        "name": "海南鳽"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz-noz Hainan"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr nos gwych"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankorela noktardeo"
+      },
+      {
+        "lang": "ja",
+        "name": "ミミジロゴイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Karališkasis baublys"
+      },
+      {
+        "lang": "nl",
+        "name": "Hainankwak"
+      },
+      {
+        "lang": "no",
+        "name": "Praktdverghegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Ślepowron wspaniały"
+      },
+      {
+        "lang": "pnb",
+        "name": "گورساچیس میگنیفیکس"
+      },
+      {
+        "lang": "ru",
+        "name": "Хайнаньская кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "prakthäger"
+      },
+      {
+        "lang": "vi",
+        "name": "Vạc hoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gorsachius leuconotus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißrückenreiher"
+      },
+      {
+        "lang": "en",
+        "name": "White-backed night heron"
+      },
+      {
+        "lang": "fr",
+        "name": "Bihoreau à dos blanc"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gorsachius goisagi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kerc'heiz-noz Japan"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet de nit del Japó"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr nos Japan"
+      },
+      {
+        "lang": "de",
+        "name": "Rotscheitelreiher"
+      },
+      {
+        "lang": "eo",
+        "name": "Japana noktardeo"
+      },
+      {
+        "lang": "fa",
+        "name": "غم‌خورک شب‌زی ژاپنی"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninhämyhaikara"
+      },
+      {
+        "lang": "hu",
+        "name": "Japán bakcsó"
+      },
+      {
+        "lang": "lt",
+        "name": "Japoninis baublys"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse kwak"
+      },
+      {
+        "lang": "no",
+        "name": "Japandverghegre"
+      },
+      {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ tłʼéeʼgo toohjįʼ noołnahii"
+      },
+      {
+        "lang": "pl",
+        "name": "Ślepowron japoński"
+      },
+      {
+        "lang": "pnb",
+        "name": "جپانی راتوالا بگلا"
+      },
+      {
+        "lang": "ru",
+        "name": "Японская кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk natthäger"
+      },
+      {
+        "lang": "zh",
+        "name": "栗头鳽"
+      },
+      {
+        "lang": "cs",
+        "name": "Kvakoš japonský"
+      },
+      {
+        "lang": "en",
+        "name": "Japanese night heron"
+      },
+      {
+        "lang": "fr",
+        "name": "Bihoreau goisagi"
+      },
+      {
+        "lang": "ja",
+        "name": "ミゾゴイ"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은해오라기"
+      }
+    ]
+  }
+]

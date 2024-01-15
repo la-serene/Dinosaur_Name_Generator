@@ -1,0 +1,301 @@
+[
+  {
+    "scientific_name": "Coeligena wilsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown Inca"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna inkakolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca pardo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena violifer",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-throated starfrontlet"
+      },
+      {
+        "lang": "hu",
+        "name": "Ibolyakékmellű csillagoskolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca boliviano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena torquata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Inca"
+      },
+      {
+        "lang": "fr",
+        "name": "Inca à collier"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös inkakolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Elfik wstęgoszyi"
+      },
+      {
+        "lang": "bg",
+        "name": "Беловрата инка"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí inca de collar"
+      },
+      {
+        "lang": "cy",
+        "name": "Inca torchog"
+      },
+      {
+        "lang": "de",
+        "name": "Brustband-Andenkolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Gekraagde inkakolibrie"
+      },
+      {
+        "lang": "nv",
+        "name": "Dahiitį́hii diłhiłí bizééʼ łigaaígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковый инка"
+      },
+      {
+        "lang": "sv",
+        "name": "vitkragad inka"
+      },
+      {
+        "lang": "uk",
+        "name": "Колібрі-інка біловолий"
+      },
+      {
+        "lang": "es",
+        "name": "Inca acollarado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena prunellei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Inca"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete inkakolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca negro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena phalerata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Starfrontlet"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú csillagoskolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca coliblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena orina",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colibrí inca d'Antioquia"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn talcenserog tywyll"
+      },
+      {
+        "lang": "de",
+        "name": "Antioquia-Andenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky starfrontlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Inca de Wetmore"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakó csillagoskolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Donkere inkakolibrie"
+      },
+      {
+        "lang": "nn",
+        "name": "Oreadeinka"
+      },
+      {
+        "lang": "sv",
+        "name": "mörk inka"
+      },
+      {
+        "lang": "es",
+        "name": "Inca de Antioquía"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena lutetiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-winged Starfrontlet"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakószárnyú csillagoskolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca alihabano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena iris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rainbow Starfrontlet"
+      },
+      {
+        "lang": "hu",
+        "name": "Szivárványos csillagoskolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca arcoiris"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena helianthea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-throated Starfrontlet"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékmellű csillagoskolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca ventrivioleta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena coeligena",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bronzy Inca"
+      },
+      {
+        "lang": "hu",
+        "name": "Bronz inkakolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Inca bronceado"
+      },
+      {
+        "lang": "sv",
+        "name": "Bronsinka"
+      },
+      {
+        "lang": "nl",
+        "name": "Bronzen inkakolibrie"
+      },
+      {
+        "lang": "fr",
+        "name": "Inca céleste"
+      },
+      {
+        "lang": "pnb",
+        "name": "تانبی انکا"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena bonapartei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-bellied Starfrontlet"
+      },
+      {
+        "lang": "es",
+        "name": "Inca de Bogotá"
+      },
+      {
+        "lang": "fr",
+        "name": "Inca de Bonaparte"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranymellű csillagoskolibri"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí inca de Bonaparte"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn talcenserog euraid"
+      },
+      {
+        "lang": "de",
+        "name": "Goldbauchmusketier"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudbuikinkakolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "gyllenbukig inka"
+      }
+    ]
+  }
+]

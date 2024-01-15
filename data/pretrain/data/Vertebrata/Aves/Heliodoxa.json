@@ -1,0 +1,242 @@
+[
+  {
+    "scientific_name": "Heliodoxa xanthogonys",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Velvet-browed Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante de tepuy"
+      },
+      {
+        "lang": "pt",
+        "name": "brilhante-veludo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa schreibersii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante ventrinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa rubricauda",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rubinkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Brazilian Ruby"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colirrojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Rubiinikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri rubis-émeraude"
+      },
+      {
+        "lang": "nl",
+        "name": "Braziliaanse robijnkolibrie"
+      },
+      {
+        "lang": "pnb",
+        "name": "برازیلی یاقوت"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-rubi"
+      },
+      {
+        "lang": "sv",
+        "name": "Brasiliansk rubinstrupe"
+      },
+      {
+        "lang": "sw",
+        "name": "Grönbröstad rubinstrupe"
+      },
+      {
+        "lang": "tr",
+        "name": "Brezilya yakutu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa rubinoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fawn-breasted Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante pechigamuza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa leadbeateri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-fronted Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante frentivioleta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa jacula",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík subtropický"
+      },
+      {
+        "lang": "da",
+        "name": "Grønisset Brillant"
+      },
+      {
+        "lang": "de",
+        "name": "Grünstirn-Brilliantkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Green-crowned Brilliant",
+        "synonyms": [
+          "Green-fronted Brilliant"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Brillante coroniverde"
+      },
+      {
+        "lang": "fi",
+        "name": "vihersäihkykolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Brillant fer-de-lance"
+      },
+      {
+        "lang": "hu",
+        "name": "zöldkoronás brilliánskolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Colibrì diamante corona verde"
+      },
+      {
+        "lang": "ja",
+        "name": "ミドリボウシテリハチドリ",
+        "synonyms": [
+          "midoriboushiterihachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Groenkruinbriljantkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Blåsmykkebriljant"
+      },
+      {
+        "lang": "pl",
+        "name": "Brylancik niebieskogardły"
+      },
+      {
+        "lang": "ru",
+        "name": "Зеленошапочный бриллиант"
+      },
+      {
+        "lang": "sk",
+        "name": "briliantovec prisadavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönkronad briljant"
+      },
+      {
+        "lang": "zh",
+        "name": "绿顶辉蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa imperatrix",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Empress Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante emperador"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa gularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-throated Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante gorjirrosado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa branickii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-webbed Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante alicanela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliodoxa aurescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gould's Jewelfront"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante pechicastaño"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-estrela"
+      }
+    ]
+  }
+]

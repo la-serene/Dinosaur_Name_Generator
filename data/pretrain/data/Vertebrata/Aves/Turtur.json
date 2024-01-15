@@ -1,0 +1,167 @@
+[
+  {
+    "scientific_name": "Turtur tympanistria",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witborsduifie"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička bubínková"
+      },
+      {
+        "lang": "de",
+        "name": "Tamburintäubchen"
+      },
+      {
+        "lang": "en",
+        "name": "Tambourine Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Palomita tamborilera"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourtelette tambourette"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora tamburina"
+      },
+      {
+        "lang": "pnb",
+        "name": "چڑھدی کھچوپڑی کگی"
+      },
+      {
+        "lang": "no",
+        "name": "Tamburindue"
+      },
+      {
+        "lang": "sv",
+        "name": "Tamburinfläckduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turtur chalcospilos",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groenvlekduifie"
+      },
+      {
+        "lang": "ca",
+        "name": "Tortoreta d'ales maragda"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur adeinwerdd"
+      },
+      {
+        "lang": "de",
+        "name": "Bronzeflecktäubchen"
+      },
+      {
+        "lang": "en",
+        "name": "Emerald-spotted wood dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Smeraldmakula arbarkolombo"
+      },
+      {
+        "lang": "fi",
+        "name": "Uikuttajakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourtelette émeraudine"
+      },
+      {
+        "lang": "hu",
+        "name": "Bronzfoltos erdeigerle"
+      },
+      {
+        "lang": "mrj",
+        "name": "Той ала шӹргӹ тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Smaragdvlekduif"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnflekkalvedue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí bitʼayaałtsooígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "زمردی لکڑ کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-esmeraldina"
+      },
+      {
+        "lang": "ru",
+        "name": "Бронзовопятнистая лесная горлица"
+      },
+      {
+        "lang": "sv",
+        "name": "smaragdfläckduva"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička zelenoskvrnná"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turtur brehmeri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička modrohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-headed Wood-dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Blukapa arbarkolombo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turtur afer",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička modroskvrnná"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-spotted Wood-dove"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-de-manchas-azuis"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turtur abyssinicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička etiopská"
+      }
+    ]
+  }
+]

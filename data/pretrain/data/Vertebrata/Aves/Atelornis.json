@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Atelornis pittoides",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kurolec pitovitý"
+      },
+      {
+        "lang": "de",
+        "name": "Blaukopf-Erdracke"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca terrestre cabeciazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Atelornis crossleyi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kurolec Crossleyův"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca terrestre cabecirrufa"
+      }
+    ]
+  }
+]

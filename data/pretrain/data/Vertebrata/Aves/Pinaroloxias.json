@@ -1,0 +1,63 @@
+[
+  {
+    "scientific_name": "Pinaroloxias inornata",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Kookossaarensirkku"
+      },
+      {
+        "lang": "lt",
+        "name": "Kokosinė starta"
+      },
+      {
+        "lang": "bg",
+        "name": "Чинка на Кокосовия остров"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila Ynys Cocos"
+      },
+      {
+        "lang": "en",
+        "name": "Cocos finch"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره نارگیل"
+      },
+      {
+        "lang": "fr",
+        "name": "Spizin de Cocos"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש אי הקוקוס"
+      },
+      {
+        "lang": "hu",
+        "name": "Kókuszpinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Cocosvink"
+      },
+      {
+        "lang": "pl",
+        "name": "Kokośnik"
+      },
+      {
+        "lang": "sv",
+        "name": "cocosfink"
+      },
+      {
+        "lang": "uk",
+        "name": "Кокосовий в'юрок"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin de la Cocos"
+      }
+    ]
+  }
+]

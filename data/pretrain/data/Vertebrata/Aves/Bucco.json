@@ -1,0 +1,61 @@
+[
+  {
+    "scientific_name": "Bucco tamatia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spotted Puffbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Macuru-carijó"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Rapazinho-carijó"
+      },
+      {
+        "lang": "es",
+        "name": "Buco moteado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bucco noanamae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bucco macrodactylus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-capped Puffbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Rapazinho-de-bone-vermelho"
+      },
+      {
+        "lang": "es",
+        "name": "Buco cabecirrojo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bucco capensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Puffbird"
+      },
+      {
+        "lang": "pt-br",
+        "name": "rapazinho-de-colar"
+      },
+      {
+        "lang": "es",
+        "name": "Buco musiú"
+      }
+    ]
+  }
+]

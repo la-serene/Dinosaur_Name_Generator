@@ -1,0 +1,36 @@
+[
+  {
+    "scientific_name": "Schistochlamys ruficapillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Bico-de-veludo"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara canela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Schistochlamys melanopis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanhaçu-de-coleira"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara carinegra"
+      }
+    ]
+  }
+]

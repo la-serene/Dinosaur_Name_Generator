@@ -1,0 +1,122 @@
+[
+  {
+    "scientific_name": "Naemorhedus griseus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinese Goral"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai gorál"
+      },
+      {
+        "lang": "pl",
+        "name": "Goral szary"
+      },
+      {
+        "lang": "th",
+        "name": "กวางผา",
+        "synonyms": [
+          "ม้าเทวดา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Naemorhedus goral",
+    "common_names": [
+      {
+        "lang": "as",
+        "name": "গৰাল"
+      },
+      {
+        "lang": "en",
+        "name": "Goral"
+      },
+      {
+        "lang": "hu",
+        "name": "Közönséges gorál"
+      },
+      {
+        "lang": "ja",
+        "name": "ゴーラル"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Naemorhedus caudatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Goral"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú gorál"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガゴーラル"
+      },
+      {
+        "lang": "ka",
+        "name": "გორალი"
+      },
+      {
+        "lang": "ko",
+        "name": "산양",
+        "synonyms": [
+          "긴꼬리고랄"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Goral długoogoniasty",
+        "synonyms": [
+          "Goral chiński"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "กวางผา",
+        "synonyms": [
+          "ม้าเทวดา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Naemorhedus baileyi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Roter Goral"
+      },
+      {
+        "lang": "en",
+        "name": "Red Goral"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝa goralo"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös gorál"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode goral"
+      },
+      {
+        "lang": "ug",
+        "name": "قىزىل بۆكەن"
+      },
+      {
+        "lang": "zh",
+        "name": "红斑羚"
+      }
+    ]
+  }
+]

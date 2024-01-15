@@ -1,0 +1,1616 @@
+[
+  {
+    "scientific_name": "Ptilinopus wallacii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Wallaceův"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus viridis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Claret-breasted Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus victor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange Dove"
+      },
+      {
+        "lang": "ja",
+        "name": "オレンジバト"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-da-fruta-laranja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus tannensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub stříbroramenný"
+      },
+      {
+        "lang": "en",
+        "name": "Tanna Fruit-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Tanna"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Tanna"
+      },
+      {
+        "lang": "bi",
+        "name": "Bigfala grin pijin"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop de Tanna"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau ysgwydd arian"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار تانا"
+      },
+      {
+        "lang": "nl",
+        "name": "Vanuatujufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Vanuatufruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلینوپس ٹاننسس"
+      },
+      {
+        "lang": "sv",
+        "name": "vanuatufruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus superbus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub nádherný"
+      },
+      {
+        "lang": "en",
+        "name": "Superb Fruit-Dove"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-da-fruta-pintado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus subgularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub hnědobradý"
+      },
+      {
+        "lang": "en",
+        "name": "Maroon-chinned Fruit-Dove"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau endywyll"
+      },
+      {
+        "lang": "de",
+        "name": "Dunkelkinn-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptliope des Banggai"
+      },
+      {
+        "lang": "id",
+        "name": "Walik banggai"
+      },
+      {
+        "lang": "nl",
+        "name": "Banggai-jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Brunhakefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "بنگائی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "banggaifruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus solomonensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-bibbed Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus roseicapilla",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub růžovohlavý"
+      },
+      {
+        "lang": "en",
+        "name": "Mariana fruit dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de las Marianas"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope des Mariannes"
+      },
+      {
+        "lang": "nl",
+        "name": "Marianenjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Marianefruktdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Owocożer mariański"
+      },
+      {
+        "lang": "sv",
+        "name": "Marianafruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus rivoli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bibbed Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus richardsii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub stříbrokorunkatý"
+      },
+      {
+        "lang": "en",
+        "name": "Silver-capped Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus regina",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub královský"
+      },
+      {
+        "lang": "en",
+        "name": "Rose-crowned Fruit-dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozkrona fruktokolombo"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-coroa-rosada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus rarotongensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tilinop de Rarotonga"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub rarotonžský"
+      },
+      {
+        "lang": "en",
+        "name": "Cook Islands Fruit-Dove"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Rarotonga"
+      },
+      {
+        "lang": "nl",
+        "name": "Rarotongajufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Rarotongafruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس ریروٹونگنسس"
+      },
+      {
+        "lang": "ru",
+        "name": "Раротонгский пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Rarotongafruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus purpuratus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub tuamotský"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-green Fruit-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de las Sociedad"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de la Société"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de Tahití"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau lwydwerdd"
+      },
+      {
+        "lang": "da",
+        "name": "Tahitifrugtdue"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار خاکستری-سبز"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahitiaanse jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Tahitifruktdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí ałchozhí chʼilgo dootłʼizhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس پرپراٹس"
+      },
+      {
+        "lang": "ru",
+        "name": "Серо-зелёный пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "tahitifruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus pulchellus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rotkappen-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Beautiful Fruit-Dove",
+        "synonyms": [
+          "Rose-fronted Pigeon",
+          "Crimson-capped Fruit-dove"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Belega fruktokolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo bonito"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار زیبا"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope mignon"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörössapkás gyümölcsgalamb"
+      },
+      {
+        "lang": "sv",
+        "name": "Karmosinkronad fruktduva"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-barriga-laranja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus porphyreus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub vínokrký"
+      },
+      {
+        "lang": "de",
+        "name": "Rothals-Flaumfußtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Pink-headed Fruit Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozkapa fruktokolombo"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope porphyre"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニガシラヒメアオバト"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-cabeça-rosa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus porphyraceus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub růžovočelý"
+      },
+      {
+        "lang": "to",
+        "name": "kulukulu"
+      },
+      {
+        "lang": "en",
+        "name": "Purple-capped Fruit-dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus perousii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub samojský"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシキヒメアオバト"
+      },
+      {
+        "lang": "to",
+        "name": "manumaʻa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus perlatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub bělobradý"
+      },
+      {
+        "lang": "en",
+        "name": "Pink-spotted Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus pelewensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Palau fruit dove"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub anguarský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus ornatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ornate fruit dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Ornata fruktokolombo"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-ornada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus occipitalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub žlutoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-breasted Fruit-Dove"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelborstjufferduif"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus nainus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dwarf Fruit-dove"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop nan"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau fechan"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergfruchttaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار کوتوله"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope nain"
+      },
+      {
+        "lang": "mrj",
+        "name": "Изи ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergjufferduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹھمنی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "dvärgfruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus monacha",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-capped Fruit-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo monje"
+      },
+      {
+        "lang": "fi",
+        "name": "Munkkihedelmäkyyhky"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop monjo"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau benlas"
+      },
+      {
+        "lang": "de",
+        "name": "Blaukappen-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope moine"
+      },
+      {
+        "lang": "hu",
+        "name": "Kéksapkás gyümölcsgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ калпакан ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Halmaherajufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Blåkronefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلی بودیوالی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "blåkronad fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus merrilli",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Merrillův"
+      },
+      {
+        "lang": "en",
+        "name": "Cream-bellied Fruit-Dove"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau Merrill"
+      },
+      {
+        "lang": "de",
+        "name": "Merrill-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Merrill"
+      },
+      {
+        "lang": "nl",
+        "name": "Merrills jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Luzonfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "کریمی چھاتیوالی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "gräddbukig fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus mercierii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-moustached Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Mercier"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Mercier"
+      },
+      {
+        "lang": "zh",
+        "name": "赤鬃果鳩"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus melanospilus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Ptilinop de clatell negre"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau warddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortnakket Frugtdue"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarznacken-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Black-naped Fruit Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigronuka fruktokolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo nuquinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope turgris"
+      },
+      {
+        "lang": "id",
+        "name": "Walik kembang"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora beccafrutta nucanera"
+      },
+      {
+        "lang": "ja",
+        "name": "カルカヤバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartnekjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Svartnakkefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "کلسری کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-testa-negra"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернозатылочный пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnackad fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus marchei",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tilinop de Marche"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub Marcheův"
+      },
+      {
+        "lang": "en",
+        "name": "Flame-breasted Fruit-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Marche"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Marche"
+      },
+      {
+        "lang": "hu",
+        "name": "Karmazsin gyümölcsgalamb"
+      },
+      {
+        "lang": "nl",
+        "name": "Marchés jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Flammefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال چھاتیوالی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "luzonfruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus magnificus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tilinop magnífic"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub čarokrásný"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau fawreddog"
+      },
+      {
+        "lang": "da",
+        "name": "Wompoofrugtdue"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurbrust-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Wompoo Fruit Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Purpurbrusta fruktokolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo magnífico"
+      },
+      {
+        "lang": "et",
+        "name": "Suur-rohetuvi"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار وامپو"
+      },
+      {
+        "lang": "fi",
+        "name": "Loistohedelmäkyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope magnifique"
+      },
+      {
+        "lang": "hr",
+        "name": "Ljubičastoprsa voćarica"
+      },
+      {
+        "lang": "hu",
+        "name": "Wompoo-gyümölcsgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Walik wompu"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora beccafrutta wompu"
+      },
+      {
+        "lang": "ja",
+        "name": "ワープーアオバト"
+      },
+      {
+        "lang": "lt",
+        "name": "Didingasis karvelis vaislesys"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кужы пачан ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Wompoejufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Bispefruktdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Owocożer purpurowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "وومپو کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-magnífica"
+      },
+      {
+        "lang": "ru",
+        "name": "Длиннохвостый пёстрый голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Pestroš vznešený"
+      },
+      {
+        "lang": "sv",
+        "name": "Wompoofruktduva"
+      },
+      {
+        "lang": "uk",
+        "name": "Тілопо довгохвостий"
+      },
+      {
+        "lang": "zh",
+        "name": "巨果鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus luteovirens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden Dove, Lemon Dove",
+        "synonyms": [
+          "Yellow Dove"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus leclancheri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub černobradý"
+      },
+      {
+        "lang": "en",
+        "name": "Black-chinned Fruit-dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigromentona fruktokolombo"
+      },
+      {
+        "lang": "nl",
+        "name": "Leclanchers jufferduif"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus layardi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whistling Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de la Kadavu"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Layard"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur benfelen"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار سوتزن"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сарикӓ вуян ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkopjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Fløyelsfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "مخملی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "kadavufruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus jambu",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub jambu"
+      },
+      {
+        "lang": "da",
+        "name": "Jambufrugtdue"
+      },
+      {
+        "lang": "de",
+        "name": "Jambufruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Jambu Fruit Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Jambua fruktokolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo Jambú"
+      },
+      {
+        "lang": "et",
+        "name": "Mask-rohetuvi"
+      },
+      {
+        "lang": "fi",
+        "name": "Punanaamakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope jambou"
+      },
+      {
+        "lang": "hu",
+        "name": "Jambu gyümölcsgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Walik Jambu"
+      },
+      {
+        "lang": "it",
+        "name": "Colomba frugivora di Jambu"
+      },
+      {
+        "lang": "ja",
+        "name": "ボタンバト"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Punai Jambu"
+      },
+      {
+        "lang": "nl",
+        "name": "Jambujufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Jambufruktdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Owocożer czerwonolicy"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-jambu"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовоголовый пёстрый голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Pestroš jambu"
+      },
+      {
+        "lang": "sv",
+        "name": "Jambufruktduva"
+      },
+      {
+        "lang": "th",
+        "name": "นกเปล้าหน้าแดง"
+      },
+      {
+        "lang": "zh",
+        "name": "粉头果鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus iozonus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-bellied Fruit Dove"
+      },
+      {
+        "lang": "nl",
+        "name": "Oranjebuikjufferduif"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus insularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Henderson Fruit-dove"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau Ynys Henderson"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Henderson"
+      },
+      {
+        "lang": "mrj",
+        "name": "Хендерсон ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hendersonjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Hendersonfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "گلابی بودی کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "hendersonfruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus insolitus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Knob-billed Fruit-dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus hyogastrus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo cabecigrís"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus huttoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rapa Fruit-dove"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de Rapa"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau Ynys Rapa"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Hutton"
+      },
+      {
+        "lang": "es",
+        "name": "tilopo de Rapa"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кужы нерӓн ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rapajufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Rapafruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس ہٹونی"
+      },
+      {
+        "lang": "ru",
+        "name": "Длинноклювый пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "rapafruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus greyii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Greyův"
+      },
+      {
+        "lang": "en",
+        "name": "Red-bellied Fruit-Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus granulifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Carunculated Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo carunculado"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop carunculat"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau gnapwen"
+      },
+      {
+        "lang": "de",
+        "name": "Karunkel-Fruchttaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope caronculé"
+      },
+      {
+        "lang": "nl",
+        "name": "Obi-jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Vortefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس گرینولیفرنس"
+      },
+      {
+        "lang": "sv",
+        "name": "vårtfruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus fischeri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Fischerův"
+      },
+      {
+        "lang": "en",
+        "name": "Red-eared Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Fischer"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus eugeniae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-headed Fruit-dove"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop d'Eugènia"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau San Cristobal"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار کله‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope d'Eugénie"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош вуян ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkopjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithodefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹسری کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "vithuvad fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus dupetithouarsii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-capped Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo coroniblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus dohertyi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Dohertyův"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Sumba"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau wargoch"
+      },
+      {
+        "lang": "en",
+        "name": "Red-naped fruit dove"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Sumba"
+      },
+      {
+        "lang": "id",
+        "name": "Walik rawamanu"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodnekjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Sumbafruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹسری لالپری کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "rödnackad fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus coronulatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coroneted Fruit-dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus coralensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub atolový"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus cinctus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub černohřbetý"
+      },
+      {
+        "lang": "en",
+        "name": "Banded Fruit Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus chalcurus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tilinop de Makatea"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub makatejský"
+      },
+      {
+        "lang": "en",
+        "name": "Makatea Fruit-Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de la Makatea"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Makatéa"
+      },
+      {
+        "lang": "nl",
+        "name": "Macateajufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Makateafruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماکاٹیا کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "makateafruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus bernsteinii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Bernsteinův"
+      },
+      {
+        "lang": "en",
+        "name": "Scarlet-breasted Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Bernstein"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de pit escarlata"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau frongoch"
+      },
+      {
+        "lang": "de",
+        "name": "Scharlachbrust-Fruchttaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار سینه‌سرخ"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope à poitrine écarlate"
+      },
+      {
+        "lang": "hu",
+        "name": "Skarlátmellű gyümölcsgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Walik dada-merah"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹнӓ онган ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Prachtjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Bambusfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلینوپس برنسٹائینی"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödbröstad fruktduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus aurantiifrons",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub zlatočelý"
+      },
+      {
+        "lang": "en",
+        "name": "Orange-fronted Fruit-Dove"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-fronte-laranja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus arcanus",
+    "common_names": [
+      {
+        "lang": "bcl",
+        "name": "Punay"
+      },
+      {
+        "lang": "ca",
+        "name": "Tilinop de Negros"
+      },
+      {
+        "lang": "de",
+        "name": "Negros-Fruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Negros Fruit-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Negros"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار نگروس"
+      },
+      {
+        "lang": "fi",
+        "name": "Negrosinhedelmäkyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Ripley"
+      },
+      {
+        "lang": "mrj",
+        "name": "Негрос ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Ripley's jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Negrosfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیگرو کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "Negrosfruktduva"
+      },
+      {
+        "lang": "zh",
+        "name": "里普利氏果鳩"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus alligator",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub černopásý"
+      }
+    ]
+  }
+]

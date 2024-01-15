@@ -1,0 +1,633 @@
+[
+  {
+    "scientific_name": "Milvus milvus",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Milaneta"
+      },
+      {
+        "lang": "ast",
+        "name": "Milán del Rau Forcau"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızı çalağan"
+      },
+      {
+        "lang": "be",
+        "name": "Чырвоны каршун"
+      },
+      {
+        "lang": "bg",
+        "name": "Червена каня"
+      },
+      {
+        "lang": "br",
+        "name": "Barged ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Milà reial"
+      },
+      {
+        "lang": "co",
+        "name": "Milvu"
+      },
+      {
+        "lang": "cs",
+        "name": "Luňák červený"
+      },
+      {
+        "lang": "cw",
+        "name": "Scowl"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud Coch"
+      },
+      {
+        "lang": "da",
+        "name": "Rød glente"
+      },
+      {
+        "lang": "de",
+        "name": "Rotmilan"
+      },
+      {
+        "lang": "el",
+        "name": "Ψαλιδιάρης"
+      },
+      {
+        "lang": "en",
+        "name": "Red Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝa milvo"
+      },
+      {
+        "lang": "es",
+        "name": "Milano real"
+      },
+      {
+        "lang": "et",
+        "name": "Puna-harksaba"
+      },
+      {
+        "lang": "eu",
+        "name": "Milà reial"
+      },
+      {
+        "lang": "fi",
+        "name": "Isohaarahaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Glenta"
+      },
+      {
+        "lang": "fr",
+        "name": "Milan royal"
+      },
+      {
+        "lang": "frr",
+        "name": "Ruad miilaan"
+      },
+      {
+        "lang": "fy",
+        "name": "Reade Glee"
+      },
+      {
+        "lang": "ga",
+        "name": "Cúr Rua"
+      },
+      {
+        "lang": "gd",
+        "name": "Clamhan Gabhlach"
+      },
+      {
+        "lang": "gl",
+        "name": "Millafre real"
+      },
+      {
+        "lang": "he",
+        "name": "דיה אדומה"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös kánya"
+      },
+      {
+        "lang": "hy",
+        "name": "Ցին կարմիր"
+      },
+      {
+        "lang": "is",
+        "name": "Svölugleða"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio reale"
+      },
+      {
+        "lang": "ja",
+        "name": "アカトビ"
+      },
+      {
+        "lang": "ka",
+        "name": "ბორა"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudasis peslys"
+      },
+      {
+        "lang": "lv",
+        "name": "Sarkanā klija"
+      },
+      {
+        "lang": "mk",
+        "name": "Црвена луња"
+      },
+      {
+        "lang": "mt",
+        "name": "Astun Aħmar"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode wouw"
+      },
+      {
+        "lang": "no",
+        "name": "Glente"
+      },
+      {
+        "lang": "pl",
+        "name": "Kania ruda"
+      },
+      {
+        "lang": "pt",
+        "name": "Milhafre-real"
+      },
+      {
+        "lang": "rm",
+        "name": "Milan cotschen"
+      },
+      {
+        "lang": "ru",
+        "name": "Красный коршун"
+      },
+      {
+        "lang": "sk",
+        "name": "Haja červená"
+      },
+      {
+        "lang": "sl",
+        "name": "Rjavi škarnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Huta bishtgërshërë e kuqërreme"
+      },
+      {
+        "lang": "sr",
+        "name": "Ridja lunja - Риђа лунја"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd glada"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl çaylak"
+      },
+      {
+        "lang": "uk",
+        "name": "Шуліка рудий"
+      },
+      {
+        "lang": "zh",
+        "name": "赤鳶"
+      },
+      {
+        "lang": "or",
+        "name": "ଗେରୁଆ ଚିଲ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Milvus migrans",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartwou"
+      },
+      {
+        "lang": "an",
+        "name": "Alforocho negro"
+      },
+      {
+        "lang": "ar",
+        "name": "الحدأة"
+      },
+      {
+        "lang": "arz",
+        "name": "حداه سوداء"
+      },
+      {
+        "lang": "as",
+        "name": "চিলনী"
+      },
+      {
+        "lang": "ast",
+        "name": "Milán Prietu"
+      },
+      {
+        "lang": "az",
+        "name": "Qara çalağan"
+      },
+      {
+        "lang": "ba",
+        "name": "Төйлөгән"
+      },
+      {
+        "lang": "bar",
+        "name": "Schworzer Milan"
+      },
+      {
+        "lang": "be",
+        "name": "Каршун чорны"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна каня"
+      },
+      {
+        "lang": "bm",
+        "name": "Npokolon"
+      },
+      {
+        "lang": "bn",
+        "name": "ভুবন চিল"
+      },
+      {
+        "lang": "br",
+        "name": "Barged du"
+      },
+      {
+        "lang": "ca",
+        "name": "Milà negre"
+      },
+      {
+        "lang": "ce",
+        "name": "Ӏаьржа гӀиргӀа"
+      },
+      {
+        "lang": "cjs",
+        "name": "Қартыға"
+      },
+      {
+        "lang": "co",
+        "name": "Milvu neru"
+      },
+      {
+        "lang": "cs",
+        "name": "Luňák hnědý"
+      },
+      {
+        "lang": "cv",
+        "name": "Хура хĕрен"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud clustddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sort Glente"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzmilan"
+      },
+      {
+        "lang": "el",
+        "name": "Τσίφτης"
+      },
+      {
+        "lang": "en",
+        "name": "Black Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra milvo"
+      },
+      {
+        "lang": "es",
+        "name": "Milano negro"
+      },
+      {
+        "lang": "et",
+        "name": "Must-harksaba"
+      },
+      {
+        "lang": "eu",
+        "name": "Miru beltz"
+      },
+      {
+        "lang": "fa",
+        "name": "کورکور سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Haarahaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Svartgleða"
+      },
+      {
+        "lang": "fr",
+        "name": "Milan noir"
+      },
+      {
+        "lang": "fy",
+        "name": "Swarte Glee"
+      },
+      {
+        "lang": "ga",
+        "name": "Cúr Dhubh"
+      },
+      {
+        "lang": "gl",
+        "name": "Miñato queimado"
+      },
+      {
+        "lang": "ha",
+        "name": "Shirwa"
+      },
+      {
+        "lang": "he",
+        "name": "דיה מצויה"
+      },
+      {
+        "lang": "hi",
+        "name": "काली चील"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna lunja"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna kánya"
+      },
+      {
+        "lang": "hy",
+        "name": "Սև ցին"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Paria"
+      },
+      {
+        "lang": "is",
+        "name": "Vatnagleða"
+      },
+      {
+        "lang": "it",
+        "name": "Nibbio bruno"
+      },
+      {
+        "lang": "ja",
+        "name": "トビ"
+      },
+      {
+        "lang": "ka",
+        "name": "ძერა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къашыргъэщхьэху"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тигілген"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара кезкұйрық"
+      },
+      {
+        "lang": "ko",
+        "name": "솔개"
+      },
+      {
+        "lang": "lez",
+        "name": "ЧӀулав чалагъан"
+      },
+      {
+        "lang": "ln",
+        "name": "Ngóbe"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodasis peslys"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnā klija"
+      },
+      {
+        "lang": "mg",
+        "name": "Hitsikitsika"
+      },
+      {
+        "lang": "mk",
+        "name": "Црна луња"
+      },
+      {
+        "lang": "ml",
+        "name": "ചക്കിപ്പരുന്ത്"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар элээ"
+      },
+      {
+        "lang": "mr",
+        "name": "घार"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ӓмӹрт"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Helang Kembara Hitam"
+      },
+      {
+        "lang": "mt",
+        "name": "Astun Iswed"
+      },
+      {
+        "lang": "mwl",
+        "name": "Milhafre"
+      },
+      {
+        "lang": "ne",
+        "name": "कालो चील"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte wouw"
+      },
+      {
+        "lang": "no",
+        "name": "Svartglente"
+      },
+      {
+        "lang": "or",
+        "name": "ମାଟିଆ ଚିଲ"
+      },
+      {
+        "lang": "pl",
+        "name": "Kania czarna"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڡڈی اِلھ"
+      },
+      {
+        "lang": "ps",
+        "name": "تور ټپوس"
+      },
+      {
+        "lang": "pt",
+        "name": "Milhafre-preto"
+      },
+      {
+        "lang": "rm",
+        "name": "Milan stgir"
+      },
+      {
+        "lang": "ro",
+        "name": "Gaie neagră"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный коршун"
+      },
+      {
+        "lang": "rue",
+        "name": "Коршун чорный"
+      },
+      {
+        "lang": "sd",
+        "name": "سرڻ"
+      },
+      {
+        "lang": "sk",
+        "name": "Haja tmavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Črni škarnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Huta e zezë bishtgërshërë"
+      },
+      {
+        "lang": "sr",
+        "name": "Црна луња"
+      },
+      {
+        "lang": "sv",
+        "name": "Brun glada"
+      },
+      {
+        "lang": "sw",
+        "name": "Mwewe Domo-jeusi"
+      },
+      {
+        "lang": "ta",
+        "name": "கரும்பருந்து"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวดำ"
+      },
+      {
+        "lang": "tl",
+        "name": "Itim na saranggola"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara çaylak"
+      },
+      {
+        "lang": "tt",
+        "name": "Кара тилгән"
+      },
+      {
+        "lang": "tyv",
+        "name": "Дээлдиген"
+      },
+      {
+        "lang": "udm",
+        "name": "Сьӧд душес"
+      },
+      {
+        "lang": "uk",
+        "name": "Шуліка чорний"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều hâu đen"
+      },
+      {
+        "lang": "wuu",
+        "name": "黑鸢"
+      },
+      {
+        "lang": "zh",
+        "name": "黑鸢"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "麻鷹"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Milvus aegyptius",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Geelbekwou"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbeka milvo"
+      },
+      {
+        "lang": "fr",
+        "name": "Milan d'Afrique"
+      },
+      {
+        "lang": "mk",
+        "name": "Жолтоклуна луња"
+      },
+      {
+        "lang": "no",
+        "name": "Gulnebbglente"
+      }
+    ]
+  }
+]

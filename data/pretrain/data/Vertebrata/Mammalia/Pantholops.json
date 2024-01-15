@@ -1,0 +1,46 @@
+[
+  {
+    "scientific_name": "Pantholops hundesiensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pantholops hodgsonii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čiru"
+      },
+      {
+        "lang": "de",
+        "name": "Tschiru"
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan antelopeç"
+      },
+      {
+        "lang": "es",
+        "name": "Antílope tibetano"
+      },
+      {
+        "lang": "eo",
+        "name": "Tibeta antilopo"
+      },
+      {
+        "lang": "hu",
+        "name": "Tibeti antilop",
+        "synonyms": [
+          "csiru"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "チベットカモシカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Cziru"
+      }
+    ]
+  }
+]

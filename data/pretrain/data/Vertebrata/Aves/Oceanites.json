@@ -1,0 +1,169 @@
+[
+  {
+    "scientific_name": "Oceanites pincoyae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Oceanites oceanicus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gewone stormswael"
+      },
+      {
+        "lang": "ar",
+        "name": "طائر نوء ويلسون"
+      },
+      {
+        "lang": "bg",
+        "name": "Уилсънова вълнолюбка"
+      },
+      {
+        "lang": "br",
+        "name": "Satanig Wilson"
+      },
+      {
+        "lang": "ca",
+        "name": "Ocell de tempesta de Wilson"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn Wilson"
+      },
+      {
+        "lang": "de",
+        "name": "Buntfuß-Sturmschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Wilson's Storm Petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Buntpieda ŝtormpetrelo"
+      },
+      {
+        "lang": "es",
+        "name": "Paíño de Wilson"
+      },
+      {
+        "lang": "eu",
+        "name": "Wilson ekaitz-txori"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ طوفان ویلسون"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänkeiju"
+      },
+      {
+        "lang": "fr",
+        "name": "Océanite de Wilson"
+      },
+      {
+        "lang": "gl",
+        "name": "Paíño de Wilson"
+      },
+      {
+        "lang": "he",
+        "name": "יסעורון וילסון"
+      },
+      {
+        "lang": "hu",
+        "name": "Wilson-viharfecske"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel-badai coklat"
+      },
+      {
+        "lang": "it",
+        "name": "Uccello delle tempeste di Wilson"
+      },
+      {
+        "lang": "ja",
+        "name": "アシナガウミツバメ"
+      },
+      {
+        "lang": "ml",
+        "name": "വിൽസൺ കാറ്റിളക്കി"
+      },
+      {
+        "lang": "nl",
+        "name": "Wilson stormvogeltje"
+      },
+      {
+        "lang": "nn",
+        "name": "Oseanstormsvale"
+      },
+      {
+        "lang": "no",
+        "name": "Wilsonstormsvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Oceannik żółtopłetwy"
+      },
+      {
+        "lang": "pnb",
+        "name": "والسن دا پیٹرل"
+      },
+      {
+        "lang": "pt",
+        "name": "Painho-de-wilson"
+      },
+      {
+        "lang": "pt-br",
+        "name": "alma-de-mestre"
+      },
+      {
+        "lang": "ru",
+        "name": "Качурка Вильсона"
+      },
+      {
+        "lang": "sl",
+        "name": "Rumenonogi strakoš"
+      },
+      {
+        "lang": "sv",
+        "name": "Havslöpare"
+      },
+      {
+        "lang": "uk",
+        "name": "Океанник Вільсона"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim báo bão Wilson"
+      },
+      {
+        "lang": "zh",
+        "name": "黄蹼洋海燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oceanites maorianus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Neuseeländische Sturmschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "New Zealand storm-petrel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oceanites gracilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-vented Storm-petrel"
+      }
+    ]
+  }
+]

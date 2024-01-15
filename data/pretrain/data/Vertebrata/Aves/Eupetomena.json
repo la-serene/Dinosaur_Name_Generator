@@ -1,0 +1,48 @@
+[
+  {
+    "scientific_name": "Eupetomena macroura",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Breitschwingenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Swallow-tailed Hummingbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri hirondelle"
+      },
+      {
+        "lang": "pl",
+        "name": "Śmigacz"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-tesoura"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí golondrina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eupetomena cirrochloris",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Colibrí apagado"
+      },
+      {
+        "lang": "en",
+        "name": "Sombre hummingbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-cinza"
+      }
+    ]
+  }
+]

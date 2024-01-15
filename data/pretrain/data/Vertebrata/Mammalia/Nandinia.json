@@ -1,0 +1,69 @@
+[
+  {
+    "scientific_name": "Nandinia binotata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Pardelroller"
+      },
+      {
+        "lang": "en",
+        "name": "African Palm Civet"
+      },
+      {
+        "lang": "es",
+        "name": "Nandinia"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanpalmunäätä"
+      },
+      {
+        "lang": "fr",
+        "name": "Nandinie",
+        "synonyms": [
+          "Civette palmiste africaine"
+        ]
+      },
+      {
+        "lang": "frr",
+        "name": "Afrikoonsk pualemroler"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai pálmacibet"
+      },
+      {
+        "lang": "ja",
+        "name": "キノボリジャコウネコ"
+      },
+      {
+        "lang": "lt",
+        "name": "Palminė civeta"
+      },
+      {
+        "lang": "nl",
+        "name": "Pardelroller"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikansk palmeruller"
+      },
+      {
+        "lang": "pl",
+        "name": "Nandinia palmowa",
+        "synonyms": [
+          "łasza palmowa"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Пальмовая циветта"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika palmiye misk kedisi"
+      }
+    ]
+  }
+]

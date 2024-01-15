@@ -1,0 +1,39 @@
+[
+  {
+    "scientific_name": "Pteronetta hartlaubii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pižmovka konžská"
+      },
+      {
+        "lang": "en",
+        "name": "Hartlaub's Duck"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanelisorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptéronette de Hartlaub"
+      },
+      {
+        "lang": "ja",
+        "name": "シラガガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hartlaubs eend"
+      },
+      {
+        "lang": "no",
+        "name": "Mahogniand"
+      },
+      {
+        "lang": "sv",
+        "name": "Skogsand"
+      }
+    ]
+  }
+]

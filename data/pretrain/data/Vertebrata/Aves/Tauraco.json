@@ -1,0 +1,576 @@
+[
+  {
+    "scientific_name": "Tauraco schuettii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-billed Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco piquinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à bec noir"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco becconero"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak czarnodzioby"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco schalowi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Schalow's Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco de Schalow"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Schalow"
+      },
+      {
+        "lang": "hu",
+        "name": "Marai zöldturákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco di Schalow"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak długoczuby"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco ruspolii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "توراكو روسبولي"
+      },
+      {
+        "lang": "ca",
+        "name": "Turac de Ruspoli"
+      },
+      {
+        "lang": "cy",
+        "name": "Twraco Ruspoli"
+      },
+      {
+        "lang": "en",
+        "name": "Ruspoli's Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco de Ruspoli"
+      },
+      {
+        "lang": "fa",
+        "name": "موزخوار روسپولی"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Ruspoli"
+      },
+      {
+        "lang": "hu",
+        "name": "Ruspoli-turákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco di Ruspoli"
+      },
+      {
+        "lang": "mrj",
+        "name": "Эфиопи турако"
+      },
+      {
+        "lang": "nl",
+        "name": "Prins Ruspoli's toerako"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak etiopski"
+      },
+      {
+        "lang": "sv",
+        "name": "Etiopisk turako"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco porphyreolophus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Glanzhaubenturako"
+      },
+      {
+        "lang": "en",
+        "name": "Purple-crested Turaco"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à huppe splendide"
+      },
+      {
+        "lang": "hu",
+        "name": "Lilasapkás turákó"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak rdzawy"
+      },
+      {
+        "lang": "pt",
+        "name": "Turaco-de-crista-violeta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco persa",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Tourako glas"
+      },
+      {
+        "lang": "cs",
+        "name": "Turako chocholatý"
+      },
+      {
+        "lang": "en",
+        "name": "Guinea Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco de Guinea"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco vert"
+      },
+      {
+        "lang": "hu",
+        "name": "Perzsa turákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco verde"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak zielonoczuby"
+      },
+      {
+        "lang": "ru",
+        "name": "Гвинейский турако"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco macrorhynchus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-billed Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco piquigualdo"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à gros bec"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco beccogiallo"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak żółtodzioby"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco livingstonii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Livingstone's Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco de Livingstone"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Livingstone"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco di Livingstone"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak ostroczuby"
+      },
+      {
+        "lang": "pt",
+        "name": "Turaco-de-livingstone"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco leucotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-cheeked Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco cariblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à joues blanches"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfülű turákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco guancebianche"
+      },
+      {
+        "lang": "ja",
+        "name": "ホオジロエボシドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak białouchy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco leucolophus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-crested Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco crestiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco à huppe blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérbóbitás turákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco crestabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "シロガシラエボシドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak białoczuby"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco hartlaubi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hartlaub's Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Turaco de Hanlaub"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco di Hanlaub"
+      },
+      {
+        "lang": "ja",
+        "name": "オウカンエボシドリ"
+      },
+      {
+        "lang": "ki",
+        "name": "Ngũgũ"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak liliowoczuby"
+      },
+      {
+        "lang": "ru",
+        "name": "Синехохлый турако"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco fischeri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "توراكو فيشري"
+      },
+      {
+        "lang": "br",
+        "name": "Tourako Fischer"
+      },
+      {
+        "lang": "ca",
+        "name": "Turac de Fischer"
+      },
+      {
+        "lang": "cy",
+        "name": "Twraco Fischer"
+      },
+      {
+        "lang": "da",
+        "name": "Fischers turako"
+      },
+      {
+        "lang": "de",
+        "name": "Fischerturako"
+      },
+      {
+        "lang": "en",
+        "name": "Fischer's Turaco"
+      },
+      {
+        "lang": "es",
+        "name": "Tauraco de Fischeri"
+      },
+      {
+        "lang": "fa",
+        "name": "موزخوار فیشر"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Fischer"
+      },
+      {
+        "lang": "hu",
+        "name": "Fischer-turákó"
+      },
+      {
+        "lang": "it",
+        "name": "Turaco di Fischer"
+      },
+      {
+        "lang": "ja",
+        "name": "フィッシャーエボシドリ"
+      },
+      {
+        "lang": "ml",
+        "name": "ഫിഷേഴ്സ് ടുറാക്കോ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Фишер турако"
+      },
+      {
+        "lang": "nl",
+        "name": "Fischers toerako"
+      },
+      {
+        "lang": "nv",
+        "name": "Hashkʼaan yildeełí bitsiiyah łichíʼígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak koroniasty"
+      },
+      {
+        "lang": "sv",
+        "name": "Fischerturako"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco erythrolophus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "توراكو أحمر العرف"
+      },
+      {
+        "lang": "br",
+        "name": "Tourako kuchenn ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Turac crestavermell"
+      },
+      {
+        "lang": "cy",
+        "name": "Twraco cribgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Angolaturako"
+      },
+      {
+        "lang": "de",
+        "name": "Rothaubenturako"
+      },
+      {
+        "lang": "en",
+        "name": "Red-crested Turaco"
+      },
+      {
+        "lang": "fa",
+        "name": "موزخوار کاکل‌قرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaniskaturako"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Pauline"
+      },
+      {
+        "lang": "he",
+        "name": "טוראקו אדום ציצית"
+      },
+      {
+        "lang": "hu",
+        "name": "Angolai turákó"
+      },
+      {
+        "lang": "ja",
+        "name": "アカガシラエボシドリ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар упшан турако"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkuifloerie"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak angolski"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснохохлый турако"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödkronad turako"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco corythaix",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Knysnaloerie"
+      },
+      {
+        "lang": "en",
+        "name": "Knysna Turaco"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco louri"
+      },
+      {
+        "lang": "ja",
+        "name": "エボシドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak niebieskozielony"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tauraco bannermani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bannerman's Turaco"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco doré"
+      },
+      {
+        "lang": "nl",
+        "name": "Bannermans toerako"
+      },
+      {
+        "lang": "pl",
+        "name": "Turak kameruński"
+      },
+      {
+        "lang": "ar",
+        "name": "توراكو بانرماني"
+      },
+      {
+        "lang": "bg",
+        "name": "Банерманово турако"
+      },
+      {
+        "lang": "br",
+        "name": "Tourako Bannerman"
+      },
+      {
+        "lang": "ca",
+        "name": "Turac de Bannerman"
+      },
+      {
+        "lang": "cy",
+        "name": "Twraco Bannerman"
+      },
+      {
+        "lang": "fa",
+        "name": "موزخوار بنرمن"
+      },
+      {
+        "lang": "hu",
+        "name": "Bannerman-turákó"
+      },
+      {
+        "lang": "mrj",
+        "name": "Баннерман турако"
+      },
+      {
+        "lang": "sv",
+        "name": "bannermanturako"
+      }
+    ]
+  }
+]

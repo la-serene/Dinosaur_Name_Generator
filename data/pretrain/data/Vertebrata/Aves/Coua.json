@@ -1,0 +1,251 @@
+[
+  {
+    "scientific_name": "Coua verreauxi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Verreaux's Coua"
+      },
+      {
+        "lang": "tr",
+        "name": "Verreaux couası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua serriana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-breasted Coua"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl göğüslü coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua ruficeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-capped Coua"
+      },
+      {
+        "lang": "es",
+        "name": "Cúa capirrojo"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua à tête rousse"
+      },
+      {
+        "lang": "tr",
+        "name": "Kırmızı kepli coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua reynaudii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-fronted Coua"
+      },
+      {
+        "lang": "es",
+        "name": "Cúa frentirrojo"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua de Reynaud"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl başlı coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua gigas",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Coua"
+      },
+      {
+        "lang": "es",
+        "name": "Cúa gigante"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua géant"
+      },
+      {
+        "lang": "ja",
+        "name": "オニジカッコウ"
+      },
+      {
+        "lang": "tr",
+        "name": "İri coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua delalandei",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "كوا آكلة للحلزون"
+      },
+      {
+        "lang": "br",
+        "name": "Koua Delalande"
+      },
+      {
+        "lang": "de",
+        "name": "Delalande-Seidenkuckuck"
+      },
+      {
+        "lang": "en",
+        "name": "Snail-eating Coua"
+      },
+      {
+        "lang": "es",
+        "name": "Cúa de Delalande"
+      },
+      {
+        "lang": "fa",
+        "name": "کوآی دلالاند"
+      },
+      {
+        "lang": "fi",
+        "name": "Kotilokuku"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua de Delalande"
+      },
+      {
+        "lang": "hu",
+        "name": "Delalande-selyemkakukk"
+      },
+      {
+        "lang": "it",
+        "name": "Cua chioccioliere"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルカッコウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Delalandes coua"
+      },
+      {
+        "lang": "pl",
+        "name": "Kuja białogardła"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская кукушка Делаланда"
+      },
+      {
+        "lang": "sv",
+        "name": "Snigelkoua"
+      },
+      {
+        "lang": "zh",
+        "name": "德拉氏馬島鵑"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua cursor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Running Coua"
+      },
+      {
+        "lang": "tr",
+        "name": "Koşar coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua cristata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crested Coua"
+      },
+      {
+        "lang": "es",
+        "name": "Cúa crestado"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua huppé"
+      },
+      {
+        "lang": "tr",
+        "name": "Tepeli coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua coquereli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coquerel's Coua"
+      },
+      {
+        "lang": "tr",
+        "name": "Coquerel couası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua caerulea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue Coua"
+      },
+      {
+        "lang": "fr",
+        "name": "Coua bleu"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi coua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coua berthae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bertha's Coua",
+        "synonyms": [
+          "Madame Berthe's Coua"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "koa jaskynná"
+      },
+      {
+        "lang": "sv",
+        "name": "Berthas koua",
+        "synonyms": [
+          "Berthas Coua"
+        ]
+      }
+    ]
+  }
+]

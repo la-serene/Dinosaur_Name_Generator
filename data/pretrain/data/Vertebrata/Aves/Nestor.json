@@ -1,0 +1,271 @@
+[
+  {
+    "scientific_name": "Nestor productus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Norfolk Island Kaka"
+      },
+      {
+        "lang": "hu",
+        "name": "Norfolki kaka",
+        "synonyms": [
+          "norfolk-szigeti nesztorpapagáj"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Kaka di Norfolk"
+      },
+      {
+        "lang": "mi",
+        "name": "Kākā o Nōpoke"
+      },
+      {
+        "lang": "es",
+        "name": "Kaka de la Norfolk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nestor notabilis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Kea"
+      },
+      {
+        "lang": "de",
+        "name": "Kea"
+      },
+      {
+        "lang": "en",
+        "name": "Kea"
+      },
+      {
+        "lang": "eo",
+        "name": "Keo"
+      },
+      {
+        "lang": "es",
+        "name": "Kea"
+      },
+      {
+        "lang": "fi",
+        "name": "Kea"
+      },
+      {
+        "lang": "fr",
+        "name": "Kéa"
+      },
+      {
+        "lang": "he",
+        "name": "קיאה"
+      },
+      {
+        "lang": "hu",
+        "name": "Kea"
+      },
+      {
+        "lang": "id",
+        "name": "Kea"
+      },
+      {
+        "lang": "it",
+        "name": "Kea"
+      },
+      {
+        "lang": "ko",
+        "name": "케아앵무"
+      },
+      {
+        "lang": "mk",
+        "name": "Кеа"
+      },
+      {
+        "lang": "mi",
+        "name": "Kea"
+      },
+      {
+        "lang": "nl",
+        "name": "Kea"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤマオウム"
+      },
+      {
+        "lang": "pl",
+        "name": "Kea"
+      },
+      {
+        "lang": "ro",
+        "name": "Kea"
+      },
+      {
+        "lang": "ru",
+        "name": "Кеа"
+      },
+      {
+        "lang": "sv",
+        "name": "Kea"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nestor meridionalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Zealand Kaka"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-zélandi kaka",
+        "synonyms": [
+          "nesztorpapagáj"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Kaka"
+      },
+      {
+        "lang": "ja",
+        "name": "カカ"
+      },
+      {
+        "lang": "mi",
+        "name": "Kākā"
+      },
+      {
+        "lang": "br",
+        "name": "Kaka (evn)"
+      },
+      {
+        "lang": "ca",
+        "name": "Kaka de Nova Zelanda"
+      },
+      {
+        "lang": "cs",
+        "name": "Nestor kaka"
+      },
+      {
+        "lang": "cy",
+        "name": "Caca"
+      },
+      {
+        "lang": "da",
+        "name": "Kaka (fugl)"
+      },
+      {
+        "lang": "de",
+        "name": "Kaka"
+      },
+      {
+        "lang": "eo",
+        "name": "Kako (birdo)"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکای نیوزیلند"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaka (lintu)"
+      },
+      {
+        "lang": "fr",
+        "name": "Nestor superbe"
+      },
+      {
+        "lang": "he",
+        "name": "קאקא (ניו זילנד)"
+      },
+      {
+        "lang": "id",
+        "name": "Kākā"
+      },
+      {
+        "lang": "is",
+        "name": "Kaka (fugl)"
+      },
+      {
+        "lang": "ko",
+        "name": "카카 (새)"
+      },
+      {
+        "lang": "mn",
+        "name": "Шинэ Зеландын кака"
+      },
+      {
+        "lang": "mrj",
+        "name": "Нестор-кака"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaka (vogel)"
+      },
+      {
+        "lang": "nn",
+        "name": "Fuglen kaka"
+      },
+      {
+        "lang": "no",
+        "name": "Kaka"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ tsídii yáłtiʼí łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Nestor kaka"
+      },
+      {
+        "lang": "pnb",
+        "name": "کاکا"
+      },
+      {
+        "lang": "pt",
+        "name": "Kākā"
+      },
+      {
+        "lang": "ru",
+        "name": "Нестор-кака"
+      },
+      {
+        "lang": "sh",
+        "name": "Kaka (ptica)"
+      },
+      {
+        "lang": "sr",
+        "name": "Кака (птица)"
+      },
+      {
+        "lang": "sv",
+        "name": "kaka (fågel)"
+      },
+      {
+        "lang": "uk",
+        "name": "Кака (птах)"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt kaka New Zealand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nestor chathamensis",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Chathami kaka",
+        "synonyms": [
+          "chatham kaka"
+        ]
+      }
+    ]
+  }
+]

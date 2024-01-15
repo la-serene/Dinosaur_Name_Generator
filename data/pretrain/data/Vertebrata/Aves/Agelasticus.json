@@ -1,0 +1,41 @@
+[
+  {
+    "scientific_name": "Agelasticus xanthophthalmus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale-eyed Blackbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Agelasticus thilius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-winged Blackbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Sargento"
+      },
+      {
+        "lang": "es",
+        "name": "Varillero aliamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Agelasticus cyanopus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Unicoloured Blackbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Carretão"
+      }
+    ]
+  }
+]

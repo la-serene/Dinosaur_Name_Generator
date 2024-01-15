@@ -1,0 +1,415 @@
+[
+  {
+    "scientific_name": "Syrmaticus soemmerringii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Fazan Soemmerring"
+      },
+      {
+        "lang": "de",
+        "name": "Kupferfasan"
+      },
+      {
+        "lang": "en",
+        "name": "Copper Pheasant"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán cobrizo"
+      },
+      {
+        "lang": "fa ",
+        "name": "قرقاول مسی"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan scintillant"
+      },
+      {
+        "lang": "hu",
+        "name": "Rézfácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano ramato"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Koperfazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "تانبہ بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "kopparfasan"
+      },
+      {
+        "lang": "zh",
+        "name": "銅長尾雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Syrmaticus reevesii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Fazan lid"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant královský"
+      },
+      {
+        "lang": "da",
+        "name": "Kongefasan"
+      },
+      {
+        "lang": "de",
+        "name": "Königsfasan"
+      },
+      {
+        "lang": "en",
+        "name": "Reeves's Pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Reĝa fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán Venerado"
+      },
+      {
+        "lang": "et",
+        "name": "kuningfaasan"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasfasaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan vénéré"
+      },
+      {
+        "lang": "ga",
+        "name": "Piasún Reeves"
+      },
+      {
+        "lang": "he",
+        "name": "פסיון מלכותי"
+      },
+      {
+        "lang": "hu",
+        "name": "királyfácán"
+      },
+      {
+        "lang": "is",
+        "name": "Konungsfasani"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano venerato"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガキジ"
+      },
+      {
+        "lang": "kk",
+        "name": "Патша қырғауылы"
+      },
+      {
+        "lang": "lt",
+        "name": "Karališkasis fazanas"
+      },
+      {
+        "lang": "nl",
+        "name": "Koningsfazant"
+      },
+      {
+        "lang": "no",
+        "name": "Kongefasan"
+      },
+      {
+        "lang": "pl",
+        "name": "Bażant królewski"
+      },
+      {
+        "lang": "pt",
+        "name": "Faisão-venerado"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрый китайский фазан"
+      },
+      {
+        "lang": "sk",
+        "name": "Bažant kráľovský"
+      },
+      {
+        "lang": "sl",
+        "name": "Kraljevi fazan"
+      },
+      {
+        "lang": "sv",
+        "name": "Kungsfasan"
+      },
+      {
+        "lang": "tr",
+        "name": "Kral Sülün"
+      },
+      {
+        "lang": "uk",
+        "name": "Королівський фазан"
+      },
+      {
+        "lang": "zea",
+        "name": "Koniengsfezante"
+      },
+      {
+        "lang": "zh",
+        "name": "白冠长尾雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Syrmaticus mikado",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Микадо"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan mikado"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà mikado"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Mikado"
+      },
+      {
+        "lang": "da",
+        "name": "Mikadofasan"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan mikado"
+      },
+      {
+        "lang": "hu",
+        "name": "Mikádófácán"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカドキジ"
+      },
+      {
+        "lang": "nl",
+        "name": "Mikadofazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Bażant tajwański"
+      },
+      {
+        "lang": "pnb",
+        "name": "میکاڈو بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "mikadofasan"
+      },
+      {
+        "lang": "de",
+        "name": "Mikadofasan"
+      },
+      {
+        "lang": "en",
+        "name": "Mikado pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra longovosta fazano"
+      },
+      {
+        "lang": "zh",
+        "name": "帝雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Syrmaticus humiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mrs Hume's Pheasant"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ฟ้าหางลายขวาง"
+      },
+      {
+        "lang": "bg",
+        "name": "Фазан на Юм"
+      },
+      {
+        "lang": "bh",
+        "name": "सिरामैटिकस ह्यूमाई"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Hume"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Hume"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Humeové"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Hume"
+      },
+      {
+        "lang": "de",
+        "name": "Burmafasan"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakola longvosta fazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan de Hume"
+      },
+      {
+        "lang": "hi",
+        "name": "धारीदार पूँछ वाला तीतर"
+      },
+      {
+        "lang": "hu",
+        "name": "Burmai fácán"
+      },
+      {
+        "lang": "ja",
+        "name": "ビルマカラヤマドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hume's fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہیوم دا ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "Humes fasan"
+      },
+      {
+        "lang": "zh",
+        "name": "黑颈长尾雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Syrmaticus ellioti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Elliot's Pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankkola longvosta fazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan d'Elliot"
+      },
+      {
+        "lang": "hu",
+        "name": "Elliot-fácán"
+      },
+      {
+        "lang": "bg",
+        "name": "Елиотов фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Elliot"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'Elliot"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Elliotův"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Elliot"
+      },
+      {
+        "lang": "da",
+        "name": "Elliotts fasan"
+      },
+      {
+        "lang": "de",
+        "name": "Elliotfasan"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول الیوت"
+      },
+      {
+        "lang": "ja",
+        "name": "カラヤマドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Elliots fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "ایلیٹ بن ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрый фазан Эллиота"
+      },
+      {
+        "lang": "simple",
+        "name": "Elliot's Pheasant"
+      },
+      {
+        "lang": "sk",
+        "name": "Bažant pásavý"
+      },
+      {
+        "lang": "sv",
+        "name": "elliotfasan"
+      },
+      {
+        "lang": "zh",
+        "name": "白颈长尾雉"
+      }
+    ]
+  }
+]

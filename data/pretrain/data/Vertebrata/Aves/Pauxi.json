@@ -1,0 +1,181 @@
+[
+  {
+    "scientific_name": "Pauxi unicornis",
+    "common_names": [
+      {
+        "lang": "fr",
+        "name": "Hocco unicorne"
+      },
+      {
+        "lang": "sv",
+        "name": "Hornhocko"
+      },
+      {
+        "lang": "es",
+        "name": "Paujil unicornio"
+      },
+      {
+        "lang": "ar",
+        "name": "قراز مقرن"
+      },
+      {
+        "lang": "bg",
+        "name": "Рогат кракс"
+      },
+      {
+        "lang": "ca",
+        "name": "Hoco unicorne"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwrasow corniog"
+      },
+      {
+        "lang": "en",
+        "name": "Horned curassow"
+      },
+      {
+        "lang": "eo",
+        "name": "Unukorna mutuo"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکل‌فری شاخ‌دار"
+      },
+      {
+        "lang": "hu",
+        "name": "Szarvas hokkó"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミカブトホウカンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hoornhokko"
+      },
+      {
+        "lang": "nv",
+        "name": "Atseentélí bideeʼ hólóní"
+      },
+      {
+        "lang": "pl",
+        "name": "Czubacz rogaty"
+      },
+      {
+        "lang": "ru",
+        "name": "Рогатый кракс"
+      },
+      {
+        "lang": "sr",
+        "name": "Крунасти курасо"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pauxi pauxi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Helmeted Curassow"
+      },
+      {
+        "lang": "fi",
+        "name": "Venezuelankypärähokko"
+      },
+      {
+        "lang": "fr",
+        "name": "Hocco à pierre"
+      },
+      {
+        "lang": "sv",
+        "name": "nordlig hjälmhocko"
+      },
+      {
+        "lang": "ar",
+        "name": "قراز مخوذ"
+      },
+      {
+        "lang": "bg",
+        "name": "Шлемоглаво кракси"
+      },
+      {
+        "lang": "ca",
+        "name": "Hoco d'elm"
+      },
+      {
+        "lang": "cs",
+        "name": "Hoko přílbový"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwrasow helmog"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaskomutuo"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکل‌فری کلاه‌پوش"
+      },
+      {
+        "lang": "ja",
+        "name": "カブトホウカンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Helmhokko"
+      },
+      {
+        "lang": "nv",
+        "name": "Atseentélí bichʼahígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Czubacz hełmiasty"
+      },
+      {
+        "lang": "ru",
+        "name": "Шлемоносный кракс"
+      },
+      {
+        "lang": "sr",
+        "name": "Шлемасти курасо"
+      },
+      {
+        "lang": "zh",
+        "name": "灰鳳冠雉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pauxi koepckeae",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "راز سيرا"
+      },
+      {
+        "lang": "en",
+        "name": "Sira curassow"
+      },
+      {
+        "lang": "fr",
+        "name": "Hocco de Koepcke"
+      },
+      {
+        "lang": "sv",
+        "name": "Sirahocko"
+      },
+      {
+        "lang": "eo",
+        "name": "Sira mutuo"
+      },
+      {
+        "lang": "nl",
+        "name": "Sirahokko"
+      }
+    ]
+  }
+]

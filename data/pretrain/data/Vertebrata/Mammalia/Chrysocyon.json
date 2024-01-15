@@ -1,0 +1,75 @@
+[
+  {
+    "scientific_name": "Chrysocyon brachyurus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Mähnenwolf"
+      },
+      {
+        "lang": "en",
+        "name": "Maned Wolf"
+      },
+      {
+        "lang": "es",
+        "name": "Aguara Guazu"
+      },
+      {
+        "lang": "et",
+        "name": "Lakkhunt"
+      },
+      {
+        "lang": "fr",
+        "name": "Loup à crinière"
+      },
+      {
+        "lang": "gl",
+        "name": "Lobo de crina"
+      },
+      {
+        "lang": "gn",
+        "name": "Aguara Guazu"
+      },
+      {
+        "lang": "he",
+        "name": "זאב הרעמה"
+      },
+      {
+        "lang": "hu",
+        "name": "Sörényes farkas"
+      },
+      {
+        "lang": "ja",
+        "name": "タテガミオオカミ"
+      },
+      {
+        "lang": "ko",
+        "name": "갈기늑대"
+      },
+      {
+        "lang": "nl",
+        "name": "Manenwolf"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilk grzywiasty"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo-guará"
+      },
+      {
+        "lang": "ru",
+        "name": "Гривистый волк"
+      },
+      {
+        "lang": "th",
+        "name": "หมาป่าเคราขาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeleli kurt"
+      }
+    ]
+  }
+]

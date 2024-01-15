@@ -1,0 +1,218 @@
+[
+  {
+    "scientific_name": "Ramphocelus sanguinolentus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crimson-collared Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara acollarada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus passerinii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet-rumped Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara terciopelo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus nigrogularis",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Pipira-de-máscara"
+      },
+      {
+        "lang": "en",
+        "name": "Masked Crimson Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara enmascarada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus melanogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hallaga Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Huallaga"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus icteronotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-rumped Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara culigualda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus flammigerus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flame-rumped Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara flamígera"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus dimidiatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tangara karmínová"
+      },
+      {
+        "lang": "da",
+        "name": "Rødrygget Fløjlstangar"
+      },
+      {
+        "lang": "de",
+        "name": "Scharlachbauchtangare"
+      },
+      {
+        "lang": "en",
+        "name": "Crimson-backed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara Dorsirroja"
+      },
+      {
+        "lang": "et",
+        "name": "aed-karmiintangara"
+      },
+      {
+        "lang": "fi",
+        "name": "tarhatangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à dos rouge"
+      },
+      {
+        "lang": "hu",
+        "name": "kárminhátú tangara"
+      },
+      {
+        "lang": "it",
+        "name": "Tangara dorsocremisi"
+      },
+      {
+        "lang": "ja",
+        "name": "セアカフウキンチョウ",
+        "synonyms": [
+          "seakafuukinchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Roodbuiktangare"
+      },
+      {
+        "lang": "no",
+        "name": "Karmingumptanagar"
+      },
+      {
+        "lang": "pl",
+        "name": "tapiranga szkarlatna"
+      },
+      {
+        "lang": "ru",
+        "name": "Малиновобрюхая расписная танагра"
+      },
+      {
+        "lang": "sk",
+        "name": "sangara šarlátová"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödryggad tapiranga"
+      },
+      {
+        "lang": "zh",
+        "name": "绯背厚嘴唐纳雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus carbo",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Tanagr pigwyn"
+      },
+      {
+        "lang": "en",
+        "name": "Silver-beaked Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara picoplata"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à bec d'argent"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstcsőrű tangara"
+      },
+      {
+        "lang": "nl",
+        "name": "Fluweeltangare"
+      },
+      {
+        "lang": "pt",
+        "name": "Pipira-vermelha"
+      },
+      {
+        "lang": "sv",
+        "name": "Silvernäbbad tangara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ramphocelus bresilia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brazilian Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Tiê-sangue"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara brasileña"
+      }
+    ]
+  }
+]

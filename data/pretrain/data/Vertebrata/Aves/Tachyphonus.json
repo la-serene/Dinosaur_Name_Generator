@@ -1,0 +1,165 @@
+[
+  {
+    "scientific_name": "Tachyphonus surinamus",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "tem-tem-de-topete-ferrugíneo"
+      },
+      {
+        "lang": "en",
+        "name": "Fulvous-crested Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara crestifulva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyphonus rufus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tangara černá"
+      },
+      {
+        "lang": "da",
+        "name": "Sorttangar"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarztangare"
+      },
+      {
+        "lang": "en",
+        "name": "White-lined Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara negra"
+      },
+      {
+        "lang": "fi",
+        "name": "mustatangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à galons blancs"
+      },
+      {
+        "lang": "gn",
+        "name": "Jurundi",
+        "synonyms": [
+          "Sai hû"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Tangara nera"
+      },
+      {
+        "lang": "ja",
+        "name": "クロフウキンチョウ",
+        "synonyms": [
+          "kurofuukinchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte Tangare"
+      },
+      {
+        "lang": "no",
+        "name": "Svarttanagar"
+      },
+      {
+        "lang": "pl",
+        "name": "żałobnik czarny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Pipira-preta"
+      },
+      {
+        "lang": "pt",
+        "name": "Pipira-preta"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрная украшенная танагра"
+      },
+      {
+        "lang": "sk",
+        "name": "sangara čierna"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarttangara"
+      },
+      {
+        "lang": "zh",
+        "name": "纹肩黑唐纳雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyphonus rufiventer",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tachyphonus phoenicius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-shouldered Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Tem-tem-de-dragona-vermelha"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de galones"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyphonus luctuosus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tachyphonus delatrii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tawny-crested Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Delattre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyphonus cristatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tachyphonus coronatus",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Tié-preto"
+      },
+      {
+        "lang": "en",
+        "name": "Ruby-crowned Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara coronada"
+      }
+    ]
+  }
+]

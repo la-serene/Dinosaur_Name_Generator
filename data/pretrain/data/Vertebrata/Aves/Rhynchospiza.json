@@ -1,0 +1,45 @@
+[
+  {
+    "scientific_name": "Rhynchospiza strigiceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stripe-capped Sparrow; Chaco Sparrow"
+      },
+      {
+        "lang": "eo",
+        "name": "Strikrona ajmofilo"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo coronicastaño"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à calotte rayée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhynchospiza stolzmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tumbes Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo de Tumbes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhynchospiza dabbenei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yungas Sparrow"
+      }
+    ]
+  }
+]

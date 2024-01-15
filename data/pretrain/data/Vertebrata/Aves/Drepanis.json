@@ -1,0 +1,61 @@
+[
+  {
+    "scientific_name": "Drepanis pacifica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hawaii Mamo"
+      },
+      {
+        "lang": "haw",
+        "name": "Mamo"
+      },
+      {
+        "lang": "tr",
+        "name": "Hawaii mamosu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Drepanis funerea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Mamo"
+      },
+      {
+        "lang": "haw",
+        "name": "Mamo"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara mamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Drepanis coccinea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "ʻIʻiwi"
+      },
+      {
+        "lang": "fr",
+        "name": "Iiwi rouge"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻiʻiwi"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニハワイミツスイ"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрно-алая гавайская цветочница"
+      }
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "scientific_name": "Heliangelus viola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-throated Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí violeta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus strophianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gorgeted Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí pectoral"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus spencei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Merida Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Mérida"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus regalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Royal Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí Real"
+      },
+      {
+        "lang": "fr",
+        "name": "Héliange Royale"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí àngel blau"
+      },
+      {
+        "lang": "cy",
+        "name": "Haulangel brenhinol"
+      },
+      {
+        "lang": "de",
+        "name": "Blaue Sonnennymphe"
+      },
+      {
+        "lang": "hu",
+        "name": "Királyi napfénykolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Peruaanse zonnekolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "kungssolängel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus micraster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Sunangel"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuenkelikolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí lucero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus mavors",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-throated Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Marte"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus exortis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tourmaline Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí turmalina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus clarisse",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Longuemare's Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Clarissa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heliangelus amethysticollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Amethyst-throated Sunangel"
+      },
+      {
+        "lang": "fr",
+        "name": "Héliange à gorge améthyste"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí gorjiamatista"
+      }
+    ]
+  }
+]

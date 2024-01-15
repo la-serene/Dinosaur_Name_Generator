@@ -1,0 +1,502 @@
+[
+  {
+    "scientific_name": "Giraffa stillei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa sivalensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa punjabiensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa priscilla",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa gracilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa pygmaea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa jumae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa camelopardalis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "kameelperd"
+      },
+      {
+        "lang": "ak",
+        "name": "Yoma"
+      },
+      {
+        "lang": "am",
+        "name": "ቀጭኔ"
+      },
+      {
+        "lang": "ar",
+        "name": "زرافة"
+      },
+      {
+        "lang": "ast",
+        "name": "Xirafa"
+      },
+      {
+        "lang": "az",
+        "name": "Zürafə"
+      },
+      {
+        "lang": "bm",
+        "name": "Ntilen"
+      },
+      {
+        "lang": "bn",
+        "name": "জিরাফ"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Tn̂g-ām-lo̍k"
+      },
+      {
+        "lang": "be",
+        "name": "Жырафа"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Жырафа"
+      },
+      {
+        "lang": "bg",
+        "name": "Жираф"
+      },
+      {
+        "lang": "bo",
+        "name": "ཤ་བ་སྐེ་རིང་།"
+      },
+      {
+        "lang": "bs",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "br",
+        "name": "Jirafenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Girafa"
+      },
+      {
+        "lang": "ceb",
+        "name": "Hirapa"
+      },
+      {
+        "lang": "cs",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "sn",
+        "name": "Twiza"
+      },
+      {
+        "lang": "da",
+        "name": "Giraf"
+      },
+      {
+        "lang": "de",
+        "name": "Giraffe"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsin yilátah ayání"
+      },
+      {
+        "lang": "en",
+        "name": "Northern giraffe"
+      },
+      {
+        "lang": "et",
+        "name": "Kaelkirjak"
+      },
+      {
+        "lang": "el",
+        "name": "Καμηλοπάρδαλη"
+      },
+      {
+        "lang": "es",
+        "name": "Jirafa"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĝirafo"
+      },
+      {
+        "lang": "eu",
+        "name": "Jirafa"
+      },
+      {
+        "lang": "fa",
+        "name": "زرافه"
+      },
+      {
+        "lang": "fo",
+        "name": "Giraffur"
+      },
+      {
+        "lang": "fr",
+        "name": "Girafe"
+      },
+      {
+        "lang": "ga",
+        "name": "Sioráf"
+      },
+      {
+        "lang": "gv",
+        "name": "Mwannalagh"
+      },
+      {
+        "lang": "gd",
+        "name": "Sioraf"
+      },
+      {
+        "lang": "gl",
+        "name": "Xirafa"
+      },
+      {
+        "lang": "gan",
+        "name": "長頸鹿"
+      },
+      {
+        "lang": "gu",
+        "name": "જિરાફ"
+      },
+      {
+        "lang": "hak",
+        "name": "Chhòng-kiáng-lu̍k"
+      },
+      {
+        "lang": "haw",
+        "name": "Kilape",
+        "synonyms": [
+          "Kamelopaki"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "기린"
+      },
+      {
+        "lang": "ha",
+        "name": "Raƙumin dawa"
+      },
+      {
+        "lang": "hi",
+        "name": "जिराफ़"
+      },
+      {
+        "lang": "hr",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "io",
+        "name": "Jirafo"
+      },
+      {
+        "lang": "id",
+        "name": "Jerapah"
+      },
+      {
+        "lang": "zu",
+        "name": "Indlulamithi"
+      },
+      {
+        "lang": "is",
+        "name": "Gíraffi"
+      },
+      {
+        "lang": "it",
+        "name": "Giraffa"
+      },
+      {
+        "lang": "he",
+        "name": "ג'ירף"
+      },
+      {
+        "lang": "jv",
+        "name": "Jerapah"
+      },
+      {
+        "lang": "kn",
+        "name": "ಜಿರಾಫೆ"
+      },
+      {
+        "lang": "krc",
+        "name": "Сурахай"
+      },
+      {
+        "lang": "kk",
+        "name": "Керік"
+      },
+      {
+        "lang": "sw",
+        "name": "Twiga"
+      },
+      {
+        "lang": "ht",
+        "name": "Jiraf"
+      },
+      {
+        "lang": "ku",
+        "name": "Canhêştir"
+      },
+      {
+        "lang": "lbe",
+        "name": "СсурухӀи"
+      },
+      {
+        "lang": "lv",
+        "name": "Žirafe"
+      },
+      {
+        "lang": "lb",
+        "name": "Giraff"
+      },
+      {
+        "lang": "lt",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "ln",
+        "name": "Dikálá"
+      },
+      {
+        "lang": "jbo",
+        "name": "djirafa"
+      },
+      {
+        "lang": "hu",
+        "name": "zsiráf"
+      },
+      {
+        "lang": "mk",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ml",
+        "name": "ജിറാഫ്"
+      },
+      {
+        "lang": "mr",
+        "name": "जिराफ"
+      },
+      {
+        "lang": "arz",
+        "name": "زرافه"
+      },
+      {
+        "lang": "ms",
+        "name": "Zirafah"
+      },
+      {
+        "lang": "mn",
+        "name": "Анааш"
+      },
+      {
+        "lang": "my",
+        "name": "သစ်ကုလားအုပ်"
+      },
+      {
+        "lang": "nl",
+        "name": "giraffe"
+      },
+      {
+        "lang": "ne",
+        "name": "जिराफ"
+      },
+      {
+        "lang": "ja",
+        "name": "キリン"
+      },
+      {
+        "lang": "no",
+        "name": "Sjiraff"
+      },
+      {
+        "lang": "nn",
+        "name": "Sjiraff"
+      },
+      {
+        "lang": "nrm",
+        "name": "Girafe"
+      },
+      {
+        "lang": "mhr",
+        "name": "Жираф"
+      },
+      {
+        "lang": "pnb",
+        "name": "زرافہ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Girafe"
+      },
+      {
+        "lang": "pl",
+        "name": "Żyrafa"
+      },
+      {
+        "lang": "pt",
+        "name": "Girafa"
+      },
+      {
+        "lang": "ro",
+        "name": "Girafă"
+      },
+      {
+        "lang": "qu",
+        "name": "Hirapha"
+      },
+      {
+        "lang": "rue",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ru",
+        "name": "Жираф"
+      },
+      {
+        "lang": "sg",
+        "name": "Kôlo"
+      },
+      {
+        "lang": "nso",
+        "name": "Thutlwa"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjirafa"
+      },
+      {
+        "lang": "scn",
+        "name": "Giraffa"
+      },
+      {
+        "lang": "si",
+        "name": "ජිරාෆ්"
+      },
+      {
+        "lang": "simple",
+        "name": "Giraffe"
+      },
+      {
+        "lang": "sk",
+        "name": "Žirafa štíhla"
+      },
+      {
+        "lang": "sl",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "so",
+        "name": "Geri"
+      },
+      {
+        "lang": "ckb",
+        "name": "زەڕافە"
+      },
+      {
+        "lang": "sr",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "su",
+        "name": "Jarapah"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirahvi"
+      },
+      {
+        "lang": "sv",
+        "name": "Giraff"
+      },
+      {
+        "lang": "ta",
+        "name": "ஒட்டகச் சிவிங்கி"
+      },
+      {
+        "lang": "kab",
+        "name": "Amdeɣ"
+      },
+      {
+        "lang": "te",
+        "name": "జిరాఫీ"
+      },
+      {
+        "lang": "th",
+        "name": "ยีราฟ"
+      },
+      {
+        "lang": "tg",
+        "name": "Зарофа"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏗᎦᎵᏍᏚᎩᏍᎩ"
+      },
+      {
+        "lang": "chy",
+        "name": "Tsêhe'êsenotováhe"
+      },
+      {
+        "lang": "tr",
+        "name": "Zürafa"
+      },
+      {
+        "lang": "udm",
+        "name": "Жираф"
+      },
+      {
+        "lang": "uk",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ur",
+        "name": "زرافہ"
+      },
+      {
+        "lang": "ug",
+        "name": "زىراپە"
+      },
+      {
+        "lang": "vi",
+        "name": "Hươu cao cổ"
+      },
+      {
+        "lang": "yi",
+        "name": "זשיראף"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "長頸鹿"
+      },
+      {
+        "lang": "diq",
+        "name": "Zırafa"
+      },
+      {
+        "lang": "zh",
+        "name": "长颈鹿"
+      }
+    ]
+  }
+]

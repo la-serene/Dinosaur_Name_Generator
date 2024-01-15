@@ -1,0 +1,117 @@
+[
+  {
+    "scientific_name": "Platyrinchus saturatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-crested Spadebill"
+      },
+      {
+        "lang": "pt",
+        "name": "Patinho-escuro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus platyrhynchos",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-crested Spadebill"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus mystaceus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano bigotudo"
+      },
+      {
+        "lang": "pt",
+        "name": "Patinho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus leucoryphus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Russet-winged Spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picochato chico"
+      },
+      {
+        "lang": "cy",
+        "name": "Llydanbig adeingoch"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌بیلچه‌ای بال‌خرمایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Platyrhynque à ailes rousses"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodvleugelbreedbektiran"
+      },
+      {
+        "lang": "sv",
+        "name": "brunvingad spadnäbb"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus flavigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano gorgiamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus coronatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-crowned spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano coronado"
+      },
+      {
+        "lang": "pt",
+        "name": "Patinho-de-coroa-dourada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platyrinchus cancrominus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stub-tailed spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano rabón"
+      }
+    ]
+  }
+]

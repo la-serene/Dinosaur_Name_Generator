@@ -1,0 +1,160 @@
+[
+  {
+    "scientific_name": "Capricornis swinhoei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Taiwan Serow"
+      },
+      {
+        "lang": "hu",
+        "name": "Tajvani széró"
+      },
+      {
+        "lang": "pl",
+        "name": "Serau tajwański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capricornis sumatraensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sumatran serow"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai széró"
+      },
+      {
+        "lang": "id",
+        "name": "Kambing hutan sumatra"
+      },
+      {
+        "lang": "ja",
+        "name": "スマトラカモシカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Serau białogrzywy"
+      },
+      {
+        "lang": "th",
+        "name": "เลียงผาใต้",
+        "synonyms": [
+          "เลียงผา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capricornis rubidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red Serow"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös széró"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capricornis crispus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "سيرو ياباني"
+      },
+      {
+        "lang": "az",
+        "name": "Yapon serousu"
+      },
+      {
+        "lang": "cs",
+        "name": "Serau malý"
+      },
+      {
+        "lang": "de",
+        "name": "Japan-Serau"
+      },
+      {
+        "lang": "en",
+        "name": "Japanese Serow"
+      },
+      {
+        "lang": "eo",
+        "name": "Japana serovo"
+      },
+      {
+        "lang": "es",
+        "name": "Sirao de Japón"
+      },
+      {
+        "lang": "fr",
+        "name": "Serow du Japon"
+      },
+      {
+        "lang": "hu",
+        "name": "Japán széró",
+        "synonyms": [
+          "japán kecskeszarvú zerge"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Capricorno del Giappone"
+      },
+      {
+        "lang": "ja",
+        "name": "ニホンカモシカ"
+      },
+      {
+        "lang": "ko",
+        "name": "일본산양"
+      },
+      {
+        "lang": "lt",
+        "name": "Japoninis goralas"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse bosgems"
+      },
+      {
+        "lang": "nv",
+        "name": "Dibé dághaaʼígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Serau kędzierzawy"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский серау"
+      },
+      {
+        "lang": "sr",
+        "name": "Јапански серов"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk serov"
+      },
+      {
+        "lang": "vi",
+        "name": "Tỳ linh Nhật Bản"
+      },
+      {
+        "lang": "war",
+        "name": "Naemorhedus crispus"
+      },
+      {
+        "lang": "zh",
+        "name": "日本髭羚"
+      }
+    ]
+  }
+]

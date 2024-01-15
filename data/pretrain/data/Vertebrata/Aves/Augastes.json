@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Augastes scutatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hyacinth Visorbearer"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colaceleste"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-gravata-verde"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Augastes lumachella",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hooded Visorbearer"
+      },
+      {
+        "lang": "pt",
+        "name": "beija-flor-de-gravata-vermelha"
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "scientific_name": "Jacana spinosa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ostnák trnitý"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanjassana"
+      },
+      {
+        "lang": "sv",
+        "name": "Centralamerikansk jaçana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Jacana jacana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ostnák jihoamerický"
+      },
+      {
+        "lang": "da",
+        "name": "Jacana"
+      },
+      {
+        "lang": "de",
+        "name": "Rotstirn-Blatthühnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Wattled Jacana"
+      },
+      {
+        "lang": "eo",
+        "name": "Jakanao"
+      },
+      {
+        "lang": "es",
+        "name": "Jacana común"
+      },
+      {
+        "lang": "et",
+        "name": "Lokutjassaana"
+      },
+      {
+        "lang": "fi",
+        "name": "Helttajassana"
+      },
+      {
+        "lang": "fr",
+        "name": "Jacana noir"
+      },
+      {
+        "lang": "gl",
+        "name": "Xacana de fronte vermella"
+      },
+      {
+        "lang": "gn",
+        "name": "Aguapeaso"
+      },
+      {
+        "lang": "hu",
+        "name": "Jasszána"
+      },
+      {
+        "lang": "it",
+        "name": "Jacana dai barbigli"
+      },
+      {
+        "lang": "ja",
+        "name": "ナンベイレンカク"
+      },
+      {
+        "lang": "lt",
+        "name": "Ūsuotoji žakana"
+      },
+      {
+        "lang": "lv",
+        "name": "Sekstes jakana"
+      },
+      {
+        "lang": "nl",
+        "name": "Leljacana"
+      },
+      {
+        "lang": "no",
+        "name": "Rødflikbladhøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Długoszpon krasnoczelny"
+      },
+      {
+        "lang": "pt",
+        "name": "Jaçanã"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Jaçanã"
+      },
+      {
+        "lang": "ru",
+        "name": "Якана"
+      },
+      {
+        "lang": "sk",
+        "name": "Jakana červenočelá"
+      },
+      {
+        "lang": "sv",
+        "name": "Flikjacana"
+      },
+      {
+        "lang": "zh",
+        "name": "肉垂水雉"
+      }
+    ]
+  }
+]

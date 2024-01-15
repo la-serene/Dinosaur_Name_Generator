@@ -1,0 +1,316 @@
+[
+  {
+    "scientific_name": "Capreolus tokunagai",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Miyako Roe Deer"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤコノロ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capreolus pygargus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Sibirisches Reh"
+      },
+      {
+        "lang": "el",
+        "name": "Καπρέολος ο πύγαγρος"
+      },
+      {
+        "lang": "en",
+        "name": "Siberian Roe Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Corzo siberiano o asiático"
+      },
+      {
+        "lang": "eo",
+        "name": "Siberia kapreolo"
+      },
+      {
+        "lang": "hu",
+        "name": "Szibériai őz"
+      },
+      {
+        "lang": "pl",
+        "name": "Sarna syberyjska"
+      },
+      {
+        "lang": "ru",
+        "name": "[[:ru:Сибирская косуля"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capreolus capreolus",
+    "common_names": [
+      {
+        "lang": "kbd",
+        "name": "Мэзбжэн"
+      },
+      {
+        "lang": "ar",
+        "name": "يحمور أوروبي"
+      },
+      {
+        "lang": "az",
+        "name": "Avropa cüyürü"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Stirna"
+      },
+      {
+        "lang": "be",
+        "name": "Казуля еўрапейская"
+      },
+      {
+        "lang": "bg",
+        "name": "Сърна"
+      },
+      {
+        "lang": "br",
+        "name": "Yourc'h"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabirol"
+      },
+      {
+        "lang": "ce",
+        "name": "Лу"
+      },
+      {
+        "lang": "cs",
+        "name": "Srnec obecný"
+      },
+      {
+        "lang": "cv",
+        "name": "Хир качаки"
+      },
+      {
+        "lang": "cy",
+        "name": "Iwrch"
+      },
+      {
+        "lang": "da",
+        "name": "Rådyr"
+      },
+      {
+        "lang": "de",
+        "name": "Reh"
+      },
+      {
+        "lang": "el",
+        "name": "Καπρέολος"
+      },
+      {
+        "lang": "en",
+        "name": "Roe Deer"
+      },
+      {
+        "lang": "eo",
+        "name": "Kapreolo"
+      },
+      {
+        "lang": "es",
+        "name": "Corzo europeo"
+      },
+      {
+        "lang": "et",
+        "name": "Metskits"
+      },
+      {
+        "lang": "eu",
+        "name": "Orkatz"
+      },
+      {
+        "lang": "fa",
+        "name": "شوکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäkauris"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevreuil"
+      },
+      {
+        "lang": "fy",
+        "name": "Ree"
+      },
+      {
+        "lang": "ga",
+        "name": "Fia odhar"
+      },
+      {
+        "lang": "gl",
+        "name": "Corzo"
+      },
+      {
+        "lang": "he",
+        "name": "אייל הכרמל"
+      },
+      {
+        "lang": "hr",
+        "name": "Srna"
+      },
+      {
+        "lang": "hu",
+        "name": "Európai őz",
+        "synonyms": [
+          "őz"
+        ]
+      },
+      {
+        "lang": "hy",
+        "name": "Այծյամ"
+      },
+      {
+        "lang": "id",
+        "name": "Rusa Roe"
+      },
+      {
+        "lang": "io",
+        "name": "Kapreolo"
+      },
+      {
+        "lang": "it",
+        "name": "Capriolo"
+      },
+      {
+        "lang": "ja",
+        "name": "ノロジカ"
+      },
+      {
+        "lang": "kl",
+        "name": "Oqinninnguaq"
+      },
+      {
+        "lang": "ko",
+        "name": "유럽노루"
+      },
+      {
+        "lang": "lb",
+        "name": "Réi"
+      },
+      {
+        "lang": "ltg",
+        "name": "Meža koza"
+      },
+      {
+        "lang": "lv",
+        "name": "Stirna"
+      },
+      {
+        "lang": "lt",
+        "name": "Stirna"
+      },
+      {
+        "lang": "mk",
+        "name": "Срна"
+      },
+      {
+        "lang": "mzn",
+        "name": "شوکا"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Haart"
+      },
+      {
+        "lang": "nl",
+        "name": "Ree"
+      },
+      {
+        "lang": "no",
+        "name": "Rådyr"
+      },
+      {
+        "lang": "nn",
+        "name": "Rådyr"
+      },
+      {
+        "lang": "os",
+        "name": "Сæгуыт"
+      },
+      {
+        "lang": "pcd",
+        "name": "Chevreu"
+      },
+      {
+        "lang": "pl",
+        "name": "Sarna europejska"
+      },
+      {
+        "lang": "pt",
+        "name": "Corça"
+      },
+      {
+        "lang": "ro",
+        "name": "Căprioară"
+      },
+      {
+        "lang": "ru",
+        "name": "Европейская косуля"
+      },
+      {
+        "lang": "sah",
+        "name": "Туртас"
+      },
+      {
+        "lang": "sk",
+        "name": "Srnec lesný"
+      },
+      {
+        "lang": "sl",
+        "name": "Srna"
+      },
+      {
+        "lang": "sq",
+        "name": "Kaprolli"
+      },
+      {
+        "lang": "sr",
+        "name": "Срна"
+      },
+      {
+        "lang": "stq",
+        "name": "Räi"
+      },
+      {
+        "lang": "sv",
+        "name": "Rådjur"
+      },
+      {
+        "lang": "tr",
+        "name": "Karaca"
+      },
+      {
+        "lang": "uk",
+        "name": "Косуля"
+      },
+      {
+        "lang": "wa",
+        "name": "Tchivroû"
+      },
+      {
+        "lang": "vls",
+        "name": "Ree"
+      },
+      {
+        "lang": "zh",
+        "name": "西方狍"
+      }
+    ]
+  }
+]

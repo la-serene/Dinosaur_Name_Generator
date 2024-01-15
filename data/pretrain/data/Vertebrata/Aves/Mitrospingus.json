@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Mitrospingus oleagineus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive-backed Tanager"
+      },
+      {
+        "lang": "nl",
+        "name": "Olijfrugtangare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mitrospingus cassinii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky-faced Tanager"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkosilmätangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara obscur"
+      }
+    ]
+  }
+]

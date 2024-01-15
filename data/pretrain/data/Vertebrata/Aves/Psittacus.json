@@ -1,0 +1,252 @@
+[
+  {
+    "scientific_name": "Psittacus timneh",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Timneh Parrot"
+      },
+      {
+        "lang": "zh",
+        "name": "非洲灰鸚鵡"
+      },
+      {
+        "lang": "ca",
+        "name": "Lloro gris cua de vinagre"
+      },
+      {
+        "lang": "de",
+        "name": "Timneh-Graupapagei"
+      },
+      {
+        "lang": "es",
+        "name": "Loro timneh"
+      },
+      {
+        "lang": "fr",
+        "name": "Perroquet timneh"
+      },
+      {
+        "lang": "ml",
+        "name": "ടിംനെഹ് പാരറ്റ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӱрен пачан жако"
+      },
+      {
+        "lang": "nl",
+        "name": "Timnehpapegaai"
+      },
+      {
+        "lang": "no",
+        "name": "Vestlig jako"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Naakaii Łizhiní Bikéyahdę́ę́ʼ tsídii yáłtiʼí łibáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹمنے طوطا"
+      },
+      {
+        "lang": "sk",
+        "name": "Papagáj sivý timneh"
+      },
+      {
+        "lang": "sv",
+        "name": "Västlig jako"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacus erithacus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gryspapegaai"
+      },
+      {
+        "lang": "ar",
+        "name": "ببغاء رمادي أفريقي"
+      },
+      {
+        "lang": "be",
+        "name": "Жако"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Жако"
+      },
+      {
+        "lang": "bg",
+        "name": "Жако"
+      },
+      {
+        "lang": "br",
+        "name": "Peroked gris Afrika"
+      },
+      {
+        "lang": "ca",
+        "name": "Lloro gris cuavermell"
+      },
+      {
+        "lang": "cs",
+        "name": "Papoušek šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Parot llwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Grå Jaco"
+      },
+      {
+        "lang": "de",
+        "name": "Graupapagei"
+      },
+      {
+        "lang": "el",
+        "name": "Αφρικανικός γκρίζος παπαγάλος"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Parrot"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza papago"
+      },
+      {
+        "lang": "es",
+        "name": "Loro yaco"
+      },
+      {
+        "lang": "fa",
+        "name": "کاسکو"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaapapukaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perroquet jaco"
+      },
+      {
+        "lang": "ga",
+        "name": "Pearóid Afracach"
+      },
+      {
+        "lang": "he",
+        "name": "אפרור אפריקני"
+      },
+      {
+        "lang": "hr",
+        "name": "Žako"
+      },
+      {
+        "lang": "hu",
+        "name": "Jákópapagáj"
+      },
+      {
+        "lang": "hy",
+        "name": "Աֆրիկյան մոխրագույն թութակ"
+      },
+      {
+        "lang": "it",
+        "name": "Pappagallo cenerino"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨウム"
+      },
+      {
+        "lang": "ka",
+        "name": "ჟაკო"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkais papagailis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар пачан жако"
+      },
+      {
+        "lang": "ms",
+        "name": "Parrot Kelabu Afrika"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze roodstaartpapegaai"
+      },
+      {
+        "lang": "no",
+        "name": "Jako"
+      },
+      {
+        "lang": "nv",
+        "name": "Naakaii Łizhiní Bikéyahdę́ę́ʼ tsídii yáłtiʼí łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Żako"
+      },
+      {
+        "lang": "pnb",
+        "name": "افریقی سانول طوطا"
+      },
+      {
+        "lang": "pt",
+        "name": "Papagaio-cinzento"
+      },
+      {
+        "lang": "ro",
+        "name": "Papagalul gri african"
+      },
+      {
+        "lang": "ru",
+        "name": "Жако"
+      },
+      {
+        "lang": "sh",
+        "name": "Žako"
+      },
+      {
+        "lang": "sk",
+        "name": "Papagáj sivý konžský"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråjako"
+      },
+      {
+        "lang": "tr",
+        "name": "Jako"
+      },
+      {
+        "lang": "uk",
+        "name": "Папуга сірий"
+      },
+      {
+        "lang": "uz",
+        "name": "Jako"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt xám châu Phi"
+      },
+      {
+        "lang": "zh",
+        "name": "非洲灰鹦鹉"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Hui-chiu phú eng-ko"
+      }
+    ]
+  }
+]

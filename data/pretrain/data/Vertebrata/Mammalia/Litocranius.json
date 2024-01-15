@@ -1,0 +1,70 @@
+[
+  {
+    "scientific_name": "Litocranius walleri",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Герэнук"
+      },
+      {
+        "lang": "de",
+        "name": "Giraffengazelle"
+      },
+      {
+        "lang": "en",
+        "name": "Gerenuk"
+      },
+      {
+        "lang": "es",
+        "name": "Gerenuc o gacela de Waller"
+      },
+      {
+        "lang": "fi",
+        "name": "Gerenukki"
+      },
+      {
+        "lang": "fr",
+        "name": "Gazelle_de_Waller"
+      },
+      {
+        "lang": "gl",
+        "name": "Antílope xirafa"
+      },
+      {
+        "lang": "hu",
+        "name": "Zsiráfnyakú gazella",
+        "synonyms": [
+          "gerenuk"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ジェレヌク"
+      },
+      {
+        "lang": "ko",
+        "name": "게레눅"
+      },
+      {
+        "lang": "lt",
+        "name": "Žirafinė_gazelė"
+      },
+      {
+        "lang": "nl",
+        "name": "Gerenoek"
+      },
+      {
+        "lang": "pl",
+        "name": "Gerenuk"
+      },
+      {
+        "lang": "pt",
+        "name": "Gazela-girafa"
+      },
+      {
+        "lang": "zh",
+        "name": "長頸羚"
+      }
+    ]
+  }
+]
