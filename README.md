@@ -36,7 +36,7 @@ Here is a description on the command-line arguments:
 --pretrain_epochs: Number of epochs for pretraining. Default: 20.
 --batch_size: Batch size for training. Default: 64.
 --learning_rate: Learning rate for the optimizer. Default: 0.001.
---save_path: Path to save the trained model. Default: ./weight/model_v1.
+--save_path: Path to save the trained model. Default: ./weight/model_v1.keras
 ```
 
 ### Prediction
@@ -51,5 +51,5 @@ Here is a description on the command-line arguments:
 
 ```
 inputs: starting of the name. Required.
---save_path: Path to save the trained model. Default: ./weight/model_v1.
+--save_path: Path to save the trained model. Default: ./weight/model_v1.keras
 ```
