@@ -6,6 +6,7 @@ from tqdm import tqdm
 from utils import *
 
 
+@tf.keras.saving.register_keras_serializable()
 class Generator(tf.keras.Model):
     def __init__(self,
                  vocab_size,
