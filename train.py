@@ -38,7 +38,7 @@ def main():
     # Training on the Dinosaur name pretrain
     generator.train(dataset, loss_fn, optimizer, epochs=args.epochs)
 
-    generator.save_weights(args.save_path)
+    generator.save(args.save_path)
 
     return 0
 
