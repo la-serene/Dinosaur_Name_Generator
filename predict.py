@@ -1,11 +1,12 @@
 import argparse
+from model import Generator
 from utils import *
 
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('inputs', type=str)
-    parser.add_argument('--save_path', type=str, default="./weight/model_v1.keras")
+    parser.add_argument('--start', type=str)
+    parser.add_argument('--save_path', type=str, default="./weights/model_v1.h5")
 
     return parser.parse_args()
 
@@ -13,9 +14,10 @@ def get_args():
 def main():
     args = get_args()
 
-    inputs = args.inputs
-
-    generator = tf.keras.models.load_model(args.save_path)
+    vocab_size = len(vocab) + 1
+    inputs = args.start
+    generator = Generator(vocab_size, 256, 512)
+    generator = generator.load_weights((args.save_path))
     result = generator.predict(inputs)
 
     name = extract_name(result)

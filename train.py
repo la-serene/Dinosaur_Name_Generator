@@ -8,14 +8,14 @@ from data_loading import *
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--training', type=str, default="./data/dino.txt")
-    parser.add_argument('--pretrain', type=str, default="./data/pretrain/data/Vertebrata")
+    parser.add_argument('--pretrain', type=str, default="./data/pretrain")
     parser.add_argument('--hidden_units', type=int, default=256)
-    parser.add_argument('--embedding_size', type=int, default=1024)
+    parser.add_argument('--embedding_size', type=int, default=512)
     parser.add_argument('--epochs', type=int, default=20)
     parser.add_argument('--pretrain_epochs', type=int, default=20)
     parser.add_argument('--batch_size', type=int, default=64)
     parser.add_argument('--learning_rate', type=float, default=0.001)
-    parser.add_argument('--save_path', type=str, default="./weight/model_v1")
+    parser.add_argument('--save_path', type=str, default="./weights/model_v1.h5")
 
     return parser.parse_args()
 
@@ -38,7 +38,7 @@ def main():
     # Training on the Dinosaur name pretrain
     generator.train(dataset, loss_fn, optimizer, epochs=args.epochs)
 
-    generator.save(args.save_path)
+    generator.save_weights(args.save_path)
 
     return 0
 

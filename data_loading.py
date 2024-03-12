@@ -4,24 +4,19 @@ import tensorflow as tf
 
 
 def get_pretrain(data_path, BUFFER_SIZE=1024, BATCH_SIZE=64):
-    animal_classes = os.listdir(data_path)
+    files = os.listdir(data_path)
 
     pretrain_context = []
     pretrain_target = []
 
-    for cls in animal_classes:
-        cls_path = os.path.join(data_path, cls)
-        species = os.listdir(cls_path)
+    for file_name in files:
+        file_name = os.path.join(data_path, file_name)
+        with open(file_name, "r") as f:
+            data = json.load(f)
 
-        for s in species:
-            species_path = os.path.join(cls_path, s)
-
-            with open(species_path, "r") as f:
-                data = json.load(f)
-
-            for obj in data:
-                pretrain_context.append(obj["scientific_name"])
-                pretrain_target.append(obj["scientific_name"][1:] + "\n")
+        for obj in data:
+            pretrain_context.append(obj["scientific_name"])
+            pretrain_target.append(obj["scientific_name"][1:] + "\n")
 
     pretrain = transform_to_dataset(pretrain_context, pretrain_target, BUFFER_SIZE, BATCH_SIZE)
 
