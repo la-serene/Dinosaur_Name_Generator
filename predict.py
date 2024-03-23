@@ -20,7 +20,7 @@ def main():
 
     # Since there is no build() method, model needs calling before
     # importing weight
-    generator.predict("")
+    generator.predict("placeholder")
 
     generator = generator.load_weights(args.save_path)
     result = generator.predict(inputs)
