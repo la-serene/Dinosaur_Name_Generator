@@ -2,6 +2,7 @@ import argparse
 
 import tensorflow as tf
 
+from tqdm import tqdm
 from data_loading import *
 from model import Generator
 from utils import *
@@ -48,13 +49,13 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--training', type=str, default="./data/dino.txt")
     parser.add_argument('--pretrain', type=str, default="./data/pretrain")
-    parser.add_argument('--hidden_units', type=int, default=256)
-    parser.add_argument('--embedding_size', type=int, default=512)
-    parser.add_argument('--epochs', type=int, default=20)
-    parser.add_argument('--pretrain_epochs', type=int, default=20)
+    parser.add_argument('--hidden_units', type=int, default=128)
+    parser.add_argument('--embedding_size', type=int, default=256)
+    parser.add_argument('--epochs', type=int, default=40)
+    parser.add_argument('--pretrain_epochs', type=int, default=40)
     parser.add_argument('--batch_size', type=int, default=64)
     parser.add_argument('--learning_rate', type=float, default=0.001)
-    parser.add_argument('--save_path', type=str, default="./weights/model_v1.h5")
+    parser.add_argument('--save_path', type=str, default="./weights/model_v2.h5")
 
     return parser.parse_args()
 
