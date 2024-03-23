@@ -22,7 +22,7 @@ def main():
     # importing weight
     generator.predict("placeholder")
 
-    generator = generator.load_weights(args.save_path)
+    generator.load_weights(args.save_path)
     result = generator.predict(inputs)
 
     return result
