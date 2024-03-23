@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow.layers as layers
+import tensorflow.keras.layers as layers
 
 
 vocab = ['\n', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
