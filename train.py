@@ -1,8 +1,47 @@
 import argparse
+
 import tensorflow as tf
+
+from data_loading import *
 from model import Generator
 from utils import *
-from data_loading import *
+
+
+@tf.function
+def train_step(x, y,
+               model,
+               loss_fn,
+               optimizer):
+    with tf.GradientTape() as tape:
+        states = model(x, training=True)
+        logits = model.dense(states)
+        loss_value = loss_fn(y, logits)
+
+        grads = tape.gradient(loss_value, model.trainable_weights)
+        optimizer.apply_gradients(zip(grads, model.trainable_weights))
+
+        return loss_value
+
+
+def train(model,
+          dataset,
+          loss_fn,
+          optimizer,
+          epochs=40):
+    """
+    """
+
+    for epoch in range(epochs):
+        loss = 0
+        for step, (x, y) in enumerate(tqdm(dataset)):
+            loss_value = train_step(x, y,
+                                    model,
+                                    loss_fn,
+                                    optimizer)
+            loss += loss_value
+
+        if (epoch + 1) % 10 == 0:
+            print(f"Epoch: {epoch + 1}, loss = {loss}")
 
 
 def get_args():
