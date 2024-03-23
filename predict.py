@@ -24,6 +24,7 @@ def main():
 
     generator.load_weights(args.save_path)
     result = generator.predict(inputs)
+    print(result)
 
     return result
 
