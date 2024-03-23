@@ -1,12 +1,11 @@
 import numpy as np
 import tensorflow as tf
 import tensorflow.keras.layers as layers
-from tqdm import tqdm
 
 from utils import *
 
 
-@tf.keras.saving.register_keras_serializable()
+@tf.keras.utils.register_keras_serializable()
 class Generator(tf.keras.Model):
     def __init__(self,
                  vocab_size,
@@ -20,116 +19,84 @@ class Generator(tf.keras.Model):
         :param hidden_units: dimensionality of the output
         """
         super(Generator, self).__init__()
-        self.embedding = layers.Embedding(input_dim=vocab_size,
-                                          output_dim=embedding_size)
+        self.embedding_size = embedding_size
+        self.hidden_units = hidden_units
+        self.embedding = layers.Embedding(input_dim=vocab_size + 1,
+                                          output_dim=embedding_size,
+                                          mask_zero=True)
         self.lstm = layers.LSTM(units=hidden_units,
                                 return_sequences=True,
                                 return_state=True)
-        self.dense = layers.Dense(units=vocab_size,
-                                  activation="softmax")
+        self.dense = layers.Dense(units=vocab_size)
 
-    def __call__(self,
-                 inputs,
-                 **kwargs):
+    def call(self,
+             x,
+             training=False,
+             return_state=False,
+             **kwargs):
         """
-            Generate a new character.
+            Call the model
 
-        :param inputs: inputs
-        :return: model prediction
+        :param x: Input character/ string
+        :param training:
+        :param return_state:
         """
-        embed_inputs = self.embedding(inputs)
-        mask = tf.not_equal(inputs, 0)
-        states, h, c = self.lstm(embed_inputs,
-                                 mask=mask)
-        outputs = self.dense(states)
+        x = self.embedding(x)
+        states, h, c = self.lstm(x, training=training,
+                                 **kwargs)
+        if return_state:
+            return states, h, c
+        else:
+            return states
 
-        return outputs
-
-    def train(self,
-              dataset,
-              loss_fn,
-              optimizer,
-              epochs=5,
-              val_set=None):
-        """
-            Train the model.
-
-        :param dataset: training set
-        :param loss_fn: loss function
-        :param optimizer: optimizer
-        :param epochs: number of epochs
-        :param val_set: validation set
-        """
-        for epoch in range(epochs):
-            loss_sum = 0
-            val_loss_sum = 0
-
-            for step, (context, target) in enumerate(tqdm(dataset)):
-                tokenized_context = ids_from_chars(context).to_tensor()
-                tokenized_target = ids_from_chars(target).to_tensor()
-
-                with tf.GradientTape() as tape:
-                    outputs = self(tokenized_context)
-                    loss = loss_fn(tokenized_target, outputs)
-                    loss_sum += loss
-
-                gradients = tape.gradient(loss, self.trainable_weights)
-                optimizer.apply_gradients(zip(gradients, self.trainable_weights))
-
-            if val_set is not None:
-                for step, (context, target) in enumerate(tqdm(val_set)):
-                    tokenized_context = ids_from_chars(context).to_tensor()
-                    tokenized_target = ids_from_chars(target).to_tensor()
-
-                    outputs = self(tokenized_context)
-                    loss = loss_fn(tokenized_target, outputs)
-                    val_loss_sum += loss
-
-                print(f"Epoch: {epoch + 1}, loss = {loss_sum}, val_loss = {val_loss_sum}")
-            else:
-                print(f"Epoch: {epoch + 1}, loss = {loss_sum}")
+    def get_initial_state(self, batch_size=1):
+        zeros_tensor = tf.ones((batch_size, self.hidden_units))
+        return self.lstm.get_initial_state(zeros_tensor)
 
     def predict(self,
-                next_char):
+                next_char,
+                maxlen=40):
         """
-            Generate a name
+            Generate a name from a given character/ string.
+        :param next_char: input
+        :param maxlen: maximum length of the output
+        :return: generated name
         """
-        result = [next_char]
+        def sampling(states):
+            logits = self.dense(states)
+            probs = tf.nn.softmax(logits)
+            dist = probs.numpy().squeeze()
+            idx = np.random.choice(range(len(vocab)), p=dist)
 
-        tokenized_char = ids_from_chars(next_char)
-        while tokenized_char.ndim != 2:
-            tokenized_char = tf.expand_dims(tokenized_char, axis=-1)
+            return idx
 
-        embed_char = self.embedding(tokenized_char)
-        states, h, c = self.lstm(embed_char)
+        next_char = list(next_char)
+        result = next_char.copy()
+        h, c = self.get_initial_state()
 
-        outputs = self.dense(states)
-        next_idx = tf.argmax(outputs, axis=-1)
-        next_char = chars_from_ids(next_idx)
-
-        for ith in range(30):
+        for i in range(maxlen):
             if next_char != "\n":
-                tokenized_char = ids_from_chars(next_char)
+                next_char = tokenizer(next_char)
 
-                while tokenized_char.ndim != 2:
-                    tokenized_char = tf.expand_dims(tokenized_char, axis=-1)
+                while np.ndim(next_char) != 2:
+                    next_char = tf.expand_dims(next_char, axis=0)
 
-                embed_char = self.embedding(tokenized_char)
-                states, h, c = self.lstm(embed_char, initial_state=[h, c])
+                states, h, c = self(next_char,
+                                    return_state=True,
+                                    initial_state=[h, c])
 
-                outputs = self.dense(states)
-
-                dist = outputs.numpy().squeeze()
-                next_idx = np.random.choice(range(len(vocab)), p=dist)
-
-                # next_idx = tf.argmax(outputs, axis=-1)
+                # Only take the last state from inner LSTM
+                next_idx = sampling(states[:, -1])
                 next_char = chars_from_ids(next_idx)
 
                 if next_char == "[UNK]":
                     continue
 
-                result.append(next_char)
+                # Retrieve value from tensor and decode from byte to ASCII
+                result.append(next_char.numpy().decode('ascii'))
             else:
                 break
+
+        result = "".join(result)
 
         return result
