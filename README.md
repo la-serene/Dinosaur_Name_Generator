@@ -30,8 +30,8 @@ Here is a description on the command-line arguments:
 ```
 --training: Path to the training data file. Default: ./data/dino.txt
 --pretrain: Path to the pretraining data directory. Default: ./data/pretrain
---hidden_units: Number of hidden units in the model. Default: 128
 --embedding_size: Size of the embedding layer. Default: 256
+--hidden_units: Number of hidden units in the model. Default: 128
 --epochs: Number of epochs for training. Default: 20
 --pretrain_epochs: Number of epochs for pretraining. Default: 20
 --batch_size: Batch size for training. Default: 64
@@ -51,5 +51,7 @@ Here is a description on the command-line arguments:
 
 ```
 --start: starting of the name. Required.
+--embedding_size: Size of the embedding layer. Default: 256
+--hidden_units: Number of hidden units in the model. Default: 128
 --save_path: Path to save the trained model. Default: ./weight/model_v2.h5
 ```
