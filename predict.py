@@ -16,7 +16,7 @@ def main():
 
     vocab_size = len(vocab)
     inputs = args.start
-    generator = Generator(vocab_size, 128, 256)
+    generator = Generator(vocab_size, 256, 128)
 
     # Since there is no build() method, model needs calling before
     # importing weight
