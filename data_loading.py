@@ -2,6 +2,8 @@ import os
 import json
 import tensorflow as tf
 
+from data_processing import *
+
 
 def get_pretrain(data_path, BUFFER_SIZE=1024, BATCH_SIZE=64):
     files = os.listdir(data_path)
@@ -18,6 +20,8 @@ def get_pretrain(data_path, BUFFER_SIZE=1024, BATCH_SIZE=64):
             pretrain_context.append(obj["scientific_name"])
             pretrain_target.append(obj["scientific_name"][1:] + "\n")
 
+    pretrain_context, pretrain_target = tokenize_and_padding(pretrain_context, pretrain_target)
+
     pretrain = transform_to_dataset(pretrain_context, pretrain_target, BUFFER_SIZE, BATCH_SIZE)
 
     return pretrain
@@ -33,6 +37,8 @@ def get_training(file_path, BUFFER_SIZE=1024, BATCH_SIZE=64):
     for name in raw.split("\n"):
         context.append(name)
         target.append(name[1:] + "\n")
+
+    context, target = tokenize_and_padding(context, target)
 
     dataset = transform_to_dataset(context, target, BUFFER_SIZE, BATCH_SIZE)
 
