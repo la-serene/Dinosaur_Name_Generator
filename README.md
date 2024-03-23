@@ -36,20 +36,20 @@ Here is a description on the command-line arguments:
 --pretrain_epochs: Number of epochs for pretraining. Default: 20
 --batch_size: Batch size for training. Default: 64
 --learning_rate: Learning rate for the optimizer. Default: 0.001
---save_path: Path to save the trained model. Default: ./weight/model_v1.keras
+--save_path: Path to save the trained model. Default: ./weight/model_v2.h5
 ```
 
 ### Prediction
 
-The command below requires an argument `inputs` to fix the starting of the name. `inputs` can be a character or a string.
+The command below requires an argument `start` as the starting of the name. `start` can be a character or a string.
 
 ```
-python predict.py inputs ___
+python predict.py --start ___
 ```
 
 Here is a description on the command-line arguments:
 
 ```
-inputs: starting of the name. Required.
---save_path: Path to save the trained model. Default: ./weight/model_v1.keras
+--start: starting of the name. Required.
+--save_path: Path to save the trained model. Default: ./weight/model_v2.h5
 ```
