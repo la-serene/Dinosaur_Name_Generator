@@ -1,5 +1,7 @@
 # Dinosaur Name Generator
 
+[![Goolge Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qjPV4NrwVqKPJxhlYQn4RGiaA40Z2AS7?usp=sharing)
+
 ## Introduction
 
 A dinosaurs name generator project implemented in Tensorflow.
